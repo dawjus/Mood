@@ -4,7 +4,7 @@
 
 - Joanna Blaszka 
 - Kamil Dutkiewicz 
-- Paulina Jewulska 
+- Paulina Jewulska (team leader)
 - Dawid Justyna 
 - Riza Yarar 
 
