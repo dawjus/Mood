@@ -9,4 +9,4 @@ class ValidatorResultFailed (ValidatorResult):
         return False
 
     def get_error(self):
-        return self.error
+        return Exception(self.error)
