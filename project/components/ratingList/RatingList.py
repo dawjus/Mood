@@ -56,6 +56,6 @@ def _method_get(request):
                                                 'waiting_for_rated_list': waiting_for_rated_list,
                                                 'waiting_for_rated_list_empty': len(waiting_for_rated_list) == 0})
 
-def _join_movie_name_to_rainting(movie_rating):
+
 
 
