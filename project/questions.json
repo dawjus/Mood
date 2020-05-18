@@ -1,0 +1,42 @@
+[
+    {
+        "model": "acounts.Question",
+        "pk": 1,
+        "fields": {
+            "question_text": "How are you?",
+            "question_category": "mood"
+        }
+    },
+    {
+        "model": "acounts.Question",
+        "pk": 2,
+        "fields": {
+            "question_text": "Which genre of movies to do prefer?",
+            "question_category": "genre"
+        }
+    },
+    {
+        "model": "acounts.Question",
+        "pk": 3,
+        "fields": {
+            "question_text": "Would you like that this movie will make you reflect, wonder?",
+            "question_category": "will_lead_to_reflect"
+        }
+    },
+    {
+        "model": "acounts.Question",
+        "pk": 4,
+        "fields": {
+            "question_text": "This movie will lead you to think about..?",
+            "question_category": "lead_to_think"
+        }
+    },
+    {
+        "model": "acounts.Question",
+        "pk": 5,
+        "fields": {
+            "question_text": "What kind of movie?",
+            "question_category": "kind"
+        }
+    }
+]

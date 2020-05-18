@@ -1,0 +1,245 @@
+[
+    {
+        "model": "acounts.Choice",
+        "pk": 1,
+        "fields": {
+            "question": 1,
+            "choice_text": "great",
+            "coefficient": 1
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 2,
+        "fields": {
+            "question": 1,
+            "choice_text": "okey",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 3,
+        "fields": {
+            "question": 1,
+            "choice_text": "so-so",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 4,
+        "fields": {
+            "question": 1,
+            "choice_text": "bad",
+            "coefficient": 1
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 5,
+        "fields": {
+            "question": 1,
+            "choice_text": "awful",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 6,
+        "fields": {
+            "question": 2,
+            "choice_text": "horror",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 7,
+        "fields": {
+            "question": 2,
+            "choice_text": "comedy",
+            "coefficient": 0.1
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 8,
+        "fields": {
+            "question": 2,
+            "choice_text": "action",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 9,
+        "fields": {
+            "question": 2,
+            "choice_text": "crime",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 10,
+        "fields": {
+            "question": 2,
+            "choice_text": "fantasy",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 11,
+        "fields": {
+            "question": 2,
+            "choice_text": "historical",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 12,
+        "fields": {
+            "question": 2,
+            "choice_text": "philosophical",
+            "coefficient": 0.2
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 13,
+        "fields": {
+            "question": 2,
+            "choice_text": "romance",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 14,
+        "fields": {
+            "question": 2,
+            "choice_text": "science fiction",
+            "coefficient": 0.3
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 15,
+        "fields": {
+            "question": 2,
+            "choice_text": "thriller",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 16,
+        "fields": {
+            "question": 2,
+            "choice_text": "western",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 17,
+        "fields": {
+            "question": 2,
+            "choice_text": "animation",
+            "coefficient": 0.6
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 18,
+        "fields": {
+            "question": 3,
+            "choice_text": "yes",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 19,
+        "fields": {
+            "question": 3,
+            "choice_text": "no",
+            "coefficient": 0.2
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 20,
+        "fields": {
+            "question": 3,
+            "choice_text": "maybe",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 21,
+        "fields": {
+            "question": 4,
+            "choice_text": "art",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 22,
+        "fields": {
+            "question": 4,
+            "choice_text": "history",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 23,
+        "fields": {
+            "question": 4,
+            "choice_text": "society",
+            "coefficient": 0.4
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 24,
+        "fields": {
+            "question": 5,
+            "choice_text": "teen movie",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 25,
+        "fields": {
+            "question": 5,
+            "choice_text": "good action movie",
+            "coefficient": 0.8
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 26,
+        "fields": {
+            "question": 5,
+            "choice_text": "romantic comendy",
+            "coefficient": 0.4
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 27,
+        "fields": {
+            "question": 5,
+            "choice_text": "funny movie",
+            "coefficient": 0.1
+        }
+    }
+]
