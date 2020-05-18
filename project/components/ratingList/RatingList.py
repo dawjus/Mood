@@ -5,7 +5,7 @@ from django.views.decorators.csrf import csrf_exempt
 
 from modules.movierating.public.MovieWithRating import MovieWithRating
 from project.components.ratingList.MovieRatingMapper import from_string_to_enum
-from project.services import MOVIE_RATING_SERVICE
+from project.services import MOVIE_RATING_SERVICE, MOVIE_STORAGE_SERVICE
 
 from modules.movierating.public.MovieRating import MovieRating
 
@@ -55,4 +55,7 @@ def _method_get(request):
                                                 'rated_movie_list_empty': len(rated_movie_list) == 0,
                                                 'waiting_for_rated_list': waiting_for_rated_list,
                                                 'waiting_for_rated_list_empty': len(waiting_for_rated_list) == 0})
+
+def _join_movie_name_to_rainting(movie_rating):
+
 

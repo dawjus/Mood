@@ -14,8 +14,9 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-        {% if user.is_authenticated %}
-            <p><a href="{% url 'rating_list' %}">My movie rating list</a></p>
-            <p><a href="{% url 'movie_list' %}">Movie database</a></p>
-        {% endif %}
+    <h1>All movies is our database:</h1>
+    {% for movie in movie_collection %}
+        <div>{{ movie.get_name }}</div>
+    {% endfor %}
+
 {% endblock %}
