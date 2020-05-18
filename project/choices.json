@@ -1,0 +1,226 @@
+[
+    {
+        "model": "acounts.Choice",
+        "pk": 1,
+        "fields": {
+            "question": 1,
+            "choice_text": "great"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 2,
+        "fields": {
+            "question": 1,
+            "choice_text": "okey"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 3,
+        "fields": {
+            "question": 1,
+            "choice_text": "so-so"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 4,
+        "fields": {
+            "question": 1,
+            "choice_text": "bad"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 5,
+        "fields": {
+            "question": 1,
+            "choice_text": "awful"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 5,
+        "fields": {
+            "question": 1,
+            "choice_text": "awful"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 6,
+        "fields": {
+            "question": 2,
+            "choice_text": "horror"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 7,
+        "fields": {
+            "question": 2,
+            "choice_text": "comedy "
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 8,
+        "fields": {
+            "question": 2,
+            "choice_text": "action"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 9,
+        "fields": {
+            "question": 2,
+            "choice_text": "crime"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 10,
+        "fields": {
+            "question": 2,
+            "choice_text": "fantasy"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 11,
+        "fields": {
+            "question": 2,
+            "choice_text": "historical"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 12,
+        "fields": {
+            "question": 2,
+            "choice_text": "philosophical"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 13,
+        "fields": {
+            "question": 2,
+            "choice_text": "romance"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 14,
+        "fields": {
+            "question": 2,
+            "choice_text": "science fiction"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 15,
+        "fields": {
+            "question": 2,
+            "choice_text": "thriller"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 16,
+        "fields": {
+            "question": 2,
+            "choice_text": "western"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 17,
+        "fields": {
+            "question": 2,
+            "choice_text": "animation"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 18,
+        "fields": {
+            "question": 3,
+            "choice_text": "yes"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 19,
+        "fields": {
+            "question": 3,
+            "choice_text": "no"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 20,
+        "fields": {
+            "question": 3,
+            "choice_text": "maybe"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 21,
+        "fields": {
+            "question": 4,
+            "choice_text": "art"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 22,
+        "fields": {
+            "question": 4,
+            "choice_text": "history"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 23,
+        "fields": {
+            "question": 4,
+            "choice_text": "society"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 24,
+        "fields": {
+            "question": 5,
+            "choice_text": "teen movie"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 25,
+        "fields": {
+            "question": 5,
+            "choice_text": "good action movie"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 26,
+        "fields": {
+            "question": 5,
+            "choice_text": "romantic comendy"
+        }
+    },
+    {
+        "model": "acounts.Choice",
+        "pk": 27,
+        "fields": {
+            "question": 5,
+            "choice_text": "funny movie"
+        }
+    }
+]
