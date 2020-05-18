@@ -14,12 +14,5 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-{% if user.is_authenticated %}
-  Hi {{ user.username }}!
-  <p><a href="{% url 'logout' %}">Logout</a></p>
-{% else %}
-  <p>Welcome to MOOD</p>
-    <a href="{% url 'signup' %}">Sign up</a>
-  <a href="{% url 'login' %}">Login</a>
-{% endif %}
+        <p><a href="{% url 'rating_list' %}">My movie rating list</a></p>
 {% endblock %}

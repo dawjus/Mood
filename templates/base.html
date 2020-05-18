@@ -15,6 +15,16 @@
   <title>{% block title %}Django Auth Tutorial{% endblock %}</title>
 </head>
 <body>
+<header>
+    {% if user.is_authenticated %}
+      Hi {{ user.username }}!
+      <p><a href="{% url 'logout' %}">Logout</a></p>
+    {% else %}
+      <p>Welcome to MOOD</p>
+        <a href="{% url 'signup' %}">Sign up</a>
+      <a href="{% url 'login' %}">Login</a>
+    {% endif %}
+</header>
   <main>
     {% block content %}
     {% endblock %}
