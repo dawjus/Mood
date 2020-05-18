@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,15 +10,26 @@
 </body>
 </html>
 
+=======
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1
 {% extends 'base.html' %}
 
 {% block title %}Sign Up{% endblock %}
 
 {% block content %}
+<<<<<<< HEAD
   <h2>Sign up</h2>
   <form method="post">
     {% csrf_token %}
     {{ form.as_p }}
     <button type="submit">Sign up</button>
   </form>
+=======
+<h2>Sign up</h2>
+<form method="post">
+  {% csrf_token %}
+  {{ form.as_p }}
+  <button type="submit">Sign up</button>
+</form>
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1
 {% endblock %}

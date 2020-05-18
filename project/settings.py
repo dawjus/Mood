@@ -13,11 +13,14 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
+<<<<<<< HEAD
 from modules.movierating.public.repositories.MovieRatingRepositoryMemoryStorage import MovieRatingRepositoryMemoryStorage
 from modules.movierating.public.MovieRatingService import MovieRatingService
 from modules.moviestorage.public.repositories.MovieRepositoryMemoryStorage import MovieRepositoryMemoryStorage
 from modules.moviestorage.public.MovieStorageService import MovieStorageService
 
+=======
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
@@ -42,7 +45,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'project.components.accounts.apps.AccountsConfig',
+=======
+    'acounts.apps.AccountsConfig',
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1
 ]
 
 MIDDLEWARE = [
@@ -112,7 +119,11 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
+<<<<<<< HEAD
 TIME_ZONE = 'EUROPE/WARSAW'
+=======
+TIME_ZONE = 'UTC'
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1
 
 USE_I18N = True
 
@@ -126,4 +137,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 LOGIN_REDIRECT_URL = 'home'
+<<<<<<< HEAD
 LOGOUT_REDIRECT_URL = 'home'
+=======
+LOGOUT_REDIRECT_URL = 'home'
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1

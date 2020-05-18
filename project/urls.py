@@ -16,6 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from django.views.generic.base import TemplateView
+<<<<<<< HEAD
 from project.components.ratingList.RatingList import rating_list
 
 urlpatterns = [
@@ -24,5 +25,19 @@ urlpatterns = [
     path('accounts/', include('django.contrib.auth.urls')),
     path('', TemplateView.as_view(template_name='home.html'), name='home'),
     path('accounts/rating-list/', rating_list, name='rating_list')
+=======
+from acounts import views
+
+
+urlpatterns = [
+    path('accounts/', include('acounts.urls')),
+    path('accounts/', include('django.contrib.auth.urls')),
+    path('', TemplateView.as_view(template_name='home.html'), name='home'),
+    path('questions/', views.get_all_questions,
+         name="questions"),
+    path('results/', views.get_results,
+         name="results"),
+    path('admin/', admin.site.urls),
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1
 
 ]

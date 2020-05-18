@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,10 +10,26 @@
 </body>
 </html>
 
+=======
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1
 {% extends 'base.html' %}
 
 {% block title %}Home{% endblock %}
 
 {% block content %}
+<<<<<<< HEAD
         <p><a href="{% url 'rating_list' %}">My movie rating list</a></p>
 {% endblock %}
+=======
+{% if user.is_authenticated %}
+Hi {{ user.username }}!
+<p><a href="{% url 'logout' %}">Logout</a></p>
+{% else %}
+<p>Welcome to MOOD</p>
+<a href="{% url 'signup' %}">Sign up</a>
+<a href="{% url 'login' %}">Login</a>
+<br />
+<a href="{% url 'questions' %}">Use app without login</a>
+{% endif %}
+{% endblock %}
+>>>>>>> 3beede4cb98aa64b5d663c867d8e6c0eb7333fa1
