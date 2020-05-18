@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block title %}QUESTIONS{% endblock %}
+
+{% block content %}
+<h1>Questions</h1>
+{% if questions %}
+{% for question in questions %}
+<div>
+    <p>{{ question.fields.question_text }}</p>
+    <select id="{{ question.fields.question_category }}" name="{{ question.fields.question_category }}"
+        form="{{ question.fields.question_category }}">
+        {% for choice in choices.0 %}
+        <option value="{{choice.fields.choice_text}}">{{choice.fields.choice_text}}</option>
+        {% endfor %}
+    </select>
+</div>
+{% endfor %}
+<br />
+<br />
+<form action="{% url 'results' %}" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Find the movie">
+</form>
+{% else %}
+<p>Something went wrong</p>
+{% endif %}
+{% endblock %}
