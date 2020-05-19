@@ -16,6 +16,9 @@
 </head>
 <body>
 <header>
+    <div>
+        <a href="{% url 'home' %}">Home page</a>
+    </div>
     {% if user.is_authenticated %}
       Hi {{ user.username }}!
       <p><a href="{% url 'logout' %}">Logout</a></p>

@@ -16,7 +16,7 @@ class MovieRepositoryMemoryStorage(MovieRepository):
     def add(self, movie_details):
         movie_details_saving = movie_details.set_id(self._id_cont)
         self._id_cont += 1
-        self._storage.append(movie_details)
+        self._storage.append(movie_details_saving)
         return movie_details_saving
 
     def update(self, movie_id, movie_details):

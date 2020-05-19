@@ -4,12 +4,11 @@ from django.http import HttpResponseNotAllowed, HttpResponseForbidden
 from django.views.decorators.csrf import csrf_exempt
 
 from modules.movierating.public.MovieWithRating import MovieWithRating
-from project.components.ratingList.MovieRatingMapper import from_string_to_enum
+from project.components.ratingList.MovieNameAndRating import MovieNameAndRating
+from project.components.ratingList.MovieRatingMapper import from_string_to_enum, from_enum_to_string
 from project.services import MOVIE_RATING_SERVICE, MOVIE_STORAGE_SERVICE
 
 from modules.movierating.public.MovieRating import MovieRating
-
-MOVIE_RATING_SERVICE.add_movie_to_rating(5, 1)
 
 @csrf_exempt
 def rating_list(request):
@@ -45,9 +44,9 @@ def _method_get(request):
 
     for rated_movie in MOVIE_RATING_SERVICE.get_all_of_user(user_id):
         if rated_movie.get_rating() == MovieRating.WAITING_FOR_RATING:
-            waiting_for_rated_list.append(rated_movie)
+            waiting_for_rated_list.append(_map_rated_movie_to_movie_name_and_user_rating(rated_movie))
         else:
-            rated_movie_list.append(rated_movie)
+            rated_movie_list.append(_map_rated_movie_to_movie_name_and_user_rating(rated_movie))
 
     print(len(rated_movie_list))
     print(len(waiting_for_rated_list))
@@ -56,6 +55,12 @@ def _method_get(request):
                                                 'waiting_for_rated_list': waiting_for_rated_list,
                                                 'waiting_for_rated_list_empty': len(waiting_for_rated_list) == 0})
 
-def _join_movie_name_to_rainting(movie_rating):
+
+def _map_rated_movie_to_movie_name_and_user_rating(rated_movie):
+    rated_movie_details = MOVIE_STORAGE_SERVICE.get_by_id(rated_movie.get_movie_id())
+    movie_rating_str = from_enum_to_string(rated_movie.get_rating())
+    if rated_movie_details:
+        return MovieNameAndRating(rated_movie.get_movie_id(), rated_movie_details.get_name(), movie_rating_str)
+    return MovieNameAndRating(rated_movie.get_movie_id(), "Unknow", movie_rating_str)
 
 

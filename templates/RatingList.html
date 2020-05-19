@@ -20,9 +20,9 @@
             You have not movies to rating...
         {% else %}
             {% for movie_to_rating in waiting_for_rated_list %}
-                {{ movie_to_rating.get_movie_id }}
+                {{ movie_to_rating.movie_name }}
                 <form method="post">
-                <input type="number" name="movie_id" value="{{ movie_to_rating.get_movie_id }}" hidden>
+                <input type="number" name="movie_id" value="{{ movie_to_rating.movie_id }}" hidden>
                     <select name="movie_rating">
                         <option value="1">Like</option>
                         <option value="0">Neutral</option>
@@ -39,12 +39,19 @@
         {% if rated_movie_list_empty %}
             You have not rated movies...
         {% else %}
-            {% for rated_movie in rated_movie_list %}
-                <div>
-                    {{ rated_movie.get_movie_id }}
-                    {{ rated_movie.get_rating }}
-                </div>
-            {% endfor %}
+            <table>
+                <tr>
+                    <th>Movie name</th>
+                    <th>Your rating</th>
+                </tr>
+                {% for rated_movie in rated_movie_list %}
+                    <tr>
+                        <td>{{ rated_movie.movie_name }}</td>
+                        <td>{{ rated_movie.rating }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+
         {% endif %}
     </div>
 
