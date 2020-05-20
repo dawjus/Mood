@@ -1,21 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
-
 {% extends 'base.html' %}
 
 {% block title %}Home{% endblock %}
 
 {% block content %}
-        {% if user.is_authenticated %}
-            <p><a href="{% url 'rating_list' %}">My movie rating list</a></p>
-            <p><a href="{% url 'movie_list' %}">Movie database</a></p>
-        {% endif %}
+{% if user.is_authenticated %}
+<p><a href="{% url 'rating_list' %}">My movie rating list</a></p>
+<p><a href="{% url 'movie_list' %}">Movie database</a></p>
+{% endif %}
 {% endblock %}

@@ -16,16 +16,19 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from django.views.generic.base import TemplateView
+from acounts import views
+
 
 from project.components.movieList.MovieList import movie_list
 from project.components.ratingList.RatingList import rating_list
 
 urlpatterns = [
-    #path('admin/', admin.site.urls),
     path('accounts/', include('project.components.accounts.urls')),
     path('accounts/', include('django.contrib.auth.urls')),
     path('', TemplateView.as_view(template_name='home.html'), name='home'),
     path('accounts/rating-list/', rating_list, name='rating_list'),
-    path('movies', movie_list, name='movie_list')
-
+    path('movies', movie_list, name='movie_list'),
+    path('questions/', views.get_all_questions, name="questions"),
+    path('results/', views.get_results, name="results"),
+    path('admin/', admin.site.urls),
 ]

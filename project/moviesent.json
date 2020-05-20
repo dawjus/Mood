@@ -1,0 +1,6002 @@
+[
+  {
+    "title": "Jurassic World",
+    "ratings": 6.5,
+    "genres": "Action|Adventure|Science Fiction|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "ratings": 7.1,
+    "genres": "Action|Adventure|Science Fiction|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Insurgent",
+    "ratings": 6.3,
+    "genres": "Adventure|Science Fiction|Thriller",
+    "sentiment": 0.26
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "ratings": 7.5,
+    "genres": "Action|Adventure|Science Fiction|Fantasy",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Furious 7",
+    "ratings": 7.3,
+    "genres": "Action|Crime|Thriller",
+    "sentiment": 0.24
+  },
+  {
+    "title": "The Revenant",
+    "ratings": 7.2,
+    "genres": "Western|Drama|Adventure|Thriller",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Terminator Genisys",
+    "ratings": 5.8,
+    "genres": "Science Fiction|Action|Thriller|Adventure",
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Martian",
+    "ratings": 7.6,
+    "genres": "Drama|Adventure|Science Fiction",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Minions",
+    "ratings": 6.5,
+    "genres": "Family|Animation|Adventure|Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Inside Out",
+    "ratings": 8,
+    "genres": "Comedy|Animation|Family",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Spectre",
+    "ratings": 6.2,
+    "genres": "Action|Adventure|Crime",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Jupiter Ascending",
+    "ratings": 5.2,
+    "genres": "Science Fiction|Fantasy|Action|Adventure",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Ex Machina",
+    "ratings": 7.6,
+    "genres": "Drama|Science Fiction",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Pixels",
+    "ratings": 5.8,
+    "genres": "Action|Comedy|Science Fiction",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "ratings": 7.4,
+    "genres": "Action|Adventure|Science Fiction",
+    "sentiment": 0.34
+  },
+  {
+    "title": "The Hateful Eight",
+    "ratings": 7.4,
+    "genres": "Crime|Drama|Mystery|Western",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Taken 3",
+    "ratings": 6.1,
+    "genres": "Crime|Action|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Ant-Man",
+    "ratings": 7,
+    "genres": "Science Fiction|Action|Adventure",
+    "sentiment": 0.95
+  },
+  {
+    "title": "Cinderella",
+    "ratings": 6.8,
+    "genres": "Romance|Fantasy|Family|Drama",
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "ratings": 6.5,
+    "genres": "War|Adventure|Science Fiction",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Tomorrowland",
+    "ratings": 6.2,
+    "genres": "Action|Family|Science Fiction|Adventure|Mystery",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Southpaw",
+    "ratings": 7.3,
+    "genres": "Action|Drama",
+    "sentiment": 0.98
+  },
+  {
+    "title": "San Andreas",
+    "ratings": 6.1,
+    "genres": "Action|Drama|Thriller",
+    "sentiment": 0.53
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "ratings": 5.3,
+    "genres": "Drama|Romance",
+    "sentiment": 0.88
+  },
+  {
+    "title": "The Big Short",
+    "ratings": 7.3,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Mission: Impossible - Rogue Nation",
+    "ratings": 7.1,
+    "genres": "Action",
+    "sentiment": 0.35
+  },
+  {
+    "title": "Ted 2",
+    "ratings": 6.3,
+    "genres": "Comedy",
+    "sentiment": 0.54
+  },
+  {
+    "title": "Kingsman: The Secret Service",
+    "ratings": 7.6,
+    "genres": "Crime|Comedy|Action|Adventure",
+    "sentiment": 0.41
+  },
+  {
+    "title": "Spotlight",
+    "ratings": 7.8,
+    "genres": "Drama|Thriller|History",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Maze Runner: The Scorch Trials",
+    "ratings": 6.4,
+    "genres": "Action|Science Fiction|Thriller",
+    "sentiment": 0.87
+  },
+  {
+    "title": "Mr. Holmes",
+    "ratings": 6.4,
+    "genres": "Mystery|Drama",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Chappie",
+    "ratings": 6.6,
+    "genres": "Crime|Action|Science Fiction",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Pitch Perfect 2",
+    "ratings": 6.8,
+    "genres": "Comedy|Music",
+    "sentiment": 0.99
+  },
+  {
+    "title": "Bridge of Spies",
+    "ratings": 7.1,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.81
+  },
+  {
+    "title": "Goosebumps",
+    "ratings": 6.2,
+    "genres": "Adventure|Horror|Comedy",
+    "sentiment": 0.45
+  },
+  {
+    "title": "Room",
+    "ratings": 8,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Solace",
+    "ratings": 6.2,
+    "genres": "Crime|Drama|Mystery",
+    "sentiment": 0.1
+  },
+  {
+    "title": "The Good Dinosaur",
+    "ratings": 6.6,
+    "genres": "Adventure|Animation|Comedy|Family|Fantasy",
+    "sentiment": 0.75
+  },
+  {
+    "title": "Run All Night",
+    "ratings": 6.3,
+    "genres": "Action|Crime|Drama|Mystery|Thriller",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Brooklyn",
+    "ratings": 7.3,
+    "genres": "Drama|Romance",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Straight Outta Compton",
+    "ratings": 7.7,
+    "genres": "Drama|Music",
+    "sentiment": 0.09
+  },
+  {
+    "title": "The Last Witch Hunter",
+    "ratings": 5.6,
+    "genres": "Fantasy|Action|Adventure",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Steve Jobs",
+    "ratings": 6.9,
+    "genres": "History|Drama",
+    "sentiment": 0.79
+  },
+  {
+    "title": "The Man from U.N.C.L.E.",
+    "ratings": 7,
+    "genres": "Comedy|Action|Adventure",
+    "sentiment": 0.01
+  },
+  {
+    "title": "The Age of Adaline",
+    "ratings": 7.3,
+    "genres": "Fantasy|Drama|Romance",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Hardcore Henry",
+    "ratings": 5.9,
+    "genres": "Action|Adventure|Science Fiction",
+    "sentiment": 0.78
+  },
+  {
+    "title": "Home",
+    "ratings": 6.9,
+    "genres": "Fantasy|Comedy|Animation|Science Fiction|Family",
+    "sentiment": 0.25
+  },
+  {
+    "title": "Paper Towns",
+    "ratings": 6.2,
+    "genres": "Drama|Mystery|Romance",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Wild Card",
+    "ratings": 5.3,
+    "genres": "Thriller|Crime|Drama",
+    "sentiment": 0.17
+  },
+  {
+    "title": "The Lobster",
+    "ratings": 6.6,
+    "genres": "Thriller|Comedy|Drama|Romance|Science Fiction",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Carol",
+    "ratings": 7.1,
+    "genres": "Romance|Drama",
+    "sentiment": 0.84
+  },
+  {
+    "title": "The Intern",
+    "ratings": 7.1,
+    "genres": "Comedy",
+    "sentiment": 0.71
+  },
+  {
+    "title": "Everest",
+    "ratings": 6.7,
+    "genres": "Adventure|Drama",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Joy",
+    "ratings": 6.4,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.62
+  },
+  {
+    "title": "Point Break",
+    "ratings": 5.5,
+    "genres": "Action|Crime|Thriller",
+    "sentiment": 0.61
+  },
+  {
+    "title": "Burnt",
+    "ratings": 6.3,
+    "genres": "Drama",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Self/less",
+    "ratings": 6.2,
+    "genres": "Science Fiction|Mystery|Thriller",
+    "sentiment": 0.3
+  },
+  {
+    "title": "Mortdecai",
+    "ratings": 5.3,
+    "genres": "Comedy|Adventure",
+    "sentiment": 0.4
+  },
+  {
+    "title": "The Danish Girl",
+    "ratings": 7.3,
+    "genres": "Drama",
+    "sentiment": 0.93
+  },
+  {
+    "title": "Blackhat",
+    "ratings": 5,
+    "genres": "Mystery|Crime|Action|Thriller|Drama",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Sicario",
+    "ratings": 7.1,
+    "genres": "Action|Crime|Drama|Mystery|Thriller",
+    "sentiment": 0.86
+  },
+  {
+    "title": "Fantastic Four",
+    "ratings": 4.4,
+    "genres": "Action|Adventure|Science Fiction",
+    "sentiment": 0.39
+  },
+  {
+    "title": "The Witch",
+    "ratings": 5.8,
+    "genres": "Mystery|Horror",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Spy",
+    "ratings": 6.9,
+    "genres": "Action|Comedy|Crime",
+    "sentiment": 0.19
+  },
+  {
+    "title": "Focus",
+    "ratings": 6.7,
+    "genres": "Romance|Comedy|Crime|Drama",
+    "sentiment": 0.85
+  },
+  {
+    "title": "Hitman: Agent 47",
+    "ratings": 5.5,
+    "genres": "Action|Crime|Thriller",
+    "sentiment": 0.7
+  },
+  {
+    "title": "In the Heart of the Sea",
+    "ratings": 6.4,
+    "genres": "Thriller|Drama|Adventure|Action|History",
+    "sentiment": 0.35
+  },
+  {
+    "title": "Survivor",
+    "ratings": 5.4,
+    "genres": "Crime|Thriller|Action",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Creed",
+    "ratings": 7.3,
+    "genres": "Drama",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Trainwreck",
+    "ratings": 6.1,
+    "genres": "Comedy",
+    "sentiment": 0.51
+  },
+  {
+    "title": "Eye in the Sky",
+    "ratings": 7.2,
+    "genres": "Drama|Thriller|War",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Legend",
+    "ratings": 6.7,
+    "genres": "Crime|Thriller",
+    "sentiment": 0.21
+  },
+  {
+    "title": "Beyond the Reach",
+    "ratings": 5.5,
+    "genres": "Thriller",
+    "sentiment": 0.41
+  },
+  {
+    "title": "Pan",
+    "ratings": 5.9,
+    "genres": "Adventure|Family|Fantasy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Mythica: The Darkspore",
+    "ratings": 5.1,
+    "genres": "Action|Adventure|Fantasy",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Me and Earl and the Dying Girl",
+    "ratings": 7.7,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.69
+  },
+  {
+    "title": "The Peanuts Movie",
+    "ratings": 6.4,
+    "genres": "Adventure|Animation|Comedy|Family",
+    "sentiment": 0.93
+  },
+  {
+    "title": "Concussion",
+    "ratings": 6.9,
+    "genres": "Drama",
+    "sentiment": 0.85
+  },
+  {
+    "title": "The Night Before",
+    "ratings": 6.1,
+    "genres": "Comedy",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Knock Knock",
+    "ratings": 4.8,
+    "genres": "Drama|Horror|Thriller",
+    "sentiment": 0.79
+  },
+  {
+    "title": "The Longest Ride",
+    "ratings": 7.3,
+    "genres": "Romance|Drama",
+    "sentiment": 0.25
+  },
+  {
+    "title": "Hotel Transylvania 2",
+    "ratings": 6.8,
+    "genres": "Animation|Comedy|Family",
+    "sentiment": 0.47
+  },
+  {
+    "title": "Love the Coopers",
+    "ratings": 5.3,
+    "genres": "Family|Comedy",
+    "sentiment": 0.84
+  },
+  {
+    "title": "The Walk",
+    "ratings": 6.8,
+    "genres": "Adventure|Drama|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Tracers",
+    "ratings": 5.9,
+    "genres": "Action|Crime|Drama",
+    "sentiment": 0.83
+  },
+  {
+    "title": "Vacation",
+    "ratings": 6.1,
+    "genres": "Adventure|Comedy",
+    "sentiment": 0.71
+  },
+  {
+    "title": "Poltergeist",
+    "ratings": 5,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Maggie",
+    "ratings": 5.1,
+    "genres": "Horror",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Equals",
+    "ratings": 5.6,
+    "genres": "Drama|Romance|Science Fiction",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Child 44",
+    "ratings": 5.9,
+    "genres": "Crime|Thriller",
+    "sentiment": 0.23
+  },
+  {
+    "title": "The Gift",
+    "ratings": 6.6,
+    "genres": "Thriller|Mystery",
+    "sentiment": 0.47
+  },
+  {
+    "title": "Daddy's Home",
+    "ratings": 5.7,
+    "genres": "Comedy",
+    "sentiment": 0.89
+  },
+  {
+    "title": "Mythica: The Necromancer",
+    "ratings": 5.4,
+    "genres": "Fantasy|Action|Adventure",
+    "sentiment": 0.23
+  },
+  {
+    "title": "Vice",
+    "ratings": 4.1,
+    "genres": "Thriller|Science Fiction|Action|Adventure",
+    "sentiment": 0.46
+  },
+  {
+    "title": "The Little Prince",
+    "ratings": 7.5,
+    "genres": "Adventure|Animation|Fantasy",
+    "sentiment": 0.39
+  },
+  {
+    "title": "Alvin and the Chipmunks: The Road Chip",
+    "ratings": 5.7,
+    "genres": "Adventure|Animation|Comedy|Family",
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Dressmaker",
+    "ratings": 6.9,
+    "genres": "Drama",
+    "sentiment": 0.95
+  },
+  {
+    "title": "The DUFF",
+    "ratings": 6.8,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.96
+  },
+  {
+    "title": "Sinister 2",
+    "ratings": 5.5,
+    "genres": "Horror",
+    "sentiment": 0.2
+  },
+  {
+    "title": "Paul Blart: Mall Cop 2",
+    "ratings": 5.3,
+    "genres": "Action|Adventure|Comedy|Family",
+    "sentiment": 0.51
+  },
+  {
+    "title": "Frozen Fever",
+    "ratings": 7,
+    "genres": "Adventure|Animation|Family",
+    "sentiment": 0.9
+  },
+  {
+    "title": "High-Rise",
+    "ratings": 5.4,
+    "genres": "Action|Drama|Science Fiction",
+    "sentiment": 0.07
+  },
+  {
+    "title": "The Boy Next Door",
+    "ratings": 3.9,
+    "genres": "Thriller",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Spooks: The Greater Good",
+    "ratings": 5.6,
+    "genres": "Thriller|Action",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Entourage",
+    "ratings": 6.2,
+    "genres": "Comedy",
+    "sentiment": 0.9
+  },
+  {
+    "title": "The Wedding Ringer",
+    "ratings": 6.5,
+    "genres": "Comedy",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Scouts Guide to the Zombie Apocalypse",
+    "ratings": 6.2,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.97
+  },
+  {
+    "title": "The Visit",
+    "ratings": 5.9,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Black Mass",
+    "ratings": 6.3,
+    "genres": "Crime|Drama",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Heist",
+    "ratings": 5.4,
+    "genres": "Crime|Action|Thriller",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Krampus",
+    "ratings": 5.9,
+    "genres": "Horror|Comedy|Fantasy",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Dark Places",
+    "ratings": 5.7,
+    "genres": "Drama|Mystery|Thriller",
+    "sentiment": 0.06
+  },
+  {
+    "title": "No Escape",
+    "ratings": 6.7,
+    "genres": "Action|Thriller",
+    "sentiment": 0.65
+  },
+  {
+    "title": "Dope",
+    "ratings": 7.3,
+    "genres": "Crime|Drama|Comedy",
+    "sentiment": 0.9
+  },
+  {
+    "title": "American Ultra",
+    "ratings": 5.9,
+    "genres": "Comedy|Action",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Woman in Gold",
+    "ratings": 7.3,
+    "genres": "Drama",
+    "sentiment": 0.08
+  },
+  {
+    "title": "The Scorpion King: The Lost Throne",
+    "ratings": 4.5,
+    "genres": "Action|Fantasy|Adventure",
+    "sentiment": 0.55
+  },
+  {
+    "title": "Sisters",
+    "ratings": 5.9,
+    "genres": "Comedy",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Project Almanac",
+    "ratings": 6.3,
+    "genres": "Science Fiction|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Absolutely Anything",
+    "ratings": 5.8,
+    "genres": "Comedy|Science Fiction",
+    "sentiment": 0.61
+  },
+  {
+    "title": "The Transporter Refueled",
+    "ratings": 5.3,
+    "genres": "Thriller|Action|Crime",
+    "sentiment": 0.6
+  },
+  {
+    "title": "Crimson Peak",
+    "ratings": 6.4,
+    "genres": "Mystery|Thriller|Fantasy|Horror|Drama",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Everly",
+    "ratings": 5.1,
+    "genres": "Thriller|Action",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Magic Mike XXL",
+    "ratings": 6.3,
+    "genres": "Comedy|Drama|Music",
+    "sentiment": 0.6
+  },
+  {
+    "title": "Paranormal Activity: The Ghost Dimension",
+    "ratings": 5,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.19
+  },
+  {
+    "title": "Slow West",
+    "ratings": 6.6,
+    "genres": "Romance|Thriller|Western",
+    "sentiment": 0.53
+  },
+  {
+    "title": "Trumbo",
+    "ratings": 7.2,
+    "genres": "Drama",
+    "sentiment": 0.32
+  },
+  {
+    "title": "Secret in Their Eyes",
+    "ratings": 6.2,
+    "genres": "Crime|Drama|Mystery",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Mistress America",
+    "ratings": 6.4,
+    "genres": "Comedy",
+    "sentiment": 0.62
+  },
+  {
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "ratings": 5.7,
+    "genres": "Family|Animation",
+    "sentiment": 0.29
+  },
+  {
+    "title": "True Story",
+    "ratings": 6,
+    "genres": "Crime|Drama|Mystery",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Max",
+    "ratings": 7,
+    "genres": "Adventure|Drama|Family",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Shaun the Sheep Movie",
+    "ratings": 6.9,
+    "genres": "Family|Animation|Comedy|Adventure",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Louder Than Bombs",
+    "ratings": 6.3,
+    "genres": "Drama",
+    "sentiment": 0.21
+  },
+  {
+    "title": "A Perfect Day",
+    "ratings": 6.3,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Gunman",
+    "ratings": 5.6,
+    "genres": "Action|Drama|Crime",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Unfriended",
+    "ratings": 5.6,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Hot Pursuit",
+    "ratings": 5.5,
+    "genres": "Action|Crime|Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Insidious: Chapter 3",
+    "ratings": 6.3,
+    "genres": "Drama|Horror|Thriller",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Z for Zachariah",
+    "ratings": 5.5,
+    "genres": "Drama|Science Fiction|Thriller",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Dragonheart 3: The Sorcerer's Curse",
+    "ratings": 4.5,
+    "genres": "Action|Adventure|Fantasy",
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Lady in the Van",
+    "ratings": 5.9,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Victor Frankenstein",
+    "ratings": 5.5,
+    "genres": "Drama|Science Fiction|Thriller",
+    "sentiment": 0.64
+  },
+  {
+    "title": "Brothers of the Wind",
+    "ratings": 7.5,
+    "genres": "Adventure|Drama|Family",
+    "sentiment": 0.14
+  },
+  {
+    "title": "Anomalisa",
+    "ratings": 6.7,
+    "genres": "Animation|Comedy|Drama|Romance",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Bone Tomahawk",
+    "ratings": 6.3,
+    "genres": "Horror|Western|Adventure|Drama",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Regression",
+    "ratings": 5.2,
+    "genres": "Horror|Mystery|Thriller",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Pawn Sacrifice",
+    "ratings": 6.6,
+    "genres": "Drama",
+    "sentiment": 0.8
+  },
+  {
+    "title": "The Man Who Knew Infinity",
+    "ratings": 7.1,
+    "genres": "Drama",
+    "sentiment": 0.54
+  },
+  {
+    "title": "Momentum",
+    "ratings": 5.8,
+    "genres": "Thriller|Action",
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Diary of a Teenage Girl",
+    "ratings": 6.8,
+    "genres": "Drama|Romance",
+    "sentiment": 0.84
+  },
+  {
+    "title": "Pay the Ghost",
+    "ratings": 5.3,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Voices",
+    "ratings": 6,
+    "genres": "Horror|Thriller|Comedy|Crime",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Last Knights",
+    "ratings": 6.3,
+    "genres": "Action|Adventure",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Il racconto dei racconti",
+    "ratings": 5.7,
+    "genres": "Romance|Fantasy|Horror",
+    "sentiment": 0.44
+  },
+  {
+    "title": "Irrational Man",
+    "ratings": 6.1,
+    "genres": "Mystery|Drama",
+    "sentiment": 0.19
+  },
+  {
+    "title": "Queen of the Desert",
+    "ratings": 6,
+    "genres": "Drama|History",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Ricki and the Flash",
+    "ratings": 5.5,
+    "genres": "Comedy|Drama|Music",
+    "sentiment": 0.85
+  },
+  {
+    "title": "Miss You Already",
+    "ratings": 7.2,
+    "genres": "Comedy|Drama|Romance",
+    "sentiment": 0.51
+  },
+  {
+    "title": "Kung Fury",
+    "ratings": 7.7,
+    "genres": "Action|Comedy|Science Fiction|Fantasy",
+    "sentiment": 0.01
+  },
+  {
+    "title": "The Perfect Guy",
+    "ratings": 5.6,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.99
+  },
+  {
+    "title": "A Bigger Splash",
+    "ratings": 5.8,
+    "genres": "Crime|Drama|Mystery|Thriller",
+    "sentiment": 0.24
+  },
+  {
+    "title": "While We're Young",
+    "ratings": 5.9,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Get Hard",
+    "ratings": 5.9,
+    "genres": "Comedy",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Kidnapping Mr. Heineken",
+    "ratings": 5.8,
+    "genres": "Drama|Action|Crime|Thriller",
+    "sentiment": 0.71
+  },
+  {
+    "title": "The Ridiculous 6",
+    "ratings": 4.8,
+    "genres": "Comedy|Western",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Kill Me Three Times",
+    "ratings": 5.1,
+    "genres": "Comedy|Thriller",
+    "sentiment": 0.31
+  },
+  {
+    "title": "The 33",
+    "ratings": 5.8,
+    "genres": "History|Drama",
+    "sentiment": 0.3
+  },
+  {
+    "title": "Suffragette",
+    "ratings": 7.1,
+    "genres": "Drama|History",
+    "sentiment": 0.47
+  },
+  {
+    "title": "45 Years",
+    "ratings": 6,
+    "genres": "Drama",
+    "sentiment": 0.98
+  },
+  {
+    "title": "We Are Your Friends",
+    "ratings": 6.2,
+    "genres": "Drama|Music|Romance",
+    "sentiment": 0.96
+  },
+  {
+    "title": "Barely Lethal",
+    "ratings": 5.5,
+    "genres": "Adventure|Action|Comedy",
+    "sentiment": 0.13
+  },
+  {
+    "title": "Macbeth",
+    "ratings": 6.4,
+    "genres": "History|Drama|War",
+    "sentiment": 0.84
+  },
+  {
+    "title": "Extraction",
+    "ratings": 4.2,
+    "genres": "Action|Thriller",
+    "sentiment": 0.62
+  },
+  {
+    "title": "Jenny's Wedding",
+    "ratings": 5.2,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.44
+  },
+  {
+    "title": "Descendants",
+    "ratings": 6.7,
+    "genres": "Music|Action|Adventure|Comedy|Family",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Tumbledown",
+    "ratings": 6.6,
+    "genres": "Music|Romance|Comedy",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Far from the Madding Crowd",
+    "ratings": 6.9,
+    "genres": "Romance|Drama",
+    "sentiment": 0.8
+  },
+  {
+    "title": "The End of the Tour",
+    "ratings": 7.3,
+    "genres": "Drama",
+    "sentiment": 0.66
+  },
+  {
+    "title": "The Second Best Exotic Marigold Hotel",
+    "ratings": 6.4,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.91
+  },
+  {
+    "title": "Little Boy",
+    "ratings": 7.1,
+    "genres": "Comedy|Drama|War",
+    "sentiment": 0.82
+  },
+  {
+    "title": "LEGO DC Comics Super Heroes: Justice League vs. Bizarro League",
+    "ratings": 6.4,
+    "genres": "Action|Adventure|Animation|Family",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Remember",
+    "ratings": 7.7,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.49
+  },
+  {
+    "title": "Aloha",
+    "ratings": 5.2,
+    "genres": "Adventure|Comedy|Romance",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Accidental Love",
+    "ratings": 3.6,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.54
+  },
+  {
+    "title": "Halo: The Fall of Reach",
+    "ratings": 5.3,
+    "genres": "Action|Animation|Science Fiction",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Our Brand Is Crisis",
+    "ratings": 5.7,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.19
+  },
+  {
+    "title": "Into the Forest",
+    "ratings": 5.1,
+    "genres": "Drama|Science Fiction",
+    "sentiment": 0.17
+  },
+  {
+    "title": "The Invitation",
+    "ratings": 6.4,
+    "genres": "Thriller",
+    "sentiment": 0.91
+  },
+  {
+    "title": "The Benefactor",
+    "ratings": 4.5,
+    "genres": "Drama",
+    "sentiment": 0.61
+  },
+  {
+    "title": "Open Season: Scared Silly",
+    "ratings": 5.6,
+    "genres": "Animation|Comedy|Family|Adventure",
+    "sentiment": 0.34
+  },
+  {
+    "title": "Cop Car",
+    "ratings": 5.5,
+    "genres": "Thriller",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Mojave",
+    "ratings": 4.3,
+    "genres": "Thriller",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Sleeping with Other People",
+    "ratings": 6.2,
+    "genres": "Comedy",
+    "sentiment": 0.81
+  },
+  {
+    "title": "Forsaken",
+    "ratings": 5.6,
+    "genres": "Western|Drama",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Amy",
+    "ratings": 7.5,
+    "genres": "Documentary|Music",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Madame Bovary",
+    "ratings": 5.3,
+    "genres": "Drama",
+    "sentiment": 0.85
+  },
+  {
+    "title": "The Hallow",
+    "ratings": 4.9,
+    "genres": "Fantasy|Horror",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Barbie in Princess Power",
+    "ratings": 5.5,
+    "genres": "Family|Animation",
+    "sentiment": 0.99
+  },
+  {
+    "title": "Howl",
+    "ratings": 4.9,
+    "genres": "Horror",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Freeheld",
+    "ratings": 7.1,
+    "genres": "Romance|Drama",
+    "sentiment": 0.46
+  },
+  {
+    "title": "Man Up",
+    "ratings": 6.5,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.81
+  },
+  {
+    "title": "Love",
+    "ratings": 4.7,
+    "genres": "Drama|Romance",
+    "sentiment": 0.43
+  },
+  {
+    "title": "Truth",
+    "ratings": 6.4,
+    "genres": "Drama",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Return to Sender",
+    "ratings": 5,
+    "genres": "Thriller",
+    "sentiment": 0.3
+  },
+  {
+    "title": "Danny Collins",
+    "ratings": 6.6,
+    "genres": "Comedy|Drama|Music",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Rock the Kasbah",
+    "ratings": 5.1,
+    "genres": "Comedy|Music|War",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Fathers and Daughters",
+    "ratings": 7,
+    "genres": "Drama",
+    "sentiment": 0.32
+  },
+  {
+    "title": "Hello, My Name Is Doris",
+    "ratings": 6.6,
+    "genres": "Comedy|Drama|Romance",
+    "sentiment": 0.85
+  },
+  {
+    "title": "The Vatican Tapes",
+    "ratings": 4.5,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.62
+  },
+  {
+    "title": "99 Homes",
+    "ratings": 6.8,
+    "genres": "Drama",
+    "sentiment": 0.53
+  },
+  {
+    "title": "Hot Tub Time Machine 2",
+    "ratings": 5,
+    "genres": "Comedy",
+    "sentiment": 0.81
+  },
+  {
+    "title": "Knight of Cups",
+    "ratings": 5.7,
+    "genres": "Romance|Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Manglehorn",
+    "ratings": 5,
+    "genres": "Drama",
+    "sentiment": 0.13
+  },
+  {
+    "title": "Mississippi Grind",
+    "ratings": 5.7,
+    "genres": "Drama",
+    "sentiment": 0.92
+  },
+  {
+    "title": "400 Days",
+    "ratings": 4.2,
+    "genres": "Mystery|Science Fiction|Thriller",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Lava",
+    "ratings": 7.3,
+    "genres": "Animation|Comedy|Family|Fantasy|Music",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Air",
+    "ratings": 4.7,
+    "genres": "Thriller|Science Fiction",
+    "sentiment": 0.86
+  },
+  {
+    "title": "Riot",
+    "ratings": 5,
+    "genres": "Action",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Septembers of Shiraz",
+    "ratings": 5.9,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Every Thing Will Be Fine",
+    "ratings": 5.1,
+    "genres": "Drama",
+    "sentiment": 0.14
+  },
+  {
+    "title": "Extinction",
+    "ratings": 5.3,
+    "genres": "Drama|Horror|Science Fiction",
+    "sentiment": 0.14
+  },
+  {
+    "title": "The Childhood of a Leader",
+    "ratings": 3.6,
+    "genres": "Mystery|Drama|Horror",
+    "sentiment": 0.49
+  },
+  {
+    "title": "A Walk in the Woods",
+    "ratings": 5.4,
+    "genres": "Drama|Adventure|Comedy",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Clown",
+    "ratings": 5.2,
+    "genres": "Horror",
+    "sentiment": 0.12
+  },
+  {
+    "title": "The Lazarus Effect",
+    "ratings": 4.9,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Batman vs. Robin",
+    "ratings": 6.8,
+    "genres": "Action|Adventure|Animation",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Careful What You Wish For",
+    "ratings": 5.4,
+    "genres": "Thriller",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Racing Extinction",
+    "ratings": 7.8,
+    "genres": "Adventure|Documentary",
+    "sentiment": 0.85
+  },
+  {
+    "title": "Unfinished Business",
+    "ratings": 4.9,
+    "genres": "Comedy",
+    "sentiment": 0.44
+  },
+  {
+    "title": "Lost River",
+    "ratings": 5.7,
+    "genres": "Fantasy|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Cobain: Montage of Heck",
+    "ratings": 7.5,
+    "genres": "Music|Documentary",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Hyena Road",
+    "ratings": 5.7,
+    "genres": "War|Drama",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Criminal Activities",
+    "ratings": 5.9,
+    "genres": "Thriller|Crime|Drama",
+    "sentiment": 0.23
+  },
+  {
+    "title": "Life",
+    "ratings": 5.9,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "McFarland, USA",
+    "ratings": 7.4,
+    "genres": "Drama",
+    "sentiment": 0.72
+  },
+  {
+    "title": "Backtrack",
+    "ratings": 5.4,
+    "genres": "Horror|Mystery",
+    "sentiment": 0.06
+  },
+  {
+    "title": "X+Y",
+    "ratings": 6,
+    "genres": "Drama",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Home Sweet Hell",
+    "ratings": 4.9,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Ooops! Noah is Gone...",
+    "ratings": 5.7,
+    "genres": "Animation|Adventure|Comedy",
+    "sentiment": 0.98
+  },
+  {
+    "title": "The Unspoken",
+    "ratings": 4.1,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.89
+  },
+  {
+    "title": "Hot Girls Wanted",
+    "ratings": 5.9,
+    "genres": "Documentary",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Gallows",
+    "ratings": 5,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Dirty Weekend",
+    "ratings": 4.8,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.1
+  },
+  {
+    "title": "I Spit on Your Grave III: Vengeance is Mine",
+    "ratings": 5,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Experimenter",
+    "ratings": 6.9,
+    "genres": "History|Drama",
+    "sentiment": 0.12
+  },
+  {
+    "title": "By the Sea",
+    "ratings": 5.4,
+    "genres": "Drama|Romance",
+    "sentiment": 0.81
+  },
+  {
+    "title": "Woodlawn",
+    "ratings": 6.8,
+    "genres": "Drama",
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Hollow",
+    "ratings": 5.1,
+    "genres": "Horror|TV Movie",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Visions",
+    "ratings": 5.5,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.29
+  },
+  {
+    "title": "Beyond the Mask",
+    "ratings": 6.2,
+    "genres": "Action",
+    "sentiment": 0.5
+  },
+  {
+    "title": "I Am Here",
+    "ratings": 4,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Wild Horses",
+    "ratings": 4.1,
+    "genres": "Crime|Drama",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Pressure",
+    "ratings": 5,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Hidden",
+    "ratings": 6.5,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Hell & Back",
+    "ratings": 4.3,
+    "genres": "Fantasy|Comedy|Animation",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Robot Overlords",
+    "ratings": 4.9,
+    "genres": "Adventure|Science Fiction|Action",
+    "sentiment": 0.36
+  },
+  {
+    "title": "The Man with the Iron Fists 2",
+    "ratings": 4.7,
+    "genres": "Action",
+    "sentiment": 0.04
+  },
+  {
+    "title": "LEGO DC Comics Super Heroes: Justice League: Attack of the Legion of Doom!",
+    "ratings": 6.8,
+    "genres": "Action|Adventure|Animation|Family",
+    "sentiment": 0.58
+  },
+  {
+    "title": "Crown for Christmas",
+    "ratings": 7.6,
+    "genres": "TV Movie",
+    "sentiment": 0.22
+  },
+  {
+    "title": "Spare Parts",
+    "ratings": 6.6,
+    "genres": "Action|Drama|Family",
+    "sentiment": 0.91
+  },
+  {
+    "title": "The World Made Straight",
+    "ratings": 5.8,
+    "genres": "Drama",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Last Shift",
+    "ratings": 5.6,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Frankenstein",
+    "ratings": 4.5,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.51
+  },
+  {
+    "title": "Cartel Land",
+    "ratings": 7.5,
+    "genres": "Drama|Documentary",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Superfast!",
+    "ratings": 4.4,
+    "genres": "Comedy",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Moonwalkers",
+    "ratings": 6,
+    "genres": "Comedy",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Chi-Raq",
+    "ratings": 5.9,
+    "genres": "Music|Drama|Crime|Comedy",
+    "sentiment": 0.3
+  },
+  {
+    "title": "Bad Asses on the Bayou",
+    "ratings": 5.8,
+    "genres": "Comedy|Action",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Strange Magic",
+    "ratings": 6.1,
+    "genres": "Music|Animation|Family|Fantasy",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Black or White",
+    "ratings": 6.7,
+    "genres": "Drama",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Dead Rising",
+    "ratings": 4.9,
+    "genres": "Horror|Science Fiction",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Deathgasm",
+    "ratings": 6.5,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Justice League: Gods and Monsters",
+    "ratings": 6.9,
+    "genres": "Action|Animation|Fantasy",
+    "sentiment": 0.31
+  },
+  {
+    "title": "I Saw the Light",
+    "ratings": 5.6,
+    "genres": "Drama|Music",
+    "sentiment": 0.34
+  },
+  {
+    "title": "Good Kill",
+    "ratings": 5.7,
+    "genres": "Action|Drama|Thriller",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Southbound",
+    "ratings": 6,
+    "genres": "Fantasy|Thriller|Horror|Science Fiction",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Star Trek: Renegades",
+    "ratings": 4.1,
+    "genres": "Action|Science Fiction|Adventure|Fantasy",
+    "sentiment": 0.74
+  },
+  {
+    "title": "The Boy",
+    "ratings": 6.1,
+    "genres": "Thriller|Drama|Horror",
+    "sentiment": 0.17
+  },
+  {
+    "title": "Riley's First Date?",
+    "ratings": 7.3,
+    "genres": "Animation|Family",
+    "sentiment": 0.3
+  },
+  {
+    "title": "The Program",
+    "ratings": 5.9,
+    "genres": "Drama",
+    "sentiment": 0.39
+  },
+  {
+    "title": "Lila & Eve",
+    "ratings": 5.2,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.1
+  },
+  {
+    "title": "The Final Girls",
+    "ratings": 6.6,
+    "genres": "Horror|Comedy",
+    "sentiment": 0.03
+  },
+  {
+    "title": "He Never Died",
+    "ratings": 6.3,
+    "genres": "Thriller|Horror|Comedy|Drama",
+    "sentiment": 0.4
+  },
+  {
+    "title": "A Very Murray Christmas",
+    "ratings": 5.4,
+    "genres": "Comedy|Music",
+    "sentiment": 0.87
+  },
+  {
+    "title": "Kill Your Friends",
+    "ratings": 5.5,
+    "genres": "Thriller|Comedy|Crime",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Battle For SkyArk",
+    "ratings": 3.5,
+    "genres": "Family|Science Fiction|Action|Adventure",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Jem and the Holograms",
+    "ratings": 5.7,
+    "genres": "Drama|Music|Adventure|Fantasy",
+    "sentiment": 0.66
+  },
+  {
+    "title": "The Adderall Diaries",
+    "ratings": 4.8,
+    "genres": "Thriller|Action|Drama",
+    "sentiment": 0.96
+  },
+  {
+    "title": "Grizzly",
+    "ratings": 5,
+    "genres": "Action|Horror|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Where to Invade Next",
+    "ratings": 7.2,
+    "genres": "Documentary",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Beasts of No Nation",
+    "ratings": 7.5,
+    "genres": "Drama|War",
+    "sentiment": 0.12
+  },
+  {
+    "title": "A Christmas Horror Story",
+    "ratings": 5.6,
+    "genres": "Horror",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Sunset Song",
+    "ratings": 7.1,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Synchronicity",
+    "ratings": 5.3,
+    "genres": "Thriller|Mystery|Science Fiction",
+    "sentiment": 0.76
+  },
+  {
+    "title": "12 Gifts of Christmas",
+    "ratings": 6.3,
+    "genres": "Family|TV Movie",
+    "sentiment": 0.96
+  },
+  {
+    "title": "The Pack",
+    "ratings": 5.5,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.59
+  },
+  {
+    "title": "Demonic",
+    "ratings": 5,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Girl in the Photographs",
+    "ratings": 4.7,
+    "genres": "Crime|Horror|Thriller",
+    "sentiment": 0.11
+  },
+  {
+    "title": "The Legend of Barney Thomson",
+    "ratings": 5.7,
+    "genres": "Thriller|Drama|Comedy",
+    "sentiment": 0.07
+  },
+  {
+    "title": "The Duke of Burgundy",
+    "ratings": 5.8,
+    "genres": "Drama",
+    "sentiment": 0.79
+  },
+  {
+    "title": 88,
+    "ratings": 4.4,
+    "genres": "Thriller|Action",
+    "sentiment": 0.12
+  },
+  {
+    "title": "The Girl in the Book",
+    "ratings": 6.2,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Avengers Grimm",
+    "ratings": 3.8,
+    "genres": "Fantasy|Action|Adventure",
+    "sentiment": 0.12
+  },
+  {
+    "title": "The D Train",
+    "ratings": 4.2,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.76
+  },
+  {
+    "title": "The Lion Guard: Return of the Roar",
+    "ratings": 5.9,
+    "genres": "Family|TV Movie|Animation",
+    "sentiment": 0.72
+  },
+  {
+    "title": "A Royal Night Out",
+    "ratings": 6.2,
+    "genres": "Thriller|Romance|Drama",
+    "sentiment": 0.67
+  },
+  {
+    "title": "Parallels",
+    "ratings": 6.1,
+    "genres": "Science Fiction|Action",
+    "sentiment": 0.65
+  },
+  {
+    "title": "Born to Be Blue",
+    "ratings": 6.8,
+    "genres": "Drama|Music",
+    "sentiment": 0.65
+  },
+  {
+    "title": "The Marine 4: Moving Target",
+    "ratings": 5.7,
+    "genres": "Thriller|Action",
+    "sentiment": 0.2
+  },
+  {
+    "title": "Tales of Halloween",
+    "ratings": 5.3,
+    "genres": "Horror",
+    "sentiment": 0.21
+  },
+  {
+    "title": "Blunt Force Trauma",
+    "ratings": 4.4,
+    "genres": "Adventure|Action",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Operator",
+    "ratings": 5.4,
+    "genres": "Thriller|Action|Drama",
+    "sentiment": 0.11
+  },
+  {
+    "title": "The Human Centipede 3 (Final Sequence)",
+    "ratings": 3.5,
+    "genres": "Horror",
+    "sentiment": 0.19
+  },
+  {
+    "title": "Spring",
+    "ratings": 6.5,
+    "genres": "Horror|Romance|Science Fiction",
+    "sentiment": 0.72
+  },
+  {
+    "title": "The Intruders",
+    "ratings": 4.9,
+    "genres": "Thriller",
+    "sentiment": 0.07
+  },
+  {
+    "title": "We Are Still Here",
+    "ratings": 5.5,
+    "genres": "Horror",
+    "sentiment": 0.53
+  },
+  {
+    "title": "Monster High: Haunted",
+    "ratings": 7,
+    "genres": "Animation|Family|Fantasy",
+    "sentiment": 0.65
+  },
+  {
+    "title": "3-Headed Shark Attack",
+    "ratings": 3.8,
+    "genres": "Science Fiction|Action|Horror",
+    "sentiment": 0.17
+  },
+  {
+    "title": "Navy Seals vs. Zombies",
+    "ratings": 3.3,
+    "genres": "Horror|Action",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Wrecker",
+    "ratings": 3.6,
+    "genres": "Thriller|Action|Horror",
+    "sentiment": 0.92
+  },
+  {
+    "title": "The Escort",
+    "ratings": 5.9,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.58
+  },
+  {
+    "title": "Martyrs",
+    "ratings": 5,
+    "genres": "Drama|Horror|Thriller",
+    "sentiment": 0.13
+  },
+  {
+    "title": "Uncanny",
+    "ratings": 6.1,
+    "genres": "Thriller|Drama|Science Fiction",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Bad Hair Day",
+    "ratings": 6.5,
+    "genres": "TV Movie|Adventure|Comedy",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Area 51",
+    "ratings": 4.4,
+    "genres": "Horror|Thriller|Science Fiction",
+    "sentiment": 0.2
+  },
+  {
+    "title": "San Andreas Quake",
+    "ratings": 3.7,
+    "genres": "TV Movie|Action|Science Fiction",
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Runner",
+    "ratings": 4.8,
+    "genres": "Drama",
+    "sentiment": 0.17
+  },
+  {
+    "title": "Advantageous",
+    "ratings": 6.4,
+    "genres": "Science Fiction|Drama|Family",
+    "sentiment": 0.68
+  },
+  {
+    "title": "Partisan",
+    "ratings": 5.8,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.02
+  },
+  {
+    "title": "R.L. Stine's Monsterville: The Cabinet of Souls",
+    "ratings": 7.2,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.14
+  },
+  {
+    "title": "Strangerland",
+    "ratings": 5,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Ashby",
+    "ratings": 5.9,
+    "genres": "Drama|Romance|Comedy",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Beautiful & Twisted",
+    "ratings": 5.4,
+    "genres": "Crime|Drama|Thriller",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Ronaldo",
+    "ratings": 6.5,
+    "genres": "Documentary",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Going Clear: Scientology and the Prison of Belief",
+    "ratings": 7.8,
+    "genres": "Documentary",
+    "sentiment": 0.89
+  },
+  {
+    "title": "Zipper",
+    "ratings": 5.5,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.09
+  },
+  {
+    "title": "War Pigs",
+    "ratings": 4.9,
+    "genres": "War|Action",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Turbo Kid",
+    "ratings": 6.6,
+    "genres": "Adventure|Action|Comedy|Science Fiction",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Barbie in Rock 'N Royals",
+    "ratings": 6.3,
+    "genres": "Animation|Music|Family",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Circle",
+    "ratings": 6.1,
+    "genres": "Drama|Horror|Science Fiction|Thriller",
+    "sentiment": 0.47
+  },
+  {
+    "title": "Monkey Kingdom",
+    "ratings": 6.3,
+    "genres": "Animation|Documentary",
+    "sentiment": 0.39
+  },
+  {
+    "title": "Joe Dirt 2: Beautiful Loser",
+    "ratings": 4.2,
+    "genres": "Comedy",
+    "sentiment": 0.87
+  },
+  {
+    "title": "Minions: The Competition",
+    "ratings": 5.9,
+    "genres": "Animation",
+    "sentiment": 0.32
+  },
+  {
+    "title": "I'll See You in My Dreams",
+    "ratings": 6.2,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.24
+  },
+  {
+    "title": "Jesse Stone: Lost in Paradise",
+    "ratings": 5.6,
+    "genres": "Drama|TV Movie|Crime|Mystery",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Steve Jobs: The Man in the Machine",
+    "ratings": 6.2,
+    "genres": "Documentary",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Babysitter's Black Book",
+    "ratings": 5.9,
+    "genres": "Drama|TV Movie",
+    "sentiment": 0.58
+  },
+  {
+    "title": "The Ones Below",
+    "ratings": 5.9,
+    "genres": "Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Tremors 5: Bloodlines",
+    "ratings": 5.1,
+    "genres": "Science Fiction|Action|Horror",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Captive",
+    "ratings": 5.7,
+    "genres": "Crime|Drama|Thriller",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Terminus",
+    "ratings": 4.6,
+    "genres": "Science Fiction|Thriller|Fantasy",
+    "sentiment": 0.26
+  },
+  {
+    "title": "Andron",
+    "ratings": 4.7,
+    "genres": "Action|Science Fiction",
+    "sentiment": 0.31
+  },
+  {
+    "title": "How to Plan an Orgy in a Small Town",
+    "ratings": 4.7,
+    "genres": "Comedy",
+    "sentiment": 0.96
+  },
+  {
+    "title": "Freaks of Nature",
+    "ratings": 5.6,
+    "genres": "Science Fiction|Comedy|Horror",
+    "sentiment": 0.77
+  },
+  {
+    "title": "Reversal",
+    "ratings": 5.4,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.4
+  },
+  {
+    "title": "Batman Unlimited: Monster Mayhem",
+    "ratings": 6.1,
+    "genres": "Action|Animation|Family",
+    "sentiment": 0.26
+  },
+  {
+    "title": "The Lovers",
+    "ratings": 4.6,
+    "genres": "Action|Adventure|Science Fiction|Romance",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Holding the Man",
+    "ratings": 7.9,
+    "genres": "Drama",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Harbinger Down",
+    "ratings": 4.2,
+    "genres": "Science Fiction|Horror",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Batman Unlimited: Animal Instincts",
+    "ratings": 5.8,
+    "genres": "Action|Animation|Family",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Entertainment",
+    "ratings": 4,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Meadowland",
+    "ratings": 6.4,
+    "genres": "Drama",
+    "sentiment": 0.07
+  },
+  {
+    "title": "The Stanford Prison Experiment",
+    "ratings": 6.8,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.41
+  },
+  {
+    "title": "The Girl King",
+    "ratings": 6.1,
+    "genres": "Drama|History|Romance",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Bessie",
+    "ratings": 5.9,
+    "genres": "Drama|Music|TV Movie",
+    "sentiment": 0.72
+  },
+  {
+    "title": "The Atticus Institute",
+    "ratings": 5.3,
+    "genres": "Horror",
+    "sentiment": 0.89
+  },
+  {
+    "title": "The Hoarder",
+    "ratings": 4.2,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.12
+  },
+  {
+    "title": "I Smile Back",
+    "ratings": 5.7,
+    "genres": "Drama",
+    "sentiment": 0.67
+  },
+  {
+    "title": "Oddball",
+    "ratings": 6.1,
+    "genres": "Family|Adventure",
+    "sentiment": 0.95
+  },
+  {
+    "title": "Meru",
+    "ratings": 6.9,
+    "genres": "Adventure|Documentary",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Sanjay's Super Team",
+    "ratings": 6.9,
+    "genres": "Animation",
+    "sentiment": 0.91
+  },
+  {
+    "title": "Learning to Drive",
+    "ratings": 5.9,
+    "genres": "Romance|Comedy|Drama",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Christmas Eve",
+    "ratings": 5.8,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.78
+  },
+  {
+    "title": "The Sisterhood of Night",
+    "ratings": 6.6,
+    "genres": "Mystery|Drama|Thriller",
+    "sentiment": 0.22
+  },
+  {
+    "title": "Sharknado 3: Oh Hell No!",
+    "ratings": 4.5,
+    "genres": "TV Movie|Horror|Science Fiction",
+    "sentiment": 0.5
+  },
+  {
+    "title": "12 Rounds 3: Lockdown",
+    "ratings": 4.5,
+    "genres": "Action|Thriller",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Hitting the Apex",
+    "ratings": 8,
+    "genres": "Documentary",
+    "sentiment": 0.84
+  },
+  {
+    "title": "Club Life",
+    "ratings": 6.3,
+    "genres": "Drama",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Cleveland Abduction",
+    "ratings": 6.3,
+    "genres": "Drama|Crime",
+    "sentiment": 0.16
+  },
+  {
+    "title": "90 Minutes in Heaven",
+    "ratings": 5.7,
+    "genres": "Drama",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Lavalantula",
+    "ratings": 5.6,
+    "genres": "Horror|Science Fiction|TV Movie",
+    "sentiment": 0.21
+  },
+  {
+    "title": "Unexpected",
+    "ratings": 5.7,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.71
+  },
+  {
+    "title": "Justice League: Throne of Atlantis",
+    "ratings": 6.5,
+    "genres": "Science Fiction|Action|Animation|Adventure",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Lady Chatterley's Lover",
+    "ratings": 6.3,
+    "genres": "Romance|Drama",
+    "sentiment": 0.89
+  },
+  {
+    "title": "The Wicked Within",
+    "ratings": 4.1,
+    "genres": "Horror",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Bridgend",
+    "ratings": 5.7,
+    "genres": "Drama",
+    "sentiment": 0.24
+  },
+  {
+    "title": "Backcountry",
+    "ratings": 5.8,
+    "genres": "Drama|Horror|Thriller",
+    "sentiment": 0.14
+  },
+  {
+    "title": "Walter",
+    "ratings": 5.2,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.75
+  },
+  {
+    "title": "Ratter",
+    "ratings": 5.2,
+    "genres": "Drama|Thriller|Horror",
+    "sentiment": 0.6
+  },
+  {
+    "title": "An Inspector Calls",
+    "ratings": 7.8,
+    "genres": "Drama|Thriller|Mystery",
+    "sentiment": 0.27
+  },
+  {
+    "title": "The Survivalist",
+    "ratings": 6.4,
+    "genres": "Drama|Science Fiction|Thriller",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Don't Grow Up",
+    "ratings": 3.9,
+    "genres": "Horror",
+    "sentiment": 0.43
+  },
+  {
+    "title": "Night Of The Living Deb",
+    "ratings": 5.7,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.5
+  },
+  {
+    "title": "No Stranger Than Love",
+    "ratings": 4.1,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Hive",
+    "ratings": 5.5,
+    "genres": "Horror|Science Fiction|Thriller",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Back in Time",
+    "ratings": 5.8,
+    "genres": "History|Documentary|Family",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Nina Forever",
+    "ratings": 4.8,
+    "genres": "Horror|Comedy|Romance",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Some Kind Of Hate",
+    "ratings": 3.9,
+    "genres": "Horror",
+    "sentiment": 0.07
+  },
+  {
+    "title": "The Dead Room",
+    "ratings": 4.6,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.24
+  },
+  {
+    "title": "Condemned",
+    "ratings": 3.7,
+    "genres": "Horror",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Night Owls",
+    "ratings": 7.1,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.31
+  },
+  {
+    "title": "The Sand",
+    "ratings": 3.9,
+    "genres": "Science Fiction|Horror",
+    "sentiment": 0.93
+  },
+  {
+    "title": "Digging for Fire",
+    "ratings": 4.9,
+    "genres": "Drama",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Ten Thousand Saints",
+    "ratings": 6,
+    "genres": "Music|Comedy|Drama",
+    "sentiment": 0.28
+  },
+  {
+    "title": "From the Dark",
+    "ratings": 6.1,
+    "genres": "Horror",
+    "sentiment": 0.17
+  },
+  {
+    "title": "My All American",
+    "ratings": 6.9,
+    "genres": "Drama",
+    "sentiment": 0.72
+  },
+  {
+    "title": "Hangman",
+    "ratings": 3.9,
+    "genres": "Thriller",
+    "sentiment": 0.19
+  },
+  {
+    "title": "Larry Gaye: Renegade Male Flight Attendant",
+    "ratings": 5.3,
+    "genres": "Comedy",
+    "sentiment": 0.85
+  },
+  {
+    "title": "Grandma",
+    "ratings": 5.6,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.62
+  },
+  {
+    "title": "Anarchy Parlor",
+    "ratings": 5.6,
+    "genres": "Horror",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Summer Camp",
+    "ratings": 5.3,
+    "genres": "Horror",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Backmask",
+    "ratings": 4.6,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.34
+  },
+  {
+    "title": "Already Tomorrow in Hong Kong",
+    "ratings": 5.4,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.73
+  },
+  {
+    "title": "Those People",
+    "ratings": 7.2,
+    "genres": "Romance|Drama",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Show Me a Hero",
+    "ratings": 7.7,
+    "genres": "History|Crime|Drama",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Curve",
+    "ratings": 4.4,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Pound of Flesh",
+    "ratings": 5.4,
+    "genres": "Action",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Cyberbully",
+    "ratings": 6.4,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.4
+  },
+  {
+    "title": "Final Girl",
+    "ratings": 4.8,
+    "genres": "Action|Drama|Thriller",
+    "sentiment": 0.65
+  },
+  {
+    "title": "He Named Me Malala",
+    "ratings": 5.3,
+    "genres": "Documentary",
+    "sentiment": 0.46
+  },
+  {
+    "title": "The Driftless Area",
+    "ratings": 5,
+    "genres": "Romance|Drama|Comedy|Mystery",
+    "sentiment": 0.21
+  },
+  {
+    "title": "Do You Believe?",
+    "ratings": 7.4,
+    "genres": "Fantasy|Drama",
+    "sentiment": 0.88
+  },
+  {
+    "title": "7 Days in Hell",
+    "ratings": 6.4,
+    "genres": "TV Movie|Comedy",
+    "sentiment": 0.29
+  },
+  {
+    "title": "Belli di pap\u00c3",
+    "ratings": 6.1,
+    "genres": "",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Teen Beach 2",
+    "ratings": 6.4,
+    "genres": "Comedy|Music",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Full Out",
+    "ratings": 7.2,
+    "genres": "History|Drama|Family",
+    "sentiment": 0.99
+  },
+  {
+    "title": "Narcopolis",
+    "ratings": 4.4,
+    "genres": "Thriller|Mystery|Science Fiction",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Staten Island Summer",
+    "ratings": 5.6,
+    "genres": "Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Safelight",
+    "ratings": 5.8,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Bad Roomies",
+    "ratings": 5.1,
+    "genres": "Comedy",
+    "sentiment": 0.33
+  },
+  {
+    "title": "Close Range",
+    "ratings": 5,
+    "genres": "Crime|Action",
+    "sentiment": 0.28
+  },
+  {
+    "title": "The Reconstruction of William Zero",
+    "ratings": 5.1,
+    "genres": "Science Fiction|Drama|Thriller",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Queen of Earth",
+    "ratings": 5.6,
+    "genres": "Drama|Mystery|Thriller",
+    "sentiment": 0.27
+  },
+  {
+    "title": "After the Ball",
+    "ratings": 6.3,
+    "genres": "Comedy",
+    "sentiment": 0.43
+  },
+  {
+    "title": "A Christmas Detour",
+    "ratings": 7,
+    "genres": "Comedy|TV Movie|Romance",
+    "sentiment": 0.98
+  },
+  {
+    "title": "What Happened, Miss Simone?",
+    "ratings": 7.7,
+    "genres": "Documentary|Music",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Alex of Venice",
+    "ratings": 6.1,
+    "genres": "Drama",
+    "sentiment": 0.77
+  },
+  {
+    "title": "The Eichmann Show",
+    "ratings": 6.2,
+    "genres": "Drama",
+    "sentiment": 0.09
+  },
+  {
+    "title": "People, Places, Things",
+    "ratings": 6.6,
+    "genres": "Comedy",
+    "sentiment": 0.92
+  },
+  {
+    "title": "The Death of \"Superman Lives\": What Happened?",
+    "ratings": 6.8,
+    "genres": "Documentary",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Winter on Fire: Ukraine's Fight for Freedom",
+    "ratings": 8.2,
+    "genres": "Documentary",
+    "sentiment": 0.25
+  },
+  {
+    "title": "Ava's Possessions",
+    "ratings": 6.1,
+    "genres": "Mystery|Thriller|Horror|Science Fiction",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Being Charlie",
+    "ratings": 6.2,
+    "genres": "Drama|Romance",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Containment",
+    "ratings": 5.6,
+    "genres": "Thriller|Horror|Science Fiction",
+    "sentiment": 0.09
+  },
+  {
+    "title": "The Exorcism of Molly Hartley",
+    "ratings": 5,
+    "genres": "Horror",
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Diabolical",
+    "ratings": 4.3,
+    "genres": "Horror|Science Fiction|Thriller",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Last Cab to Darwin",
+    "ratings": 7,
+    "genres": "Comedy|Drama|Romance",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Intruders",
+    "ratings": 5.8,
+    "genres": "Drama|Thriller|Horror",
+    "sentiment": 0.24
+  },
+  {
+    "title": "Infini",
+    "ratings": 5,
+    "genres": "Horror|Science Fiction|Thriller",
+    "sentiment": 0.89
+  },
+  {
+    "title": "A Christmas Melody",
+    "ratings": 5.5,
+    "genres": "Romance|Music|TV Movie|Comedy",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Muck",
+    "ratings": 3.3,
+    "genres": "Horror",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Robert the Doll",
+    "ratings": 2.6,
+    "genres": "Horror",
+    "sentiment": 0.21
+  },
+  {
+    "title": "Bravetown",
+    "ratings": 6.2,
+    "genres": "Drama|Music",
+    "sentiment": 0.46
+  },
+  {
+    "title": "Bite",
+    "ratings": 4.9,
+    "genres": "Horror",
+    "sentiment": 0.89
+  },
+  {
+    "title": "Taylor Swift: The 1989 World Tour - Live",
+    "ratings": 7.6,
+    "genres": "Documentary|Music",
+    "sentiment": 0.93
+  },
+  {
+    "title": "Cosmic Scrat-tastrophe",
+    "ratings": 7.7,
+    "genres": "Science Fiction|Comedy|Animation|Family",
+    "sentiment": 0.51
+  },
+  {
+    "title": "Ghoul",
+    "ratings": 4.9,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Waffle Street",
+    "ratings": 6.4,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.29
+  },
+  {
+    "title": "Deep Web",
+    "ratings": 6.9,
+    "genres": "Documentary",
+    "sentiment": 0.11
+  },
+  {
+    "title": "A LEGO Brickumentary",
+    "ratings": 6.5,
+    "genres": "Documentary",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Richard Pryor: Omit the Logic",
+    "ratings": 6.7,
+    "genres": "Documentary",
+    "sentiment": 0.19
+  },
+  {
+    "title": "Don Verdean",
+    "ratings": 4,
+    "genres": "Comedy",
+    "sentiment": 0.58
+  },
+  {
+    "title": "The Editor",
+    "ratings": 6,
+    "genres": "Mystery|Horror|Comedy",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Nasty Baby",
+    "ratings": 5,
+    "genres": "Drama",
+    "sentiment": 0.48
+  },
+  {
+    "title": "Bitter Lake",
+    "ratings": 7.8,
+    "genres": "Documentary",
+    "sentiment": 0.32
+  },
+  {
+    "title": "June",
+    "ratings": 4,
+    "genres": "Science Fiction|Horror",
+    "sentiment": 0.9
+  },
+  {
+    "title": "The Overnight",
+    "ratings": 5.9,
+    "genres": "Mystery|Comedy",
+    "sentiment": 0.79
+  },
+  {
+    "title": "The Rise of the Krays",
+    "ratings": 4.7,
+    "genres": "Crime",
+    "sentiment": 0.14
+  },
+  {
+    "title": "Smosh: The Movie",
+    "ratings": 5.3,
+    "genres": "Comedy|Action|Adventure",
+    "sentiment": 0.33
+  },
+  {
+    "title": "Keepers of the Covenant: Making Exodus: Gods and Kings",
+    "ratings": 5.5,
+    "genres": "Documentary",
+    "sentiment": 0.5
+  },
+  {
+    "title": "\u00e8\u00a7\u00a3\u00e6\u2022\u2018\u00e5\u00b4\u00e5\u2026\u02c6\u00e7\u201d\u0178",
+    "ratings": 6.4,
+    "genres": "Thriller|Crime",
+    "sentiment": 0.08
+  },
+  {
+    "title": "The Quiet Hour",
+    "ratings": 5.3,
+    "genres": "Drama|Science Fiction|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Lost in the Sun",
+    "ratings": 5.5,
+    "genres": "Action|Crime|Drama|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Results",
+    "ratings": 5.1,
+    "genres": "Comedy",
+    "sentiment": 0.68
+  },
+  {
+    "title": "Addicted to Fresno",
+    "ratings": 4.8,
+    "genres": "Comedy",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Listening",
+    "ratings": 5.3,
+    "genres": "Drama|Thriller|Science Fiction",
+    "sentiment": 0.19
+  },
+  {
+    "title": "Jack of the Red Hearts",
+    "ratings": 7,
+    "genres": "Drama|Family",
+    "sentiment": 0.29
+  },
+  {
+    "title": "Absolution",
+    "ratings": 5,
+    "genres": "Thriller|Action|Adventure|Crime",
+    "sentiment": 0.23
+  },
+  {
+    "title": "American Hero",
+    "ratings": 5.2,
+    "genres": "Action|Comedy|Science Fiction",
+    "sentiment": 0.96
+  },
+  {
+    "title": "The Condemned 2",
+    "ratings": 4,
+    "genres": "Action",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Bound",
+    "ratings": 3.1,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.89
+  },
+  {
+    "title": "Re-Kill",
+    "ratings": 4.7,
+    "genres": "Horror|Science Fiction",
+    "sentiment": 0.11
+  },
+  {
+    "title": "SuperBob",
+    "ratings": 5.4,
+    "genres": "Action|Comedy|Romance",
+    "sentiment": 0.95
+  },
+  {
+    "title": "A Hitman in London",
+    "ratings": 4.6,
+    "genres": "Crime|Action",
+    "sentiment": 0.21
+  },
+  {
+    "title": "Regular Show: The Movie",
+    "ratings": 7.4,
+    "genres": "Comedy|TV Movie|Animation|Science Fiction",
+    "sentiment": 0.34
+  },
+  {
+    "title": "If There Be Thorns",
+    "ratings": 5.4,
+    "genres": "TV Movie|Drama",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Pod",
+    "ratings": 4.2,
+    "genres": "Thriller|Horror|Mystery",
+    "sentiment": 0.13
+  },
+  {
+    "title": "To Write Love on Her Arms",
+    "ratings": 6.9,
+    "genres": "Drama|Music",
+    "sentiment": 0.72
+  },
+  {
+    "title": "Hungry Hearts",
+    "ratings": 6.2,
+    "genres": "Drama",
+    "sentiment": 0.28
+  },
+  {
+    "title": "The Funhouse Massacre",
+    "ratings": 6.1,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.28
+  },
+  {
+    "title": "Extraordinary Tales",
+    "ratings": 5.4,
+    "genres": "Horror|Animation|Mystery",
+    "sentiment": 0.5
+  },
+  {
+    "title": "War Room",
+    "ratings": 6.9,
+    "genres": "Drama",
+    "sentiment": 0.26
+  },
+  {
+    "title": "A Deadly Adoption",
+    "ratings": 4.4,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Ellis",
+    "ratings": 7.2,
+    "genres": "Drama",
+    "sentiment": 0.95
+  },
+  {
+    "title": "Coconut Hero",
+    "ratings": 7.4,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.67
+  },
+  {
+    "title": "Janis: Little Girl Blue",
+    "ratings": 7.5,
+    "genres": "Documentary|Music",
+    "sentiment": 0.74
+  },
+  {
+    "title": "Io che amo solo te",
+    "ratings": 5.2,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Unknown Caller",
+    "ratings": 6.2,
+    "genres": "Thriller",
+    "sentiment": 0.1
+  },
+  {
+    "title": "The Inhabitants",
+    "ratings": 3.5,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.35
+  },
+  {
+    "title": "Amy Schumer: Live at the Apollo",
+    "ratings": 7.5,
+    "genres": "Comedy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Glassland",
+    "ratings": 3.5,
+    "genres": "Drama",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Whitney",
+    "ratings": 4.7,
+    "genres": "Romance|Drama|Music",
+    "sentiment": 0.72
+  },
+  {
+    "title": "Heaven Knows What",
+    "ratings": 6.9,
+    "genres": "Drama",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Keith Richards: Under the Influence",
+    "ratings": 6.4,
+    "genres": "Music|Documentary",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Landmine Goes Click",
+    "ratings": 5.7,
+    "genres": "Action|Crime|Drama|Thriller",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Hellions",
+    "ratings": 3.5,
+    "genres": "Horror",
+    "sentiment": 0.24
+  },
+  {
+    "title": "13 Cameras",
+    "ratings": 6.2,
+    "genres": "Drama|Horror",
+    "sentiment": 0.6
+  },
+  {
+    "title": "Bastard",
+    "ratings": 6.2,
+    "genres": "Horror",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Strange Blood",
+    "ratings": 4.1,
+    "genres": "Science Fiction|Horror",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Jurassic City",
+    "ratings": 5.7,
+    "genres": "Action|Science Fiction",
+    "sentiment": 0.02
+  },
+  {
+    "title": "6 Years",
+    "ratings": 5.5,
+    "genres": "Romance|Drama",
+    "sentiment": 0.79
+  },
+  {
+    "title": "I Am Chris Farley",
+    "ratings": 7,
+    "genres": "Documentary",
+    "sentiment": 0.96
+  },
+  {
+    "title": "Chloe and Theo",
+    "ratings": 6.7,
+    "genres": "Drama",
+    "sentiment": 0.97
+  },
+  {
+    "title": "All Things Must Pass",
+    "ratings": 7,
+    "genres": "Documentary",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Capsule",
+    "ratings": 5.3,
+    "genres": "Drama|History|Thriller|Science Fiction",
+    "sentiment": 0.2
+  },
+  {
+    "title": "The Nightmare",
+    "ratings": 5.7,
+    "genres": "Horror|Documentary",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Tangerine",
+    "ratings": 7,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.81
+  },
+  {
+    "title": "Nightlight",
+    "ratings": 3.9,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Stockholm, Pennsylvania",
+    "ratings": 4.9,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Power/Rangers",
+    "ratings": 7.4,
+    "genres": "Action|Adventure|Science Fiction",
+    "sentiment": 0.83
+  },
+  {
+    "title": "Appropriate Behavior",
+    "ratings": 5.8,
+    "genres": "Romance|Comedy|Drama",
+    "sentiment": 0.95
+  },
+  {
+    "title": "See You In Valhalla",
+    "ratings": 5.6,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.1
+  },
+  {
+    "title": "The True Cost",
+    "ratings": 7.6,
+    "genres": "Documentary",
+    "sentiment": 0.71
+  },
+  {
+    "title": "Kumiko, the Treasure Hunter",
+    "ratings": 6.2,
+    "genres": "Drama",
+    "sentiment": 0.38
+  },
+  {
+    "title": "Invisible Sister",
+    "ratings": 6.5,
+    "genres": "Fantasy|Adventure|Comedy",
+    "sentiment": 0.74
+  },
+  {
+    "title": "The Forbidden Room",
+    "ratings": 5.7,
+    "genres": "Romance|Comedy|Drama|Mystery",
+    "sentiment": 0.62
+  },
+  {
+    "title": "Finders Keepers",
+    "ratings": 5.7,
+    "genres": "Documentary",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Merry Kissmas",
+    "ratings": 7.6,
+    "genres": "Romance|TV Movie",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Most Likely to Die",
+    "ratings": 4.2,
+    "genres": "Horror",
+    "sentiment": 0.19
+  },
+  {
+    "title": "A Girl Like Her",
+    "ratings": 7.3,
+    "genres": "Drama",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Private Number",
+    "ratings": 3.5,
+    "genres": "Mystery|Horror|Thriller",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Iliza Shlesinger: Freezing Hot",
+    "ratings": 6.6,
+    "genres": "Comedy",
+    "sentiment": 0.95
+  },
+  {
+    "title": "The Barber",
+    "ratings": 5.8,
+    "genres": "Thriller",
+    "sentiment": 0.07
+  },
+  {
+    "title": "James White",
+    "ratings": 5.2,
+    "genres": "Drama",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Hitchcock/Truffaut",
+    "ratings": 7.2,
+    "genres": "Documentary",
+    "sentiment": 0.5
+  },
+  {
+    "title": "A Faster Horse",
+    "ratings": 8,
+    "genres": "Documentary",
+    "sentiment": 0.59
+  },
+  {
+    "title": "Amnesiac",
+    "ratings": 4.1,
+    "genres": "Thriller|Mystery|Drama|Horror",
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Mask You Live In",
+    "ratings": 8.9,
+    "genres": "Documentary",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Soaked in Bleach",
+    "ratings": 7.2,
+    "genres": "Music|Drama|Documentary|Crime",
+    "sentiment": 0.01
+  },
+  {
+    "title": "And Then There Were None",
+    "ratings": 7.7,
+    "genres": "Mystery|Drama",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Bloodsucking Bastards",
+    "ratings": 5.5,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Culling",
+    "ratings": 3.2,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Comedy Central Roast of Justin Bieber",
+    "ratings": 7,
+    "genres": "Comedy",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Boy Meets Girl",
+    "ratings": 7.4,
+    "genres": "Drama|Romance|Comedy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Listen to Me Marlon",
+    "ratings": 7,
+    "genres": "Documentary",
+    "sentiment": 0.38
+  },
+  {
+    "title": "The Ouija Experiment 2: Theatre of Death",
+    "ratings": 2.4,
+    "genres": "Horror",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Walt Before Mickey",
+    "ratings": 6.2,
+    "genres": "Drama",
+    "sentiment": 0.61
+  },
+  {
+    "title": "Sense8: Creating the World",
+    "ratings": 7.5,
+    "genres": "Documentary|Science Fiction",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Big Sky",
+    "ratings": 4.2,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Fear of 13",
+    "ratings": 8.2,
+    "genres": "Thriller|Documentary",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Dior and I",
+    "ratings": 7.5,
+    "genres": "Documentary",
+    "sentiment": 0.99
+  },
+  {
+    "title": "Ominous",
+    "ratings": 5.1,
+    "genres": "Horror",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Doctor Who: The Husbands of River Song",
+    "ratings": 8,
+    "genres": "Drama|Science Fiction|Comedy",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Call Me Lucky",
+    "ratings": 7.3,
+    "genres": "Documentary",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Tiger House",
+    "ratings": 5.3,
+    "genres": "Thriller|Drama|Action|Crime",
+    "sentiment": 0.31
+  },
+  {
+    "title": "With This Ring",
+    "ratings": 6.5,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.99
+  },
+  {
+    "title": "Brothers",
+    "ratings": 6.3,
+    "genres": "Family|Action|Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Anguish",
+    "ratings": 3.8,
+    "genres": "Horror",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Childhood's End",
+    "ratings": 6.2,
+    "genres": "Thriller|TV Movie|Science Fiction|Drama",
+    "sentiment": 0.75
+  },
+  {
+    "title": "Digging Up the Marrow",
+    "ratings": 5.4,
+    "genres": "Thriller|Mystery|Horror|Fantasy",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Naomi and Ely's No Kiss List",
+    "ratings": 6,
+    "genres": "Comedy|Drama|Romance",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Cokeville Miracle",
+    "ratings": 5.1,
+    "genres": "Mystery|Drama|History|Family|Thriller",
+    "sentiment": 0.55
+  },
+  {
+    "title": "They Found Hell",
+    "ratings": 4.6,
+    "genres": "Horror",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Junun",
+    "ratings": 7.3,
+    "genres": "Music|Documentary",
+    "sentiment": 0.9
+  },
+  {
+    "title": "The Chosen",
+    "ratings": 5.2,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.19
+  },
+  {
+    "title": "The Flintstones & WWE: Stone Age Smackdown",
+    "ratings": 5.5,
+    "genres": "Animation|Comedy|Family",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Chris Tucker: Live",
+    "ratings": 6.7,
+    "genres": "Comedy",
+    "sentiment": 0.69
+  },
+  {
+    "title": "VANish",
+    "ratings": 4,
+    "genres": "Crime|Thriller|Action|Horror",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Harry Price: Ghost Hunter",
+    "ratings": 5.3,
+    "genres": "Drama|Horror",
+    "sentiment": 0.46
+  },
+  {
+    "title": "Brotherly Love",
+    "ratings": 7.4,
+    "genres": "Drama",
+    "sentiment": 0.58
+  },
+  {
+    "title": "Wildlike",
+    "ratings": 6.5,
+    "genres": "Thriller|Adventure|Drama",
+    "sentiment": 0.3
+  },
+  {
+    "title": "The Audition",
+    "ratings": 6.1,
+    "genres": "Comedy",
+    "sentiment": 0.68
+  },
+  {
+    "title": "Louis C.K.: Live at The Comedy Store",
+    "ratings": 7.7,
+    "genres": "Comedy",
+    "sentiment": 0.98
+  },
+  {
+    "title": "The Wolfpack",
+    "ratings": 6.9,
+    "genres": "Documentary",
+    "sentiment": 0.62
+  },
+  {
+    "title": "The Challenger",
+    "ratings": 5.3,
+    "genres": "Action|Drama",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Aziz Ansari: Live at Madison Square Garden",
+    "ratings": 7.1,
+    "genres": "Comedy",
+    "sentiment": 0.8
+  },
+  {
+    "title": "Bleeding Heart",
+    "ratings": 4.8,
+    "genres": "Drama",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Requiem for the American Dream",
+    "ratings": 7.8,
+    "genres": "Documentary",
+    "sentiment": 0.95
+  },
+  {
+    "title": "3 Nights in the Desert",
+    "ratings": 3.8,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The House on Pine Street",
+    "ratings": 3.8,
+    "genres": "Drama|Horror",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Slow Learners",
+    "ratings": 6,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Welcome to Leith",
+    "ratings": 6.7,
+    "genres": "Thriller|Crime|Documentary",
+    "sentiment": 0.3
+  },
+  {
+    "title": "Stonewall",
+    "ratings": 5.6,
+    "genres": "Drama",
+    "sentiment": 0.24
+  },
+  {
+    "title": "The Phoenix Incident",
+    "ratings": 5.9,
+    "genres": "Horror|Thriller|Science Fiction",
+    "sentiment": 0.39
+  },
+  {
+    "title": "Contracted: Phase II",
+    "ratings": 5,
+    "genres": "Drama|Horror|Thriller",
+    "sentiment": 0.45
+  },
+  {
+    "title": "Penis Boy",
+    "ratings": 3.3,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.27
+  },
+  {
+    "title": "The Hunting Ground",
+    "ratings": 7.8,
+    "genres": "Documentary",
+    "sentiment": 0.01
+  },
+  {
+    "title": "One & Two",
+    "ratings": 5,
+    "genres": "Thriller|Drama|Fantasy",
+    "sentiment": 0.2
+  },
+  {
+    "title": "Tig",
+    "ratings": 7.2,
+    "genres": "Documentary",
+    "sentiment": 0.29
+  },
+  {
+    "title": "Christmas Incorporated",
+    "ratings": 6.9,
+    "genres": "Drama|TV Movie",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Submerged",
+    "ratings": 4.6,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Hurricane of Fun: The Making of Wet Hot",
+    "ratings": 6.8,
+    "genres": "Documentary",
+    "sentiment": 0.56
+  },
+  {
+    "title": "Gascoigne",
+    "ratings": 6,
+    "genres": "Documentary",
+    "sentiment": 0.79
+  },
+  {
+    "title": "One Soldier's Story: The Journey of American Sniper",
+    "ratings": 5.6,
+    "genres": "Romance|War|Documentary|Drama",
+    "sentiment": 0.89
+  },
+  {
+    "title": "Deep Dark",
+    "ratings": 4.6,
+    "genres": "Horror",
+    "sentiment": 0.13
+  },
+  {
+    "title": "Best of Enemies",
+    "ratings": 7.2,
+    "genres": "Documentary|History",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Vendetta",
+    "ratings": 5.9,
+    "genres": "Action",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Breaking Through",
+    "ratings": 5.7,
+    "genres": "Music|Drama",
+    "sentiment": 0.64
+  },
+  {
+    "title": "The Stranger",
+    "ratings": 4.9,
+    "genres": "Drama|Thriller|Horror|Mystery",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Star Wars: TIE Fighter",
+    "ratings": 7.6,
+    "genres": "Science Fiction|Action|Animation",
+    "sentiment": 0.3
+  },
+  {
+    "title": "Dough",
+    "ratings": 4.9,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.2
+  },
+  {
+    "title": "The Bad Education Movie",
+    "ratings": 5.2,
+    "genres": "Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Student Bodies",
+    "ratings": 6,
+    "genres": "Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Subjects",
+    "ratings": 4.7,
+    "genres": "Thriller|Science Fiction",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Walking with the Dead",
+    "ratings": 3.9,
+    "genres": "Science Fiction|Comedy",
+    "sentiment": 0.44
+  },
+  {
+    "title": "Floride",
+    "ratings": 6.3,
+    "genres": "Comedy",
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Outskirts",
+    "ratings": 4,
+    "genres": "Comedy",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Twinsters",
+    "ratings": 7.4,
+    "genres": "Family|Documentary",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Jinx: The Life and Deaths of Robert Durst",
+    "ratings": 8.4,
+    "genres": "Documentary",
+    "sentiment": 0.13
+  },
+  {
+    "title": "The Curse of Downers Grove",
+    "ratings": 4.2,
+    "genres": "Thriller|Mystery|Horror|Drama",
+    "sentiment": 0.03
+  },
+  {
+    "title": "World of Tomorrow",
+    "ratings": 8.2,
+    "genres": "Animation|Comedy|Science Fiction",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Dawg Fight",
+    "ratings": 6.4,
+    "genres": "Documentary",
+    "sentiment": 0.15
+  },
+  {
+    "title": "King Jack",
+    "ratings": 6.8,
+    "genres": "Drama",
+    "sentiment": 0.73
+  },
+  {
+    "title": "The Suicide Theory",
+    "ratings": 6.5,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.0
+  },
+  {
+    "title": "Stalked By My Neighbor",
+    "ratings": 5.5,
+    "genres": "Thriller",
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Outfield",
+    "ratings": 6.6,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.32
+  },
+  {
+    "title": "Buzzard",
+    "ratings": 6.1,
+    "genres": "Horror|Comedy|Drama",
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Gamechangers",
+    "ratings": 7,
+    "genres": "Drama|TV Movie",
+    "sentiment": 0.96
+  },
+  {
+    "title": "Residue",
+    "ratings": 4.5,
+    "genres": "Science Fiction|Mystery|Horror|Thriller",
+    "sentiment": 0.38
+  },
+  {
+    "title": "All Hallows' Eve 2",
+    "ratings": 5,
+    "genres": "",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Always Watching: A Marble Hornets Story",
+    "ratings": 4.2,
+    "genres": "Horror",
+    "sentiment": 0.08
+  },
+  {
+    "title": "A Ballerina's Tale",
+    "ratings": 6,
+    "genres": "Documentary",
+    "sentiment": 0.29
+  },
+  {
+    "title": "Man vs. Snake",
+    "ratings": 6.8,
+    "genres": "Documentary",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Once I Was a Beehive",
+    "ratings": 6.5,
+    "genres": "Comedy|Drama|Family",
+    "sentiment": 0.05
+  },
+  {
+    "title": "John Mulaney: The Comeback Kid",
+    "ratings": 6.7,
+    "genres": "Comedy",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Meet the Patels",
+    "ratings": 6.7,
+    "genres": "Documentary",
+    "sentiment": 1.0
+  },
+  {
+    "title": "I Hate Christian Laettner",
+    "ratings": 6.7,
+    "genres": "Documentary",
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Emperor's New Clothes",
+    "ratings": 6.1,
+    "genres": "Documentary",
+    "sentiment": 0.61
+  },
+  {
+    "title": "Interstellar",
+    "ratings": 8,
+    "genres": "Adventure|Drama|Science Fiction",
+    "sentiment": 0.67
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "ratings": 7.9,
+    "genres": "Action|Science Fiction|Adventure",
+    "sentiment": 0.24
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "ratings": 7.6,
+    "genres": "Action|Adventure|Science Fiction",
+    "sentiment": 0.01
+  },
+  {
+    "title": "John Wick",
+    "ratings": 7,
+    "genres": "Action|Thriller",
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "ratings": 6.6,
+    "genres": "Science Fiction|Adventure|Thriller",
+    "sentiment": 0.39
+  },
+  {
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "ratings": 7.1,
+    "genres": "Adventure|Fantasy",
+    "sentiment": 0.62
+  },
+  {
+    "title": "Big Hero 6",
+    "ratings": 7.8,
+    "genres": "Adventure|Family|Animation|Action|Comedy",
+    "sentiment": 0.92
+  },
+  {
+    "title": "The Imitation Game",
+    "ratings": 8,
+    "genres": "History|Drama|Thriller|War",
+    "sentiment": 0.24
+  },
+  {
+    "title": "The Maze Runner",
+    "ratings": 7,
+    "genres": "Action|Mystery|Science Fiction|Thriller",
+    "sentiment": 0.44
+  },
+  {
+    "title": "Birdman",
+    "ratings": 7.3,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Gone Girl",
+    "ratings": 7.9,
+    "genres": "Mystery|Thriller|Drama",
+    "sentiment": 0.6
+  },
+  {
+    "title": "Fury",
+    "ratings": 7.4,
+    "genres": "War|Drama|Action",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Night at the Museum: Secret of the Tomb",
+    "ratings": 6.1,
+    "genres": "Adventure|Comedy|Fantasy|Family",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Divergent",
+    "ratings": 6.9,
+    "genres": "Action|Science Fiction|Thriller",
+    "sentiment": 0.19
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "ratings": 7.6,
+    "genres": "Action|Adventure|Fantasy|Science Fiction",
+    "sentiment": 0.21
+  },
+  {
+    "title": "Lucy",
+    "ratings": 6.3,
+    "genres": "Action|Science Fiction",
+    "sentiment": 0.33
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles",
+    "ratings": 5.8,
+    "genres": "Science Fiction|Action|Adventure|Fantasy|Comedy",
+    "sentiment": 0.41
+  },
+  {
+    "title": "Sex Tape",
+    "ratings": 5.3,
+    "genres": "Comedy",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Nightcrawler",
+    "ratings": 7.6,
+    "genres": "Crime|Drama|Thriller",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "ratings": 5.9,
+    "genres": "Science Fiction|Action|Adventure",
+    "sentiment": 0.67
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "ratings": 7.9,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.71
+  },
+  {
+    "title": "Whiplash",
+    "ratings": 8.2,
+    "genres": "Drama|Music",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Dawn of the Planet of the Apes",
+    "ratings": 7.4,
+    "genres": "Science Fiction|Action|Drama|Thriller",
+    "sentiment": 0.81
+  },
+  {
+    "title": "The Equalizer",
+    "ratings": 7.2,
+    "genres": "Thriller|Action|Crime",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Horrible Bosses 2",
+    "ratings": 6.1,
+    "genres": "Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "ratings": 6.6,
+    "genres": "Action|Adventure|Fantasy",
+    "sentiment": 0.81
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "ratings": 7.7,
+    "genres": "Action|Science Fiction",
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Interview",
+    "ratings": 6.1,
+    "genres": "Action|Comedy",
+    "sentiment": 0.44
+  },
+  {
+    "title": "American Sniper",
+    "ratings": 7.5,
+    "genres": "War|Action",
+    "sentiment": 0.95
+  },
+  {
+    "title": "Exodus: Gods and Kings",
+    "ratings": 5.6,
+    "genres": "Adventure|Drama|Action",
+    "sentiment": 0.2
+  },
+  {
+    "title": "Godzilla",
+    "ratings": 6.2,
+    "genres": "Action|Science Fiction|Thriller",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Maleficent",
+    "ratings": 7,
+    "genres": "Fantasy|Adventure|Action|Family|Romance",
+    "sentiment": 0.81
+  },
+  {
+    "title": "The November Man",
+    "ratings": 6,
+    "genres": "Crime|Action|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Ouija",
+    "ratings": 4.9,
+    "genres": "Horror",
+    "sentiment": 0.24
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "ratings": 7.7,
+    "genres": "Fantasy|Action|Adventure|Animation|Comedy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "It Follows",
+    "ratings": 6.6,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.42
+  },
+  {
+    "title": "The Expendables 3",
+    "ratings": 6.2,
+    "genres": "Action|Adventure|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Lego Movie",
+    "ratings": 7.5,
+    "genres": "Adventure|Fantasy|Animation|Comedy|Action",
+    "sentiment": 0.12
+  },
+  {
+    "title": "The Loft",
+    "ratings": 6.4,
+    "genres": "Thriller",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Seventh Son",
+    "ratings": 5.1,
+    "genres": "Adventure|Fantasy",
+    "sentiment": 0.65
+  },
+  {
+    "title": "The Theory of Everything",
+    "ratings": 7.8,
+    "genres": "Drama|Romance",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Let's Be Cops",
+    "ratings": 6.4,
+    "genres": "Comedy",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Dracula Untold",
+    "ratings": 6.1,
+    "genres": "Horror|Action|Drama|Fantasy|War",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Penguins of Madagascar",
+    "ratings": 6.5,
+    "genres": "Family|Animation|Adventure|Comedy",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Into the Woods",
+    "ratings": 5.6,
+    "genres": "Fantasy|Comedy|Music",
+    "sentiment": 0.08
+  },
+  {
+    "title": "300: Rise of an Empire",
+    "ratings": 6.1,
+    "genres": "Action|War",
+    "sentiment": 0.88
+  },
+  {
+    "title": "The Giver",
+    "ratings": 6.3,
+    "genres": "Drama|Science Fiction",
+    "sentiment": 0.97
+  },
+  {
+    "title": "22 Jump Street",
+    "ratings": 7,
+    "genres": "Crime|Comedy|Action",
+    "sentiment": 0.96
+  },
+  {
+    "title": "A Walk Among the Tombstones",
+    "ratings": 6.2,
+    "genres": "Crime|Drama|Mystery|Thriller",
+    "sentiment": 0.17
+  },
+  {
+    "title": "Paddington",
+    "ratings": 7.1,
+    "genres": "Comedy",
+    "sentiment": 0.93
+  },
+  {
+    "title": "Cake",
+    "ratings": 6.1,
+    "genres": "Drama",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Chef",
+    "ratings": 7.2,
+    "genres": "Comedy",
+    "sentiment": 0.72
+  },
+  {
+    "title": "The Purge: Anarchy",
+    "ratings": 6.6,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Left Behind",
+    "ratings": 3.8,
+    "genres": "Thriller|Action|Science Fiction",
+    "sentiment": 0.11
+  },
+  {
+    "title": "Boyhood",
+    "ratings": 7.6,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "A Most Violent Year",
+    "ratings": 6.4,
+    "genres": "Action|Thriller|Crime|Drama",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Hercules",
+    "ratings": 5.6,
+    "genres": "Action|Adventure",
+    "sentiment": 0.54
+  },
+  {
+    "title": "Noah",
+    "ratings": 5.5,
+    "genres": "Drama|Adventure",
+    "sentiment": 0.19
+  },
+  {
+    "title": "The Judge",
+    "ratings": 7.2,
+    "genres": "Drama",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Drive Hard",
+    "ratings": 4,
+    "genres": "Action|Comedy|Crime",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Blended",
+    "ratings": 6.7,
+    "genres": "Comedy",
+    "sentiment": 0.55
+  },
+  {
+    "title": "Neighbors",
+    "ratings": 6.2,
+    "genres": "Comedy",
+    "sentiment": 0.18
+  },
+  {
+    "title": "If I Stay",
+    "ratings": 7.2,
+    "genres": "Drama",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Step Up All In",
+    "ratings": 6.7,
+    "genres": "Romance|Drama|Music",
+    "sentiment": 0.58
+  },
+  {
+    "title": "Love, Rosie",
+    "ratings": 7.6,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.98
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "ratings": 7.8,
+    "genres": "Romance|Drama",
+    "sentiment": 0.16
+  },
+  {
+    "title": "I Origins",
+    "ratings": 7.5,
+    "genres": "Science Fiction|Drama",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Ride Along",
+    "ratings": 6.1,
+    "genres": "Action|Comedy",
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Captive",
+    "ratings": 5.8,
+    "genres": "Thriller",
+    "sentiment": 0.41
+  },
+  {
+    "title": "Inherent Vice",
+    "ratings": 6.3,
+    "genres": "Comedy|Romance|Crime|Drama|Mystery",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Jack Ryan: Shadow Recruit",
+    "ratings": 5.9,
+    "genres": "Action|Drama|Thriller",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Non-Stop",
+    "ratings": 6.8,
+    "genres": "Action|Thriller|Mystery",
+    "sentiment": 0.2
+  },
+  {
+    "title": "Predestination",
+    "ratings": 7.2,
+    "genres": "Science Fiction|Thriller",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Aut\u00c3\u00b3mata",
+    "ratings": 5.4,
+    "genres": "Thriller|Science Fiction",
+    "sentiment": 0.32
+  },
+  {
+    "title": "Mythica: A Quest for Heroes",
+    "ratings": 5.3,
+    "genres": "Action|Adventure|Fantasy",
+    "sentiment": 0.9
+  },
+  {
+    "title": "The Drop",
+    "ratings": 6.6,
+    "genres": "Drama|Crime",
+    "sentiment": 0.53
+  },
+  {
+    "title": "RoboCop",
+    "ratings": 5.7,
+    "genres": "Science Fiction|Action",
+    "sentiment": 0.86
+  },
+  {
+    "title": "Transcendence",
+    "ratings": 5.9,
+    "genres": "Thriller|Science Fiction|Drama|Mystery",
+    "sentiment": 0.58
+  },
+  {
+    "title": "The Other Woman",
+    "ratings": 6.2,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Mr. Peabody & Sherman",
+    "ratings": 6.8,
+    "genres": "Animation|Adventure|Family",
+    "sentiment": 0.25
+  },
+  {
+    "title": "A Merry Friggin' Christmas",
+    "ratings": 4.7,
+    "genres": "Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Sin City: A Dame to Kill For",
+    "ratings": 6.2,
+    "genres": "Crime|Thriller",
+    "sentiment": 0.22
+  },
+  {
+    "title": "Tinker Bell and the Legend of the NeverBeast",
+    "ratings": 7,
+    "genres": "Adventure|Animation|Family",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Rio 2",
+    "ratings": 6.5,
+    "genres": "Animation|Adventure|Comedy|Family",
+    "sentiment": 0.58
+  },
+  {
+    "title": "Dumb and Dumber To",
+    "ratings": 5.5,
+    "genres": "Comedy",
+    "sentiment": 0.85
+  },
+  {
+    "title": "Before I Go to Sleep",
+    "ratings": 6.1,
+    "genres": "Mystery|Thriller",
+    "sentiment": 0.78
+  },
+  {
+    "title": "The Monuments Men",
+    "ratings": 5.7,
+    "genres": "War|Drama|History|Action",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Unbroken",
+    "ratings": 7.2,
+    "genres": "Drama|War",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Selma",
+    "ratings": 7.5,
+    "genres": "History|Drama",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Mommy",
+    "ratings": 8,
+    "genres": "Drama",
+    "sentiment": 0.25
+  },
+  {
+    "title": "Escobar: Paradise Lost",
+    "ratings": 6.2,
+    "genres": "Thriller|Romance",
+    "sentiment": 0.26
+  },
+  {
+    "title": "Tinker Bell and the Pirate Fairy",
+    "ratings": 6.5,
+    "genres": "Animation|Family",
+    "sentiment": 0.95
+  },
+  {
+    "title": "Wild",
+    "ratings": 6.9,
+    "genres": "Drama",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Pompeii",
+    "ratings": 5.1,
+    "genres": "Action|Adventure|History|Romance|Drama",
+    "sentiment": 0.99
+  },
+  {
+    "title": "The Best of Me",
+    "ratings": 7.2,
+    "genres": "Drama|Romance",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Annie",
+    "ratings": 6.1,
+    "genres": "Music|Comedy|Drama|Family",
+    "sentiment": 0.91
+  },
+  {
+    "title": "Stonehearst Asylum",
+    "ratings": 6.6,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.11
+  },
+  {
+    "title": "The Book of Life",
+    "ratings": 7.3,
+    "genres": "Romance|Animation|Adventure|Comedy|Family",
+    "sentiment": 0.86
+  },
+  {
+    "title": "St. Vincent",
+    "ratings": 7.1,
+    "genres": "Comedy",
+    "sentiment": 0.41
+  },
+  {
+    "title": "Need for Speed",
+    "ratings": 6.2,
+    "genres": "Action|Crime|Drama|Thriller",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Two Night Stand",
+    "ratings": 6.3,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Good People",
+    "ratings": 5.2,
+    "genres": "Thriller|Crime|Action",
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Hundred-Foot Journey",
+    "ratings": 7.2,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Boxtrolls",
+    "ratings": 6.6,
+    "genres": "Animation|Comedy|Family|Fantasy",
+    "sentiment": 0.35
+  },
+  {
+    "title": "Big Eyes",
+    "ratings": 6.8,
+    "genres": "Drama",
+    "sentiment": 0.84
+  },
+  {
+    "title": "The Prince",
+    "ratings": 4.6,
+    "genres": "Thriller|Action",
+    "sentiment": 0.35
+  },
+  {
+    "title": "Black Sea",
+    "ratings": 6.3,
+    "genres": "Adventure",
+    "sentiment": 0.53
+  },
+  {
+    "title": "Song of the Sea",
+    "ratings": 8,
+    "genres": "Family|Animation|Fantasy",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Marvel One-Shot: All Hail the King",
+    "ratings": 7.1,
+    "genres": "Comedy|Action|Drama|Thriller|Fantasy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Signal",
+    "ratings": 5.8,
+    "genres": "Thriller|Science Fiction",
+    "sentiment": 0.14
+  },
+  {
+    "title": "White Bird in a Blizzard",
+    "ratings": 6.1,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.35
+  },
+  {
+    "title": "Into the Storm",
+    "ratings": 5.7,
+    "genres": "Action|Thriller",
+    "sentiment": 0.13
+  },
+  {
+    "title": "Outcast",
+    "ratings": 4.4,
+    "genres": "Action",
+    "sentiment": 0.11
+  },
+  {
+    "title": "3 Days to Kill",
+    "ratings": 6,
+    "genres": "Action|Drama|Thriller|Crime",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Planes: Fire & Rescue",
+    "ratings": 5.9,
+    "genres": "Animation|Comedy|Adventure|Family",
+    "sentiment": 0.87
+  },
+  {
+    "title": "'71",
+    "ratings": 6.6,
+    "genres": "Thriller|Action|Drama|War",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Sabotage",
+    "ratings": 5.4,
+    "genres": "Action|Drama|Thriller|Crime",
+    "sentiment": 0.56
+  },
+  {
+    "title": "A Million Ways to Die in the West",
+    "ratings": 5.9,
+    "genres": "Comedy|Western",
+    "sentiment": 0.34
+  },
+  {
+    "title": "The Forger",
+    "ratings": 5.3,
+    "genres": "Thriller|Crime|Drama",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Frank",
+    "ratings": 6.8,
+    "genres": "Comedy|Drama|Mystery",
+    "sentiment": 0.68
+  },
+  {
+    "title": "Camp X-Ray",
+    "ratings": 6.7,
+    "genres": "Drama",
+    "sentiment": 0.29
+  },
+  {
+    "title": "No Good Deed",
+    "ratings": 5.8,
+    "genres": "Thriller",
+    "sentiment": 0.33
+  },
+  {
+    "title": "Still Alice",
+    "ratings": 7.5,
+    "genres": "Drama",
+    "sentiment": 0.31
+  },
+  {
+    "title": "As Above, So Below",
+    "ratings": 6.1,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Foxcatcher",
+    "ratings": 6.5,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.92
+  },
+  {
+    "title": "Playing It Cool",
+    "ratings": 5.6,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Endless Love",
+    "ratings": 6.6,
+    "genres": "Drama|Romance",
+    "sentiment": 0.95
+  },
+  {
+    "title": "The Rover",
+    "ratings": 6,
+    "genres": "Crime|Drama",
+    "sentiment": 0.4
+  },
+  {
+    "title": "Think Like a Man Too",
+    "ratings": 6.2,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.36
+  },
+  {
+    "title": "Suite Fran\u00c3\u00a7aise",
+    "ratings": 6.9,
+    "genres": "Drama|Romance|War",
+    "sentiment": 0.12
+  },
+  {
+    "title": "The Two Faces of January",
+    "ratings": 5.4,
+    "genres": "Thriller",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Walk of Shame",
+    "ratings": 5.7,
+    "genres": "Comedy",
+    "sentiment": 0.71
+  },
+  {
+    "title": "Enemy",
+    "ratings": 6.6,
+    "genres": "Thriller|Mystery",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Annabelle",
+    "ratings": 5.6,
+    "genres": "Horror",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Echoes",
+    "ratings": 3.3,
+    "genres": "Drama|Horror|Thriller",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Maya the Bee Movie",
+    "ratings": 5.6,
+    "genres": "Family|Animation",
+    "sentiment": 0.95
+  },
+  {
+    "title": "I, Frankenstein",
+    "ratings": 5.1,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "That Awkward Moment",
+    "ratings": 6,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Palo Alto",
+    "ratings": 6.4,
+    "genres": "Drama",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Draft Day",
+    "ratings": 6.5,
+    "genres": "Drama",
+    "sentiment": 0.85
+  },
+  {
+    "title": "Brick Mansions",
+    "ratings": 5.8,
+    "genres": "Action|Crime|Drama",
+    "sentiment": 0.31
+  },
+  {
+    "title": "The Babadook",
+    "ratings": 6.5,
+    "genres": "Drama|Thriller|Horror",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Tammy",
+    "ratings": 5.1,
+    "genres": "Comedy",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Boychoir",
+    "ratings": 6.5,
+    "genres": "Drama",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Serena",
+    "ratings": 5.4,
+    "genres": "Drama",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Testament of Youth",
+    "ratings": 7,
+    "genres": "History|Drama|War",
+    "sentiment": 0.26
+  },
+  {
+    "title": "American Heist",
+    "ratings": 4.3,
+    "genres": "Action",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Bullet",
+    "ratings": 4.4,
+    "genres": "Action|Crime|Thriller",
+    "sentiment": 0.56
+  },
+  {
+    "title": "The Skeleton Twins",
+    "ratings": 6.7,
+    "genres": "Drama",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Salting the Battlefield",
+    "ratings": 6.3,
+    "genres": "Mystery|Drama|Action|Crime",
+    "sentiment": 0.53
+  },
+  {
+    "title": "The Calling",
+    "ratings": 5.7,
+    "genres": "Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Winter's Tale",
+    "ratings": 5.9,
+    "genres": "Drama|Fantasy|Mystery|Romance",
+    "sentiment": 0.86
+  },
+  {
+    "title": "Pride",
+    "ratings": 7.7,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.73
+  },
+  {
+    "title": "Laggies",
+    "ratings": 6.1,
+    "genres": "Romance|Comedy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "The Guest",
+    "ratings": 6.6,
+    "genres": "Mystery|Thriller|Action",
+    "sentiment": 0.59
+  },
+  {
+    "title": "Frontera",
+    "ratings": 6.1,
+    "genres": "Western|Drama",
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Cobbler",
+    "ratings": 5.4,
+    "genres": "Fantasy|Comedy|Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Blue Ruin",
+    "ratings": 6.7,
+    "genres": "Crime|Thriller",
+    "sentiment": 0.1
+  },
+  {
+    "title": "How to Make Love Like an Englishman",
+    "ratings": 5.5,
+    "genres": "Comedy",
+    "sentiment": 0.99
+  },
+  {
+    "title": "The Water Diviner",
+    "ratings": 6.8,
+    "genres": "War|Drama",
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Green Inferno",
+    "ratings": 4.8,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.89
+  },
+  {
+    "title": "Magic in the Moonlight",
+    "ratings": 6.3,
+    "genres": "Comedy|Drama|Romance",
+    "sentiment": 0.17
+  },
+  {
+    "title": "Kite",
+    "ratings": 4.2,
+    "genres": "Drama|Action",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+    "ratings": 6.2,
+    "genres": "Family|Comedy",
+    "sentiment": 0.06
+  },
+  {
+    "title": "This Is Where I Leave You",
+    "ratings": 6.5,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "The Homesman",
+    "ratings": 6.2,
+    "genres": "Western|Drama",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Son of a Gun",
+    "ratings": 6.1,
+    "genres": "Action|Crime|Drama|Thriller",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Cold in July",
+    "ratings": 6.3,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.53
+  },
+  {
+    "title": "The Double",
+    "ratings": 6.4,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.69
+  },
+  {
+    "title": "The Nut Job",
+    "ratings": 5.4,
+    "genres": "Animation|Comedy|Family|Adventure",
+    "sentiment": 0.73
+  },
+  {
+    "title": "Skin Trade",
+    "ratings": 5.6,
+    "genres": "Thriller|Action|Drama",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Open Windows",
+    "ratings": 5.1,
+    "genres": "Thriller|Action|Crime",
+    "sentiment": 0.4
+  },
+  {
+    "title": "Big Game",
+    "ratings": 5.2,
+    "genres": "Action|Adventure",
+    "sentiment": 0.76
+  },
+  {
+    "title": "The Bag Man",
+    "ratings": 5,
+    "genres": "Crime|Drama|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Jersey Boys",
+    "ratings": 6.7,
+    "genres": "Music|Drama",
+    "sentiment": 0.67
+  },
+  {
+    "title": "About Last Night",
+    "ratings": 5.8,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.93
+  },
+  {
+    "title": "Million Dollar Arm",
+    "ratings": 6.6,
+    "genres": "Drama",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Wish I Was Here",
+    "ratings": 6.3,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Infinitely Polar Bear",
+    "ratings": 7,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Cymbeline",
+    "ratings": 3.5,
+    "genres": "Drama",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Adult Beginners",
+    "ratings": 5,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.72
+  },
+  {
+    "title": "Zodiac",
+    "ratings": 3.3,
+    "genres": "Science Fiction|TV Movie",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Before We Go",
+    "ratings": 6.3,
+    "genres": "Drama|Romance|Comedy",
+    "sentiment": 0.87
+  },
+  {
+    "title": "Under the Skin",
+    "ratings": 6,
+    "genres": "Thriller|Science Fiction|Drama",
+    "sentiment": 0.4
+  },
+  {
+    "title": "Veronica Mars",
+    "ratings": 6.3,
+    "genres": "Comedy|Drama|Crime",
+    "sentiment": 0.27
+  },
+  {
+    "title": "Hector and the Search for Happiness",
+    "ratings": 6.9,
+    "genres": "Adventure|Drama|Comedy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Son of God",
+    "ratings": 5.8,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Fed Up",
+    "ratings": 7.3,
+    "genres": "Documentary",
+    "sentiment": 0.25
+  },
+  {
+    "title": "Batman: Assault on Arkham",
+    "ratings": 7.4,
+    "genres": "Thriller|Animation|Action|Crime",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Barefoot",
+    "ratings": 6.5,
+    "genres": "Comedy|Drama|Romance",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Justice League: War",
+    "ratings": 7,
+    "genres": "Animation",
+    "sentiment": 0.46
+  },
+  {
+    "title": "The Zero Theorem",
+    "ratings": 5.7,
+    "genres": "Drama|Fantasy|Science Fiction",
+    "sentiment": 0.89
+  },
+  {
+    "title": "Housebound",
+    "ratings": 6.4,
+    "genres": "Horror|Comedy|Thriller",
+    "sentiment": 0.26
+  },
+  {
+    "title": "A Good Marriage",
+    "ratings": 5.3,
+    "genres": "Thriller",
+    "sentiment": 0.38
+  },
+  {
+    "title": "When the Game Stands Tall",
+    "ratings": 6.2,
+    "genres": "Drama",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Turks & Caicos",
+    "ratings": 6.3,
+    "genres": "Thriller|Drama|Action|Mystery",
+    "sentiment": 0.13
+  },
+  {
+    "title": "Toy Story That Time Forgot",
+    "ratings": 6.9,
+    "genres": "Animation|Family",
+    "sentiment": 0.65
+  },
+  {
+    "title": "Feast",
+    "ratings": 8,
+    "genres": "Romance|Comedy|Animation|Drama|Family",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Jackie & Ryan",
+    "ratings": 5.5,
+    "genres": "Drama",
+    "sentiment": 0.53
+  },
+  {
+    "title": "The Riot Club",
+    "ratings": 5.9,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Scribbler",
+    "ratings": 4.3,
+    "genres": "Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Grace of Monaco",
+    "ratings": 5.7,
+    "genres": "Romance|Drama",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Decoding Annie Parker",
+    "ratings": 5.2,
+    "genres": "Drama",
+    "sentiment": 0.17
+  },
+  {
+    "title": "The Little Death",
+    "ratings": 6.2,
+    "genres": "Drama|Comedy|Romance",
+    "sentiment": 0.09
+  },
+  {
+    "title": "In Your Eyes",
+    "ratings": 7.2,
+    "genres": "Drama|Romance|Science Fiction",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Bad Ass 2: Bad Asses",
+    "ratings": 5.7,
+    "genres": "Action",
+    "sentiment": 0.39
+  },
+  {
+    "title": "Cuban Fury",
+    "ratings": 5.8,
+    "genres": "Comedy",
+    "sentiment": 0.24
+  },
+  {
+    "title": "Dying of the Light",
+    "ratings": 4.4,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Quiet Ones",
+    "ratings": 5.1,
+    "genres": "Horror",
+    "sentiment": 0.09
+  },
+  {
+    "title": "Tokarev",
+    "ratings": 5.2,
+    "genres": "Action|Crime|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "A Most Wanted Man",
+    "ratings": 6.3,
+    "genres": "Thriller",
+    "sentiment": 0.24
+  },
+  {
+    "title": "Top Five",
+    "ratings": 6.2,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Get on Up",
+    "ratings": 6.3,
+    "genres": "Drama|Music",
+    "sentiment": 0.41
+  },
+  {
+    "title": "The Pyramid",
+    "ratings": 4.7,
+    "genres": "Horror",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Deliver Us from Evil",
+    "ratings": 6,
+    "genres": "Thriller|Crime|Horror",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Clouds of Sils Maria",
+    "ratings": 6.8,
+    "genres": "Drama",
+    "sentiment": 0.64
+  },
+  {
+    "title": "Kill the Messenger",
+    "ratings": 6.5,
+    "genres": "Thriller|Crime|Drama|Mystery",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Calvary",
+    "ratings": 7,
+    "genres": "Drama",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Time Lapse",
+    "ratings": 6.3,
+    "genres": "Thriller|Science Fiction",
+    "sentiment": 0.51
+  },
+  {
+    "title": "She\u00e2\u20ac\u2122s Funny That Way",
+    "ratings": 5.7,
+    "genres": "Comedy",
+    "sentiment": 0.82
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "ratings": 7.2,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.38
+  },
+  {
+    "title": "Cut Bank",
+    "ratings": 4.8,
+    "genres": "Thriller",
+    "sentiment": 0.54
+  },
+  {
+    "title": "Honeymoon",
+    "ratings": 5.3,
+    "genres": "Horror",
+    "sentiment": 0.14
+  },
+  {
+    "title": "Starred Up",
+    "ratings": 6.9,
+    "genres": "Drama",
+    "sentiment": 0.01
+  },
+  {
+    "title": "Space Station 76",
+    "ratings": 4.4,
+    "genres": "Drama|Comedy|Science Fiction",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Locke",
+    "ratings": 6.8,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.45
+  },
+  {
+    "title": "20,000 Days on Earth",
+    "ratings": 6.8,
+    "genres": "Music|Documentary|Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Dolphin Tale 2",
+    "ratings": 6.8,
+    "genres": "Family|Drama",
+    "sentiment": 0.71
+  },
+  {
+    "title": "The Longest Week",
+    "ratings": 5.1,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.96
+  },
+  {
+    "title": "A Certain Justice",
+    "ratings": 3.1,
+    "genres": "Action|Drama",
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Angriest Man in Brooklyn",
+    "ratings": 5.5,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Hellion",
+    "ratings": 5.3,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.41
+  },
+  {
+    "title": "The Woman in Black 2: Angel of Death",
+    "ratings": 4.9,
+    "genres": "Thriller|Horror|Drama",
+    "sentiment": 0.18
+  },
+  {
+    "title": "God's Pocket",
+    "ratings": 5.2,
+    "genres": "Drama",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Jessabelle",
+    "ratings": 5,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Muppets Most Wanted",
+    "ratings": 6.2,
+    "genres": "Comedy|Adventure|Crime|Family",
+    "sentiment": 0.73
+  },
+  {
+    "title": "You're Not You",
+    "ratings": 7.3,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Drownsman",
+    "ratings": 4.1,
+    "genres": "Horror|Fantasy|Thriller",
+    "sentiment": 0.02
+  },
+  {
+    "title": "Search Party",
+    "ratings": 5.3,
+    "genres": "Comedy",
+    "sentiment": 0.76
+  },
+  {
+    "title": "Gun Woman",
+    "ratings": 4.7,
+    "genres": "Thriller|Action",
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Taking of Deborah Logan",
+    "ratings": 5.9,
+    "genres": "Horror|Mystery|Thriller",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Tusk",
+    "ratings": 4.9,
+    "genres": "Comedy|Drama|Horror",
+    "sentiment": 0.87
+  },
+  {
+    "title": "Men, Women & Children",
+    "ratings": 6.4,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Shelter",
+    "ratings": 5.3,
+    "genres": "Drama",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Hello Ladies: The Movie",
+    "ratings": 6.3,
+    "genres": "Comedy",
+    "sentiment": 0.93
+  },
+  {
+    "title": "Sx_Tape",
+    "ratings": 3.3,
+    "genres": "Horror",
+    "sentiment": 0.07
+  },
+  {
+    "title": "What We Did on Our Holiday",
+    "ratings": 6.6,
+    "genres": "Comedy",
+    "sentiment": 0.77
+  },
+  {
+    "title": "The Anomaly",
+    "ratings": 4.7,
+    "genres": "Thriller|Action|Science Fiction",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Stretch",
+    "ratings": 5.8,
+    "genres": "Action|Comedy|Thriller",
+    "sentiment": 0.04
+  },
+  {
+    "title": "5 Flights Up",
+    "ratings": 5.9,
+    "genres": "Drama",
+    "sentiment": 0.53
+  },
+  {
+    "title": "A Haunted House 2",
+    "ratings": 5.4,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.62
+  },
+  {
+    "title": "Love & Mercy",
+    "ratings": 7.2,
+    "genres": "Drama|Music",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Heaven is for Real",
+    "ratings": 6.1,
+    "genres": "Drama",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Reach Me",
+    "ratings": 5.1,
+    "genres": "Drama",
+    "sentiment": 0.5
+  },
+  {
+    "title": "In the Blood",
+    "ratings": 5.2,
+    "genres": "Action|Crime|Thriller",
+    "sentiment": 0.51
+  },
+  {
+    "title": "Lizzie Borden Took An Ax",
+    "ratings": 5.9,
+    "genres": "Drama|Mystery|Thriller",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Monsters: Dark Continent",
+    "ratings": 3.8,
+    "genres": "Thriller|Drama|Science Fiction",
+    "sentiment": 0.67
+  },
+  {
+    "title": "Night Moves",
+    "ratings": 5.8,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.41
+  },
+  {
+    "title": "Paper Planes",
+    "ratings": 6.3,
+    "genres": "Family",
+    "sentiment": 0.96
+  },
+  {
+    "title": "The Inbetweeners 2",
+    "ratings": 5.9,
+    "genres": "Comedy",
+    "sentiment": 0.73
+  },
+  {
+    "title": "Barbie and the Secret Door",
+    "ratings": 6.7,
+    "genres": "Adventure|Animation|Family|Fantasy",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Time Out of Mind",
+    "ratings": 5.4,
+    "genres": "Drama",
+    "sentiment": 0.15
+  },
+  {
+    "title": "Citizenfour",
+    "ratings": 7.8,
+    "genres": "Documentary",
+    "sentiment": 0.87
+  },
+  {
+    "title": "A Little Chaos",
+    "ratings": 5.9,
+    "genres": "Drama|Romance",
+    "sentiment": 0.73
+  },
+  {
+    "title": "Bears",
+    "ratings": 7.4,
+    "genres": "Documentary|Family",
+    "sentiment": 0.6
+  },
+  {
+    "title": "The Possession of Michael King",
+    "ratings": 5.6,
+    "genres": "Horror",
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Town that Dreaded Sundown",
+    "ratings": 5.8,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Legend of Hercules",
+    "ratings": 4.4,
+    "genres": "Action|Adventure",
+    "sentiment": 1.0
+  },
+  {
+    "title": "Maps to the Stars",
+    "ratings": 5.6,
+    "genres": "Drama",
+    "sentiment": 0.75
+  },
+  {
+    "title": "Zombeavers",
+    "ratings": 4.8,
+    "genres": "Horror|Action|Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "13 Sins",
+    "ratings": 6.2,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Lemon Tree Passage",
+    "ratings": 4.8,
+    "genres": "Thriller|Horror|Mystery",
+    "sentiment": 0.01
+  },
+  {
+    "title": "And So It Goes",
+    "ratings": 5.7,
+    "genres": "Comedy|Drama|Romance",
+    "sentiment": 0.7
+  },
+  {
+    "title": "Mr. Turner",
+    "ratings": 6.1,
+    "genres": "History|Drama",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Bad Johnson",
+    "ratings": 4.6,
+    "genres": "Fantasy|Comedy",
+    "sentiment": 0.97
+  },
+  {
+    "title": "Northmen: A Viking Saga",
+    "ratings": 5.3,
+    "genres": "Adventure",
+    "sentiment": 0.06
+  },
+  {
+    "title": "Wolves",
+    "ratings": 5.3,
+    "genres": "Horror|Action",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Roald Dahl's Esio Trot",
+    "ratings": 6.8,
+    "genres": "Comedy",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Burying the Ex",
+    "ratings": 5.2,
+    "genres": "Comedy|Horror",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Vampire Academy",
+    "ratings": 5.8,
+    "genres": "Action|Fantasy|Comedy|Horror|Mystery",
+    "sentiment": 0.89
+  },
+  {
+    "title": "The Disappearance of Eleanor Rigby: Them",
+    "ratings": 6.4,
+    "genres": "Drama",
+    "sentiment": 0.75
+  },
+  {
+    "title": "Life After Beth",
+    "ratings": 4.8,
+    "genres": "Romance|Comedy|Horror",
+    "sentiment": 0.3
+  },
+  {
+    "title": "Out of the Dark",
+    "ratings": 4.5,
+    "genres": "Thriller|Horror",
+    "sentiment": 0.26
+  },
+  {
+    "title": "Kick",
+    "ratings": 6.2,
+    "genres": "Romance|Action|Comedy",
+    "sentiment": 0.38
+  },
+  {
+    "title": "Cloud 9",
+    "ratings": 6.1,
+    "genres": "Action|Drama|Romance|TV Movie",
+    "sentiment": 0.91
+  },
+  {
+    "title": "Premature",
+    "ratings": 5.1,
+    "genres": "Comedy",
+    "sentiment": 0.1
+  },
+  {
+    "title": "The Good Lie",
+    "ratings": 7.1,
+    "genres": "Drama",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Bad Country",
+    "ratings": 5.7,
+    "genres": "Drama|Action|Crime",
+    "sentiment": 0.18
+  },
+  {
+    "title": "GirlHouse",
+    "ratings": 4.9,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.19
+  },
+  {
+    "title": "The Mule",
+    "ratings": 5.8,
+    "genres": "Crime|Comedy",
+    "sentiment": 0.14
+  },
+  {
+    "title": "ABCs of Death 2",
+    "ratings": 5.4,
+    "genres": "Horror",
+    "sentiment": 0.85
+  },
+  {
+    "title": "Sharknado 2: The Second One",
+    "ratings": 4.7,
+    "genres": "Thriller|Horror|Science Fiction",
+    "sentiment": 0.49
+  },
+  {
+    "title": "Love Is Strange",
+    "ratings": 6.4,
+    "genres": "Drama",
+    "sentiment": 0.6
+  },
+  {
+    "title": "Walking on Sunshine",
+    "ratings": 6.1,
+    "genres": "Comedy|Romance|Music",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Jinn",
+    "ratings": 3.6,
+    "genres": "Thriller",
+    "sentiment": 0.17
+  },
+  {
+    "title": "Miss Julie",
+    "ratings": 5.4,
+    "genres": "Drama",
+    "sentiment": 0.58
+  },
+  {
+    "title": "Flying Home",
+    "ratings": 6.3,
+    "genres": "Romance",
+    "sentiment": 0.98
+  },
+  {
+    "title": "Redirected",
+    "ratings": 5.7,
+    "genres": "Action|Comedy|Crime|Thriller",
+    "sentiment": 0.59
+  },
+  {
+    "title": "Behaving Badly",
+    "ratings": 5,
+    "genres": "Comedy",
+    "sentiment": 0.96
+  },
+  {
+    "title": "Wrong Turn 6: Last Resort",
+    "ratings": 4.9,
+    "genres": "Horror",
+    "sentiment": 0.6
+  },
+  {
+    "title": "Welcome to Me",
+    "ratings": 5.7,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.62
+  },
+  {
+    "title": "Alien Outpost",
+    "ratings": 4.1,
+    "genres": "Thriller|Action|Science Fiction",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Just Before I Go",
+    "ratings": 6,
+    "genres": "Comedy|Drama|Romance",
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Disappearance of Eleanor Rigby: Her",
+    "ratings": 6.1,
+    "genres": "Drama",
+    "sentiment": 0.82
+  },
+  {
+    "title": "October Gale",
+    "ratings": 5.4,
+    "genres": "Thriller|Drama|Romance",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Get Santa",
+    "ratings": 6.5,
+    "genres": "Family|Comedy",
+    "sentiment": 0.75
+  },
+  {
+    "title": "Freezer",
+    "ratings": 5.3,
+    "genres": "Action|Thriller",
+    "sentiment": 0.32
+  },
+  {
+    "title": "Mercenaries",
+    "ratings": 4.2,
+    "genres": "Action",
+    "sentiment": 0.17
+  },
+  {
+    "title": "Reasonable Doubt",
+    "ratings": 5.5,
+    "genres": "Crime|Thriller",
+    "sentiment": 0.01
+  },
+  {
+    "title": "The Face of an Angel",
+    "ratings": 4.2,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.11
+  },
+  {
+    "title": "The Single Moms Club",
+    "ratings": 6,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Song One",
+    "ratings": 5.7,
+    "genres": "Drama",
+    "sentiment": 0.49
+  },
+  {
+    "title": "Rampage: Capital Punishment",
+    "ratings": 5.6,
+    "genres": "Action|Crime|Thriller",
+    "sentiment": 0.54
+  },
+  {
+    "title": "A Girl Walks Home Alone at Night",
+    "ratings": 7,
+    "genres": "Horror|Romance",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Before I Disappear",
+    "ratings": 5.9,
+    "genres": "Drama",
+    "sentiment": 0.6
+  },
+  {
+    "title": "Afflicted",
+    "ratings": 6.1,
+    "genres": "Horror|Thriller",
+    "sentiment": 0.55
+  },
+  {
+    "title": "The Swan Princess: A Royal Family Tale",
+    "ratings": 5.6,
+    "genres": "Animation|Family",
+    "sentiment": 0.79
+  },
+  {
+    "title": "Addicted",
+    "ratings": 5.3,
+    "genres": "Drama|Thriller",
+    "sentiment": 0.49
+  },
+  {
+    "title": "Beyond the Lights",
+    "ratings": 6.9,
+    "genres": "Drama",
+    "sentiment": 0.9
+  },
+  {
+    "title": "About Alex",
+    "ratings": 6.5,
+    "genres": "Drama",
+    "sentiment": 0.15
+  },
+  {
+    "title": "A Royal Christmas",
+    "ratings": 6.1,
+    "genres": "TV Movie|Romance|Family",
+    "sentiment": 0.97
+  },
+  {
+    "title": "A Long Way Down",
+    "ratings": 6.2,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.04
+  },
+  {
+    "title": "Lost After Dark",
+    "ratings": 4.8,
+    "genres": "Horror",
+    "sentiment": 0.38
+  },
+  {
+    "title": "Pas son genre",
+    "ratings": 6,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.9
+  },
+  {
+    "title": "The Pact II",
+    "ratings": 4.5,
+    "genres": "Mystery|Horror|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Moms' Night Out",
+    "ratings": 5.7,
+    "genres": "Comedy",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Son of Batman",
+    "ratings": 6.8,
+    "genres": "Animation|Action|Adventure",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Earth to Echo",
+    "ratings": 5.7,
+    "genres": "Family|Adventure|Science Fiction",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Boulevard",
+    "ratings": 5.6,
+    "genres": "Drama",
+    "sentiment": 0.67
+  },
+  {
+    "title": "Falcon Rising",
+    "ratings": 5.4,
+    "genres": "Adventure|Action",
+    "sentiment": 0.07
+  },
+  {
+    "title": "The Damned",
+    "ratings": 5.2,
+    "genres": "Thriller|Horror|Mystery",
+    "sentiment": 0.2
+  },
+  {
+    "title": "Sleeping Beauty",
+    "ratings": 5,
+    "genres": "Fantasy|Adventure",
+    "sentiment": 0.88
+  },
+  {
+    "title": "God Help the Girl",
+    "ratings": 6.7,
+    "genres": "Comedy|Drama|Music",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Wicked Blood",
+    "ratings": 4.9,
+    "genres": "Action|Drama|Thriller",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Avalanche Sharks",
+    "ratings": 3.8,
+    "genres": "Action|Horror|Science Fiction",
+    "sentiment": 0.08
+  },
+  {
+    "title": "Young Ones",
+    "ratings": 5.4,
+    "genres": "Western|Action|Drama|Science Fiction",
+    "sentiment": 0.45
+  },
+  {
+    "title": "Catch Hell",
+    "ratings": 5.3,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Big Driver",
+    "ratings": 4.9,
+    "genres": "TV Movie|Crime|Mystery|Thriller",
+    "sentiment": 0.05
+  },
+  {
+    "title": "Jamesy Boy",
+    "ratings": 6,
+    "genres": "Crime|Drama|Family|Romance",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Obvious Child",
+    "ratings": 6.7,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.5
+  },
+  {
+    "title": "My Little Pony: Equestria Girls - Rainbow Rocks",
+    "ratings": 6.7,
+    "genres": "Family|Animation|Music",
+    "sentiment": 0.95
+  },
+  {
+    "title": "Red Sky",
+    "ratings": 3.8,
+    "genres": "Action|Thriller",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Stage Fright",
+    "ratings": 5.3,
+    "genres": "Horror",
+    "sentiment": 0.03
+  },
+  {
+    "title": "Sword of Vengeance",
+    "ratings": 5.6,
+    "genres": "Drama|Action|Adventure",
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Coed and the Zombie Stoner",
+    "ratings": 3.9,
+    "genres": "Comedy",
+    "sentiment": 0.82
+  },
+  {
+    "title": "Reclaim",
+    "ratings": 5.1,
+    "genres": "Thriller",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Best Night Ever",
+    "ratings": 3.8,
+    "genres": "Comedy",
+    "sentiment": 0.85
+  },
+  {
+    "title": "The Gambler",
+    "ratings": 5.6,
+    "genres": "Thriller|Crime|Drama",
+    "sentiment": 0.31
+  },
+  {
+    "title": "Tapped Out",
+    "ratings": 5.4,
+    "genres": "Action|Drama",
+    "sentiment": 0.16
+  },
+  {
+    "title": "Halo: Nightfall",
+    "ratings": 5.2,
+    "genres": "Adventure|Science Fiction|Action|Thriller",
+    "sentiment": 0.02
+  },
+  {
+    "title": "By the Gun",
+    "ratings": 3.9,
+    "genres": "Crime|Drama|Thriller",
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Humbling",
+    "ratings": 4.7,
+    "genres": "Drama|Comedy",
+    "sentiment": 0.1
+  },
+  {
+    "title": "Plastic",
+    "ratings": 6,
+    "genres": "Drama|Action|Comedy|Crime",
+    "sentiment": 0.12
+  },
+  {
+    "title": "Road to Paloma",
+    "ratings": 5.3,
+    "genres": "Thriller|Drama",
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Grand Seduction",
+    "ratings": 6.7,
+    "genres": "Comedy",
+    "sentiment": 0.88
+  },
+  {
+    "title": "Electric Boogaloo: The Wild, Untold Story of Cannon Films",
+    "ratings": 7.2,
+    "genres": "Documentary",
+    "sentiment": 0.86
+  },
+  {
+    "title": "Joe",
+    "ratings": 6.5,
+    "genres": "Drama",
+    "sentiment": 0.18
+  },
+  {
+    "title": "Let's Kill Ward's Wife",
+    "ratings": 5.3,
+    "genres": "Comedy",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Extraterrestrial",
+    "ratings": 4.6,
+    "genres": "Horror|Science Fiction",
+    "sentiment": 0.94
+  },
+  {
+    "title": "Haunt",
+    "ratings": 5.1,
+    "genres": "Horror",
+    "sentiment": 0.26
+  },
+  {
+    "title": "Olive Kitteridge",
+    "ratings": 7.1,
+    "genres": "Drama",
+    "sentiment": 0.66
+  },
+  {
+    "title": "Starry Eyes",
+    "ratings": 5.8,
+    "genres": "Horror",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Cantinflas",
+    "ratings": 5.3,
+    "genres": "Drama",
+    "sentiment": 0.9
+  },
+  {
+    "title": "Manny",
+    "ratings": 6.6,
+    "genres": "Documentary|Drama",
+    "sentiment": 0.54
+  },
+  {
+    "title": 7500,
+    "ratings": 4.3,
+    "genres": "Thriller|Horror|Mystery",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Free Fall",
+    "ratings": 4.7,
+    "genres": "Drama|Thriller|Action",
+    "sentiment": 0.05
+  },
+  {
+    "title": "5 to 7",
+    "ratings": 7.1,
+    "genres": "Comedy|Romance",
+    "sentiment": 0.5
+  },
+  {
+    "title": "Angry Video Game Nerd: The Movie",
+    "ratings": 5.8,
+    "genres": "Science Fiction|Adventure|Comedy",
+    "sentiment": 0.07
+  },
+  {
+    "title": "Star Wars Rebels: Spark of Rebellion",
+    "ratings": 6.8,
+    "genres": "",
+    "sentiment": 0.06
+  },
+  {
+    "title": "These Final Hours",
+    "ratings": 6.1,
+    "genres": "Science Fiction|Drama|Thriller",
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Pretty One",
+    "ratings": 5.9,
+    "genres": "Comedy|Drama",
+    "sentiment": 0.66
+  }
+]

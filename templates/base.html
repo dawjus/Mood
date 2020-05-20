@@ -1,36 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
 
-</body>
-</html>
-
-<html>
 <head>
-  <meta charset="utf-8">
-  <title>{% block title %}Django Auth Tutorial{% endblock %}</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mood</title>
 </head>
+
 <body>
-<header>
-    <div>
-        <a href="{% url 'home' %}">Home page</a>
-    </div>
-    {% if user.is_authenticated %}
-      Hi {{ user.username }}!
-      <p><a href="{% url 'logout' %}">Logout</a></p>
-    {% else %}
-      <p>Welcome to MOOD</p>
-        <a href="{% url 'signup' %}">Sign up</a>
-      <a href="{% url 'login' %}">Login</a>
-    {% endif %}
-</header>
+  <div>
+    <a href="{% url 'home' %}">Home page</a>
+  </div>
+  {% if user.is_authenticated %}
+  Hi {{ user.username }}!
+  <p><a href="{% url 'logout' %}">Logout</a></p>
+  {% else %}
+  <p>Welcome to MOOD</p>
+  <a href="{% url 'signup' %}">Sign up</a>
+  <a href="{% url 'login' %}">Login</a>
+  <br />
+  <a href="{% url 'questions' %}">Choose a movie without login</a>
+  {% endif %}
   <main>
     {% block content %}
     {% endblock %}
   </main>
 </body>
+
 </html>
