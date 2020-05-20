@@ -25,7 +25,7 @@ MOOD is a simple web application that checks users' mood and choose adequate ent
 
 # Technology stack: 
 
-- Frontend: Django, Bootstrap 
+- Frontend: Django Templates, Bootstrap 
 - Backend: Python, Django 
 - Database: SQLite 
 
@@ -64,7 +64,7 @@ time range, age range, Sex, Period of year(winter,spring,etc...)
 - as a user I would like to enter the password twice during registration so as not to make mistakes 
 - as a user I would like to see the rating of the film I got 
 - as a user I would like to see a list of movies in the database 
-- as a user I would like to rate movies and books 
+- as a user I would like to rate movies  
 - as a user I would like to see the link or application name where to look for help 
 
 ## Project roadmap: 
