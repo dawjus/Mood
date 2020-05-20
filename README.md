@@ -14,7 +14,14 @@
 
 MOOD is a simple web application that checks users' mood and choose adequate entertainment depending on their choices. Funny movie, good book or interesting podcast? Users only need to answer some questions about their feelings and time limitation and app quickly selects a lot of options that hopely satisfy user. 
 
- 
+## How to start 
+
+1. Create virtual environment: ```python -m venv mood-env```
+1. Activate virtual environment:
+    - on Linux: ```source mood-env/bin/activate```
+    - on Windows: ```.\mood-env\Scripts\activate```
+1. Install dependencies: ```pip install -r requirements.txt```
+1. Run application: ```python manage.py runserver```
 
 # Technology stack: 
 
