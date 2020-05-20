@@ -1,0 +1,5002 @@
+[
+  {
+    "title": "Avatar",
+    "ratings": 7.2,
+    "sentiment": 0.38
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "ratings": 6.9,
+    "sentiment": 0.3
+  },
+  {
+    "title": "Spectre",
+    "ratings": 6.3,
+    "sentiment": 0.09
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "ratings": 7.6,
+    "sentiment": 0.04
+  },
+  {
+    "title": "John Carter",
+    "ratings": 6.1,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Spider-Man 3",
+    "ratings": 5.9,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Tangled",
+    "ratings": 7.4,
+    "sentiment": 0.71
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "ratings": 7.3,
+    "sentiment": 0.34
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "ratings": 7.4,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Batman v Superman: Dawn of Justice",
+    "ratings": 5.7,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Superman Returns",
+    "ratings": 5.4,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Quantum of Solace",
+    "ratings": 6.1,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "ratings": 7,
+    "sentiment": 0.1
+  },
+  {
+    "title": "The Lone Ranger",
+    "ratings": 5.9,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Man of Steel",
+    "ratings": 6.5,
+    "sentiment": 0.97
+  },
+  {
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "ratings": 6.3,
+    "sentiment": 0.28
+  },
+  {
+    "title": "The Avengers",
+    "ratings": 7.4,
+    "sentiment": 0.17
+  },
+  {
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "ratings": 6.4,
+    "sentiment": 0.66
+  },
+  {
+    "title": "Men in Black 3",
+    "ratings": 6.2,
+    "sentiment": 0.82
+  },
+  {
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "ratings": 7.1,
+    "sentiment": 0.62
+  },
+  {
+    "title": "The Amazing Spider-Man",
+    "ratings": 6.5,
+    "sentiment": 0.58
+  },
+  {
+    "title": "Robin Hood",
+    "ratings": 6.2,
+    "sentiment": 0.8
+  },
+  {
+    "title": "The Hobbit: The Desolation of Smaug",
+    "ratings": 7.6,
+    "sentiment": 0.85
+  },
+  {
+    "title": "The Golden Compass",
+    "ratings": 5.8,
+    "sentiment": 0.56
+  },
+  {
+    "title": "King Kong",
+    "ratings": 6.6,
+    "sentiment": 0.74
+  },
+  {
+    "title": "Titanic",
+    "ratings": 7.5,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Captain America: Civil War",
+    "ratings": 7.1,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Battleship",
+    "ratings": 5.5,
+    "sentiment": 0.82
+  },
+  {
+    "title": "Jurassic World",
+    "ratings": 6.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Skyfall",
+    "ratings": 6.9,
+    "sentiment": 0.47
+  },
+  {
+    "title": "Spider-Man 2",
+    "ratings": 6.7,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Iron Man 3",
+    "ratings": 6.8,
+    "sentiment": 0.11
+  },
+  {
+    "title": "Alice in Wonderland",
+    "ratings": 6.4,
+    "sentiment": 0.4
+  },
+  {
+    "title": "X-Men: The Last Stand",
+    "ratings": 6.3,
+    "sentiment": 0.84
+  },
+  {
+    "title": "Monsters University",
+    "ratings": 7,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Transformers: Revenge of the Fallen",
+    "ratings": 6,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "ratings": 5.8,
+    "sentiment": 0.67
+  },
+  {
+    "title": "Oz: The Great and Powerful",
+    "ratings": 5.7,
+    "sentiment": 0.72
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "ratings": 6.5,
+    "sentiment": 0.81
+  },
+  {
+    "title": "TRON: Legacy",
+    "ratings": 6.3,
+    "sentiment": 0.33
+  },
+  {
+    "title": "Cars 2",
+    "ratings": 5.8,
+    "sentiment": 0.92
+  },
+  {
+    "title": "Green Lantern",
+    "ratings": 5.1,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Toy Story 3",
+    "ratings": 7.6,
+    "sentiment": 0.8
+  },
+  {
+    "title": "Terminator Salvation",
+    "ratings": 5.9,
+    "sentiment": 0.26
+  },
+  {
+    "title": "Furious 7",
+    "ratings": 7.3,
+    "sentiment": 0.24
+  },
+  {
+    "title": "World War Z",
+    "ratings": 6.7,
+    "sentiment": 0.08
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "ratings": 7.5,
+    "sentiment": 0.21
+  },
+  {
+    "title": "Star Trek Into Darkness",
+    "ratings": 7.4,
+    "sentiment": 0.06
+  },
+  {
+    "title": "Jack the Giant Slayer",
+    "ratings": 5.5,
+    "sentiment": 0.12
+  },
+  {
+    "title": "The Great Gatsby",
+    "ratings": 7.3,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Prince of Persia: The Sands of Time",
+    "ratings": 6.2,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Pacific Rim",
+    "ratings": 6.7,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Transformers: Dark of the Moon",
+    "ratings": 6.1,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "ratings": 5.7,
+    "sentiment": 0.18
+  },
+  {
+    "title": "The Good Dinosaur",
+    "ratings": 6.6,
+    "sentiment": 0.75
+  },
+  {
+    "title": "Brave",
+    "ratings": 6.7,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Star Trek Beyond",
+    "ratings": 6.6,
+    "sentiment": 0.24
+  },
+  {
+    "title": "WALL\u00b7E",
+    "ratings": 7.8,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Rush Hour 3",
+    "ratings": 6.1,
+    "sentiment": 0.19
+  },
+  {
+    "title": 2012,
+    "ratings": 5.6,
+    "sentiment": 0.12
+  },
+  {
+    "title": "A Christmas Carol",
+    "ratings": 6.6,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Jupiter Ascending",
+    "ratings": 5.2,
+    "sentiment": 0.88
+  },
+  {
+    "title": "The Legend of Tarzan",
+    "ratings": 5.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "ratings": 6.7,
+    "sentiment": 0.92
+  },
+  {
+    "title": "X-Men: Apocalypse",
+    "ratings": 6.4,
+    "sentiment": 0.27
+  },
+  {
+    "title": "The Dark Knight",
+    "ratings": 8.2,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Up",
+    "ratings": 7.7,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Monsters vs Aliens",
+    "ratings": 6,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Iron Man",
+    "ratings": 7.4,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Hugo",
+    "ratings": 7,
+    "sentiment": 0.27
+  },
+  {
+    "title": "Wild Wild West",
+    "ratings": 5.1,
+    "sentiment": 0.22
+  },
+  {
+    "title": "The Mummy: Tomb of the Dragon Emperor",
+    "ratings": 5.2,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Suicide Squad",
+    "ratings": 5.9,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Evan Almighty",
+    "ratings": 5.3,
+    "sentiment": 0.87
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "ratings": 7.6,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Waterworld",
+    "ratings": 5.9,
+    "sentiment": 0.66
+  },
+  {
+    "title": "G.I. Joe: The Rise of Cobra",
+    "ratings": 5.6,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Inside Out",
+    "ratings": 8,
+    "sentiment": 0.76
+  },
+  {
+    "title": "The Jungle Book",
+    "ratings": 6.7,
+    "sentiment": 0.8
+  },
+  {
+    "title": "Iron Man 2",
+    "ratings": 6.6,
+    "sentiment": 0.36
+  },
+  {
+    "title": "Snow White and the Huntsman",
+    "ratings": 5.8,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Maleficent",
+    "ratings": 7,
+    "sentiment": 0.81
+  },
+  {
+    "title": "Dawn of the Planet of the Apes",
+    "ratings": 7.3,
+    "sentiment": 0.81
+  },
+  {
+    "title": "The Lovers",
+    "ratings": 4.8,
+    "sentiment": 0.97
+  },
+  {
+    "title": "47 Ronin",
+    "ratings": 5.9,
+    "sentiment": 0.67
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "ratings": 7.6,
+    "sentiment": 0.01
+  },
+  {
+    "title": "Shrek Forever After",
+    "ratings": 6,
+    "sentiment": 0.82
+  },
+  {
+    "title": "Tomorrowland",
+    "ratings": 6.2,
+    "sentiment": 0.66
+  },
+  {
+    "title": "Big Hero 6",
+    "ratings": 7.8,
+    "sentiment": 0.92
+  },
+  {
+    "title": "Wreck-It Ralph",
+    "ratings": 7.1,
+    "sentiment": 0.24
+  },
+  {
+    "title": "The Polar Express",
+    "ratings": 6.4,
+    "sentiment": 0.33
+  },
+  {
+    "title": "Independence Day: Resurgence",
+    "ratings": 4.9,
+    "sentiment": 0.92
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "ratings": 7.5,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Terminator 3: Rise of the Machines",
+    "ratings": 5.9,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "ratings": 7.9,
+    "sentiment": 0.24
+  },
+  {
+    "title": "Interstellar",
+    "ratings": 8.1,
+    "sentiment": 0.67
+  },
+  {
+    "title": "Inception",
+    "ratings": 8.1,
+    "sentiment": 0.34
+  },
+  {
+    "title": "Shin Godzilla",
+    "ratings": 6.5,
+    "sentiment": 0.36
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "ratings": 7,
+    "sentiment": 0.78
+  },
+  {
+    "title": "The Fast and the Furious",
+    "ratings": 6.6,
+    "sentiment": 0.39
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "ratings": 7.3,
+    "sentiment": 0.34
+  },
+  {
+    "title": "X-Men: First Class",
+    "ratings": 7.1,
+    "sentiment": 0.7
+  },
+  {
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "ratings": 6.6,
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Sorcerer's Apprentice",
+    "ratings": 5.8,
+    "sentiment": 0.13
+  },
+  {
+    "title": "Poseidon",
+    "ratings": 5.5,
+    "sentiment": 0.41
+  },
+  {
+    "title": "Alice Through the Looking Glass",
+    "ratings": 6.5,
+    "sentiment": 0.39
+  },
+  {
+    "title": "Shrek the Third",
+    "ratings": 6,
+    "sentiment": 0.49
+  },
+  {
+    "title": "Warcraft",
+    "ratings": 6.3,
+    "sentiment": 0.13
+  },
+  {
+    "title": "Terminator Genisys",
+    "ratings": 5.8,
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "ratings": 6.2,
+    "sentiment": 0.67
+  },
+  {
+    "title": "Pearl Harbor",
+    "ratings": 6.6,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Transformers",
+    "ratings": 6.6,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Alexander",
+    "ratings": 5.6,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "ratings": 7.4,
+    "sentiment": 0.21
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "ratings": 7.5,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Hancock",
+    "ratings": 6.2,
+    "sentiment": 0.62
+  },
+  {
+    "title": "I Am Legend",
+    "ratings": 6.9,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "ratings": 6.7,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Ratatouille",
+    "ratings": 7.5,
+    "sentiment": 0.99
+  },
+  {
+    "title": "Batman Begins",
+    "ratings": 7.5,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Madagascar: Escape 2 Africa",
+    "ratings": 6.2,
+    "sentiment": 0.2
+  },
+  {
+    "title": "Night at the Museum: Battle of the Smithsonian",
+    "ratings": 5.9,
+    "sentiment": 0.54
+  },
+  {
+    "title": "X-Men Origins: Wolverine",
+    "ratings": 6.2,
+    "sentiment": 0.14
+  },
+  {
+    "title": "The Matrix Revolutions",
+    "ratings": 6.4,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Frozen",
+    "ratings": 7.3,
+    "sentiment": 0.98
+  },
+  {
+    "title": "The Matrix Reloaded",
+    "ratings": 6.7,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Thor: The Dark World",
+    "ratings": 6.8,
+    "sentiment": 0.29
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "ratings": 7.2,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Angels & Demons",
+    "ratings": 6.5,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Thor",
+    "ratings": 6.6,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Bolt",
+    "ratings": 6.3,
+    "sentiment": 0.74
+  },
+  {
+    "title": "G-Force",
+    "ratings": 5.1,
+    "sentiment": 0.06
+  },
+  {
+    "title": "Wrath of the Titans",
+    "ratings": 5.5,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Dark Shadows",
+    "ratings": 5.7,
+    "sentiment": 0.22
+  },
+  {
+    "title": "Mission: Impossible - Rogue Nation",
+    "ratings": 7.1,
+    "sentiment": 0.35
+  },
+  {
+    "title": "The Wolfman",
+    "ratings": 5.5,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Bee Movie",
+    "ratings": 5.7,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "ratings": 6.7,
+    "sentiment": 0.0
+  },
+  {
+    "title": "The Last Airbender",
+    "ratings": 4.7,
+    "sentiment": 0.46
+  },
+  {
+    "title": "Mission: Impossible III",
+    "ratings": 6.5,
+    "sentiment": 0.78
+  },
+  {
+    "title": "White House Down",
+    "ratings": 6.4,
+    "sentiment": 0.27
+  },
+  {
+    "title": "Mars Needs Moms",
+    "ratings": 5.5,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Flushed Away",
+    "ratings": 6,
+    "sentiment": 0.82
+  },
+  {
+    "title": "Pan",
+    "ratings": 5.9,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Mr. Peabody & Sherman",
+    "ratings": 6.7,
+    "sentiment": 0.25
+  },
+  {
+    "title": "Troy",
+    "ratings": 6.9,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "ratings": 6.4,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Die Another Day",
+    "ratings": 5.8,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Ghostbusters",
+    "ratings": 5.3,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Armageddon",
+    "ratings": 6.4,
+    "sentiment": 0.11
+  },
+  {
+    "title": "Men in Black II",
+    "ratings": 6,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Beowulf",
+    "ratings": 5.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "ratings": 6.7,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Mission: Impossible - Ghost Protocol",
+    "ratings": 6.8,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Rise of the Guardians",
+    "ratings": 7.1,
+    "sentiment": 0.8
+  },
+  {
+    "title": "Fun with Dick and Jane",
+    "ratings": 5.9,
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Last Samurai",
+    "ratings": 7.3,
+    "sentiment": 0.41
+  },
+  {
+    "title": "Exodus: Gods and Kings",
+    "ratings": 5.6,
+    "sentiment": 0.2
+  },
+  {
+    "title": "Star Trek",
+    "ratings": 7.4,
+    "sentiment": 0.46
+  },
+  {
+    "title": "Spider-Man",
+    "ratings": 6.8,
+    "sentiment": 0.78
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "ratings": 7.6,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Gods of Egypt",
+    "ratings": 5.3,
+    "sentiment": 0.34
+  },
+  {
+    "title": "Stealth",
+    "ratings": 4.9,
+    "sentiment": 0.26
+  },
+  {
+    "title": "Watchmen",
+    "ratings": 7,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Lethal Weapon 4",
+    "ratings": 6.3,
+    "sentiment": 0.7
+  },
+  {
+    "title": "Hulk",
+    "ratings": 5.3,
+    "sentiment": 0.04
+  },
+  {
+    "title": "G.I. Joe: Retaliation",
+    "ratings": 5.4,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Sahara",
+    "ratings": 5.7,
+    "sentiment": 0.93
+  },
+  {
+    "title": "Final Fantasy: The Spirits Within",
+    "ratings": 5.9,
+    "sentiment": 0.77
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "ratings": 6.6,
+    "sentiment": 0.05
+  },
+  {
+    "title": "The World Is Not Enough",
+    "ratings": 6,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Master and Commander: The Far Side of the World",
+    "ratings": 6.9,
+    "sentiment": 0.71
+  },
+  {
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "ratings": 6.1,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Happy Feet Two",
+    "ratings": 5.8,
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Incredible Hulk",
+    "ratings": 6.1,
+    "sentiment": 0.09
+  },
+  {
+    "title": "The BFG",
+    "ratings": 6,
+    "sentiment": 0.92
+  },
+  {
+    "title": "The Revenant",
+    "ratings": 7.3,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Turbo",
+    "ratings": 6.1,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Rango",
+    "ratings": 6.6,
+    "sentiment": 0.33
+  },
+  {
+    "title": "Penguins of Madagascar",
+    "ratings": 6.5,
+    "sentiment": 0.12
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "ratings": 7.3,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Kung Fu Panda",
+    "ratings": 6.9,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Ant-Man",
+    "ratings": 7,
+    "sentiment": 0.92
+  },
+  {
+    "title": "The Hunger Games: Catching Fire",
+    "ratings": 7.4,
+    "sentiment": 0.92
+  },
+  {
+    "title": "Home",
+    "ratings": 6.8,
+    "sentiment": 0.25
+  },
+  {
+    "title": "War of the Worlds",
+    "ratings": 6.2,
+    "sentiment": 0.49
+  },
+  {
+    "title": "Bad Boys II",
+    "ratings": 6.3,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Puss in Boots",
+    "ratings": 6.4,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Salt",
+    "ratings": 6.2,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Noah",
+    "ratings": 5.6,
+    "sentiment": 0.19
+  },
+  {
+    "title": "The Adventures of Tintin",
+    "ratings": 6.7,
+    "sentiment": 0.23
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "ratings": 7.7,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Australia",
+    "ratings": 6.3,
+    "sentiment": 0.3
+  },
+  {
+    "title": "After Earth",
+    "ratings": 5,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Dinosaur",
+    "ratings": 6.2,
+    "sentiment": 0.22
+  },
+  {
+    "title": "Night at the Museum: Secret of the Tomb",
+    "ratings": 6.1,
+    "sentiment": 0.66
+  },
+  {
+    "title": "Megamind",
+    "ratings": 6.7,
+    "sentiment": 0.26
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "ratings": 7.5,
+    "sentiment": 0.88
+  },
+  {
+    "title": "R.I.P.D.",
+    "ratings": 5.4,
+    "sentiment": 0.39
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "ratings": 7.5,
+    "sentiment": 0.85
+  },
+  {
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "ratings": 6.6,
+    "sentiment": 0.39
+  },
+  {
+    "title": "The Da Vinci Code",
+    "ratings": 6.5,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Rio 2",
+    "ratings": 6.3,
+    "sentiment": 0.58
+  },
+  {
+    "title": "X2",
+    "ratings": 6.8,
+    "sentiment": 0.67
+  },
+  {
+    "title": "Fast Five",
+    "ratings": 7.1,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Sherlock Holmes: A Game of Shadows",
+    "ratings": 7,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Clash of the Titans",
+    "ratings": 5.6,
+    "sentiment": 0.17
+  },
+  {
+    "title": "Total Recall",
+    "ratings": 7.1,
+    "sentiment": 0.47
+  },
+  {
+    "title": "The 13th Warrior",
+    "ratings": 6.4,
+    "sentiment": 0.26
+  },
+  {
+    "title": "The Bourne Legacy",
+    "ratings": 6,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Batman & Robin",
+    "ratings": 4.2,
+    "sentiment": 0.12
+  },
+  {
+    "title": "How the Grinch Stole Christmas",
+    "ratings": 6.2,
+    "sentiment": 0.14
+  },
+  {
+    "title": "The Day After Tomorrow",
+    "ratings": 6.2,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Mission: Impossible II",
+    "ratings": 5.9,
+    "sentiment": 0.08
+  },
+  {
+    "title": "The Perfect Storm",
+    "ratings": 6.2,
+    "sentiment": 0.66
+  },
+  {
+    "title": "Fantastic 4: Rise of the Silver Surfer",
+    "ratings": 5.4,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Life of Pi",
+    "ratings": 7.2,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Ghost Rider",
+    "ratings": 5.2,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Jason Bourne",
+    "ratings": 5.9,
+    "sentiment": 0.32
+  },
+  {
+    "title": "Charlie's Angels: Full Throttle",
+    "ratings": 5.2,
+    "sentiment": 0.13
+  },
+  {
+    "title": "Prometheus",
+    "ratings": 6.3,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Stuart Little 2",
+    "ratings": 5.4,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Elysium",
+    "ratings": 6.4,
+    "sentiment": 0.77
+  },
+  {
+    "title": "The Chronicles of Riddick",
+    "ratings": 6.3,
+    "sentiment": 0.89
+  },
+  {
+    "title": "RoboCop",
+    "ratings": 5.7,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Speed Racer",
+    "ratings": 5.7,
+    "sentiment": 0.78
+  },
+  {
+    "title": "How Do You Know",
+    "ratings": 4.9,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Knight and Day",
+    "ratings": 5.9,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Oblivion",
+    "ratings": 6.4,
+    "sentiment": 0.22
+  },
+  {
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "ratings": 7.1,
+    "sentiment": 0.07
+  },
+  {
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "ratings": 6.4,
+    "sentiment": 0.14
+  },
+  {
+    "title": "Monsters, Inc.",
+    "ratings": 7.5,
+    "sentiment": 0.14
+  },
+  {
+    "title": "The Wolverine",
+    "ratings": 6.3,
+    "sentiment": 0.58
+  },
+  {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "ratings": 6.3,
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Croods",
+    "ratings": 6.8,
+    "sentiment": 0.6
+  },
+  {
+    "title": "Asterix at the Olympic Games",
+    "ratings": 5,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Windtalkers",
+    "ratings": 5.8,
+    "sentiment": 0.34
+  },
+  {
+    "title": "The Huntsman: Winter's War",
+    "ratings": 6,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles",
+    "ratings": 5.8,
+    "sentiment": 0.41
+  },
+  {
+    "title": "Gravity",
+    "ratings": 7.3,
+    "sentiment": 0.01
+  },
+  {
+    "title": "Dante's Peak",
+    "ratings": 5.7,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "ratings": 5.8,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Fantastic Four",
+    "ratings": 4.4,
+    "sentiment": 0.39
+  },
+  {
+    "title": "Night at the Museum",
+    "ratings": 6.3,
+    "sentiment": 0.04
+  },
+  {
+    "title": "San Andreas",
+    "ratings": 6,
+    "sentiment": 0.53
+  },
+  {
+    "title": "Tomorrow Never Dies",
+    "ratings": 6,
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Patriot",
+    "ratings": 6.8,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Ocean's Twelve",
+    "ratings": 6.4,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Mr. & Mrs. Smith",
+    "ratings": 6.5,
+    "sentiment": 0.8
+  },
+  {
+    "title": "Insurgent",
+    "ratings": 6.2,
+    "sentiment": 0.26
+  },
+  {
+    "title": "The Aviator",
+    "ratings": 7,
+    "sentiment": 0.34
+  },
+  {
+    "title": "Gulliver's Travels",
+    "ratings": 4.9,
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Green Hornet",
+    "ratings": 5.5,
+    "sentiment": 0.82
+  },
+  {
+    "title": "300: Rise of an Empire",
+    "ratings": 6.1,
+    "sentiment": 0.88
+  },
+  {
+    "title": "The Smurfs",
+    "ratings": 5.5,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Home on the Range",
+    "ratings": 5.7,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Allegiant",
+    "ratings": 5.9,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Real Steel",
+    "ratings": 6.6,
+    "sentiment": 0.59
+  },
+  {
+    "title": "The Smurfs 2",
+    "ratings": 5.5,
+    "sentiment": 0.99
+  },
+  {
+    "title": "Speed 2: Cruise Control",
+    "ratings": 4.1,
+    "sentiment": 0.07
+  },
+  {
+    "title": "Ender's Game",
+    "ratings": 6.6,
+    "sentiment": 0.34
+  },
+  {
+    "title": "Live Free or Die Hard",
+    "ratings": 6.4,
+    "sentiment": 0.2
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "ratings": 8,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Around the World in 80 Days",
+    "ratings": 5.7,
+    "sentiment": 0.36
+  },
+  {
+    "title": "Ali",
+    "ratings": 6.7,
+    "sentiment": 0.98
+  },
+  {
+    "title": "The Cat in the Hat",
+    "ratings": 4.9,
+    "sentiment": 0.84
+  },
+  {
+    "title": "I, Robot",
+    "ratings": 6.7,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Kingdom of Heaven",
+    "ratings": 6.6,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Stuart Little",
+    "ratings": 5.8,
+    "sentiment": 0.91
+  },
+  {
+    "title": "The Princess and the Frog",
+    "ratings": 6.7,
+    "sentiment": 0.8
+  },
+  {
+    "title": "The Martian",
+    "ratings": 7.6,
+    "sentiment": 0.66
+  },
+  {
+    "title": "The Island",
+    "ratings": 6.5,
+    "sentiment": 0.7
+  },
+  {
+    "title": "Town & Country",
+    "ratings": 3.7,
+    "sentiment": 0.85
+  },
+  {
+    "title": "Gone in Sixty Seconds",
+    "ratings": 6.1,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Gladiator",
+    "ratings": 7.9,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Minority Report",
+    "ratings": 7.1,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "ratings": 7.4,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Casino Royale",
+    "ratings": 7.3,
+    "sentiment": 0.33
+  },
+  {
+    "title": "Planet of the Apes",
+    "ratings": 5.6,
+    "sentiment": 0.14
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "ratings": 7.7,
+    "sentiment": 0.75
+  },
+  {
+    "title": "Public Enemies",
+    "ratings": 6.5,
+    "sentiment": 0.1
+  },
+  {
+    "title": "American Gangster",
+    "ratings": 7.4,
+    "sentiment": 0.17
+  },
+  {
+    "title": "True Lies",
+    "ratings": 6.8,
+    "sentiment": 0.12
+  },
+  {
+    "title": "The Taking of Pelham 1 2 3",
+    "ratings": 6.2,
+    "sentiment": 0.23
+  },
+  {
+    "title": "Little Fockers",
+    "ratings": 5.4,
+    "sentiment": 0.79
+  },
+  {
+    "title": "The Other Guys",
+    "ratings": 6.1,
+    "sentiment": 0.65
+  },
+  {
+    "title": "Eraser",
+    "ratings": 5.6,
+    "sentiment": 0.24
+  },
+  {
+    "title": "Django Unchained",
+    "ratings": 7.8,
+    "sentiment": 0.78
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "ratings": 6.8,
+    "sentiment": 0.42
+  },
+  {
+    "title": "The Emperor's New Groove",
+    "ratings": 7.2,
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Expendables 2",
+    "ratings": 6.1,
+    "sentiment": 0.04
+  },
+  {
+    "title": "National Treasure",
+    "ratings": 6.4,
+    "sentiment": 0.32
+  },
+  {
+    "title": "Eragon",
+    "ratings": 4.9,
+    "sentiment": 0.17
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "ratings": 6.4,
+    "sentiment": 0.67
+  },
+  {
+    "title": "Epic",
+    "ratings": 6.4,
+    "sentiment": 0.39
+  },
+  {
+    "title": "The Tourist",
+    "ratings": 6,
+    "sentiment": 0.78
+  },
+  {
+    "title": "End of Days",
+    "ratings": 5.5,
+    "sentiment": 0.29
+  },
+  {
+    "title": "Blood Diamond",
+    "ratings": 7.3,
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "ratings": 7.9,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Batman Forever",
+    "ratings": 5.2,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Starship Troopers",
+    "ratings": 6.7,
+    "sentiment": 0.13
+  },
+  {
+    "title": "Cloud Atlas",
+    "ratings": 6.6,
+    "sentiment": 0.98
+  },
+  {
+    "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+    "ratings": 6.5,
+    "sentiment": 0.85
+  },
+  {
+    "title": "Catwoman",
+    "ratings": 4.2,
+    "sentiment": 0.53
+  },
+  {
+    "title": "Hercules",
+    "ratings": 5.6,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Treasure Planet",
+    "ratings": 7.2,
+    "sentiment": 0.36
+  },
+  {
+    "title": "Land of the Lost",
+    "ratings": 5.3,
+    "sentiment": 0.79
+  },
+  {
+    "title": "The Expendables 3",
+    "ratings": 6.1,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Point Break",
+    "ratings": 5.5,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Son of the Mask",
+    "ratings": 3.6,
+    "sentiment": 0.5
+  },
+  {
+    "title": "In the Heart of the Sea",
+    "ratings": 6.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Adventures of Pluto Nash",
+    "ratings": 4.4,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Green Zone",
+    "ratings": 6.4,
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Peanuts Movie",
+    "ratings": 6.5,
+    "sentiment": 0.93
+  },
+  {
+    "title": "The Spanish Prisoner",
+    "ratings": 7.1,
+    "sentiment": 0.31
+  },
+  {
+    "title": "The Mummy Returns",
+    "ratings": 6,
+    "sentiment": 0.74
+  },
+  {
+    "title": "Gangs of New York",
+    "ratings": 7.1,
+    "sentiment": 0.51
+  },
+  {
+    "title": "The Flowers of War",
+    "ratings": 7.1,
+    "sentiment": 0.28
+  },
+  {
+    "title": "Surf's Up",
+    "ratings": 5.9,
+    "sentiment": 0.96
+  },
+  {
+    "title": "The Stepford Wives",
+    "ratings": 5.4,
+    "sentiment": 0.62
+  },
+  {
+    "title": "Black Hawk Down",
+    "ratings": 7.2,
+    "sentiment": 0.15
+  },
+  {
+    "title": "The Campaign",
+    "ratings": 5.6,
+    "sentiment": 0.88
+  },
+  {
+    "title": "The Fifth Element",
+    "ratings": 7.3,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Sex and the City 2",
+    "ratings": 5.4,
+    "sentiment": 0.95
+  },
+  {
+    "title": "The Road to El Dorado",
+    "ratings": 7,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Ice Age: Continental Drift",
+    "ratings": 6.2,
+    "sentiment": 0.46
+  },
+  {
+    "title": "Cinderella",
+    "ratings": 6.7,
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Lovely Bones",
+    "ratings": 6.6,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Finding Nemo",
+    "ratings": 7.6,
+    "sentiment": 0.83
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "ratings": 8.1,
+    "sentiment": 0.35
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "ratings": 8,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Seventh Son",
+    "ratings": 5.2,
+    "sentiment": 0.65
+  },
+  {
+    "title": "Lara Croft: Tomb Raider",
+    "ratings": 5.7,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Transcendence",
+    "ratings": 5.9,
+    "sentiment": 0.58
+  },
+  {
+    "title": "Jurassic Park III",
+    "ratings": 5.7,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Rise of the Planet of the Apes",
+    "ratings": 7,
+    "sentiment": 0.88
+  },
+  {
+    "title": "The Spiderwick Chronicles",
+    "ratings": 6.3,
+    "sentiment": 0.71
+  },
+  {
+    "title": "A Good Day to Die Hard",
+    "ratings": 5.2,
+    "sentiment": 0.11
+  },
+  {
+    "title": "The Alamo",
+    "ratings": 5.8,
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Incredibles",
+    "ratings": 7.4,
+    "sentiment": 0.66
+  },
+  {
+    "title": "Cutthroat Island",
+    "ratings": 5.7,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "ratings": 6,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Men in Black",
+    "ratings": 6.9,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Toy Story 2",
+    "ratings": 7.3,
+    "sentiment": 0.89
+  },
+  {
+    "title": "Unstoppable",
+    "ratings": 6.3,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Rush Hour 2",
+    "ratings": 6.4,
+    "sentiment": 0.9
+  },
+  {
+    "title": "What Lies Beneath",
+    "ratings": 6.3,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Cloudy with a Chance of Meatballs",
+    "ratings": 6.5,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "ratings": 6.5,
+    "sentiment": 0.6
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "ratings": 7,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Charlie's Angels",
+    "ratings": 5.6,
+    "sentiment": 0.56
+  },
+  {
+    "title": "The Departed",
+    "ratings": 7.9,
+    "sentiment": 0.46
+  },
+  {
+    "title": "Mulan",
+    "ratings": 7.6,
+    "sentiment": 0.93
+  },
+  {
+    "title": "Tropic Thunder",
+    "ratings": 6.5,
+    "sentiment": 0.43
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "ratings": 7.2,
+    "sentiment": 0.29
+  },
+  {
+    "title": "Die Hard: With a Vengeance",
+    "ratings": 6.9,
+    "sentiment": 0.84
+  },
+  {
+    "title": "Sherlock Holmes",
+    "ratings": 7,
+    "sentiment": 0.14
+  },
+  {
+    "title": "Ben-Hur",
+    "ratings": 5.3,
+    "sentiment": 0.22
+  },
+  {
+    "title": "Atlantis: The Lost Empire",
+    "ratings": 6.7,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Alvin and the Chipmunks: The Road Chip",
+    "ratings": 5.8,
+    "sentiment": 0.21
+  },
+  {
+    "title": "Valkyrie",
+    "ratings": 6.7,
+    "sentiment": 0.15
+  },
+  {
+    "title": "You Don't Mess with the Zohan",
+    "ratings": 5.5,
+    "sentiment": 0.8
+  },
+  {
+    "title": "Pixels",
+    "ratings": 5.6,
+    "sentiment": 0.16
+  },
+  {
+    "title": "A.I. Artificial Intelligence",
+    "ratings": 6.8,
+    "sentiment": 0.84
+  },
+  {
+    "title": "The Haunted Mansion",
+    "ratings": 5.2,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Contact",
+    "ratings": 7.2,
+    "sentiment": 0.82
+  },
+  {
+    "title": "Hollow Man",
+    "ratings": 5.6,
+    "sentiment": 0.11
+  },
+  {
+    "title": "The Interpreter",
+    "ratings": 6.2,
+    "sentiment": 0.36
+  },
+  {
+    "title": "Percy Jackson: Sea of Monsters",
+    "ratings": 5.9,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Lara Croft Tomb Raider: The Cradle of Life",
+    "ratings": 5.5,
+    "sentiment": 0.01
+  },
+  {
+    "title": "Now You See Me 2",
+    "ratings": 6.7,
+    "sentiment": 0.25
+  },
+  {
+    "title": "The Saint",
+    "ratings": 5.9,
+    "sentiment": 0.59
+  },
+  {
+    "title": "Spy Game",
+    "ratings": 6.8,
+    "sentiment": 0.11
+  },
+  {
+    "title": "Mission to Mars",
+    "ratings": 5.7,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Rio",
+    "ratings": 6.5,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Bicentennial Man",
+    "ratings": 6.9,
+    "sentiment": 0.85
+  },
+  {
+    "title": "Volcano",
+    "ratings": 5.2,
+    "sentiment": 0.42
+  },
+  {
+    "title": "The Devil's Own",
+    "ratings": 5.9,
+    "sentiment": 0.35
+  },
+  {
+    "title": "K-19: The Widowmaker",
+    "ratings": 6.1,
+    "sentiment": 0.4
+  },
+  {
+    "title": "Conan the Barbarian",
+    "ratings": 6.6,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Cinderella Man",
+    "ratings": 7.3,
+    "sentiment": 0.6
+  },
+  {
+    "title": "The Nutcracker: The Untold Story",
+    "ratings": 5.4,
+    "sentiment": 0.7
+  },
+  {
+    "title": "Seabiscuit",
+    "ratings": 6.7,
+    "sentiment": 0.71
+  },
+  {
+    "title": "Twister",
+    "ratings": 6.1,
+    "sentiment": 0.13
+  },
+  {
+    "title": "Cast Away",
+    "ratings": 7.5,
+    "sentiment": 0.83
+  },
+  {
+    "title": "Happy Feet",
+    "ratings": 5.9,
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Bourne Supremacy",
+    "ratings": 7.2,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Air Force One",
+    "ratings": 6.2,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Ocean's Eleven",
+    "ratings": 7.2,
+    "sentiment": 0.3
+  },
+  {
+    "title": "The Three Musketeers",
+    "ratings": 5.6,
+    "sentiment": 0.27
+  },
+  {
+    "title": "Hotel Transylvania",
+    "ratings": 6.8,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Enchanted",
+    "ratings": 6.6,
+    "sentiment": 0.99
+  },
+  {
+    "title": "Safe House",
+    "ratings": 6.3,
+    "sentiment": 0.17
+  },
+  {
+    "title": "102 Dalmatians",
+    "ratings": 5.1,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Tower Heist",
+    "ratings": 5.8,
+    "sentiment": 0.26
+  },
+  {
+    "title": "The Holiday",
+    "ratings": 6.7,
+    "sentiment": 0.51
+  },
+  {
+    "title": "Enemy of the State",
+    "ratings": 6.7,
+    "sentiment": 0.25
+  },
+  {
+    "title": "It's Complicated",
+    "ratings": 6.2,
+    "sentiment": 0.85
+  },
+  {
+    "title": "Ocean's Thirteen",
+    "ratings": 6.5,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Open Season",
+    "ratings": 6.1,
+    "sentiment": 0.49
+  },
+  {
+    "title": "Divergent",
+    "ratings": 6.9,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Enemy at the Gates",
+    "ratings": 7.2,
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Rundown",
+    "ratings": 6.4,
+    "sentiment": 0.75
+  },
+  {
+    "title": "Last Action Hero",
+    "ratings": 6.1,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Memoirs of a Geisha",
+    "ratings": 7.3,
+    "sentiment": 0.25
+  },
+  {
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "ratings": 6.1,
+    "sentiment": 0.39
+  },
+  {
+    "title": "Arthur Christmas",
+    "ratings": 6.7,
+    "sentiment": 0.59
+  },
+  {
+    "title": "Meet Joe Black",
+    "ratings": 6.9,
+    "sentiment": 0.51
+  },
+  {
+    "title": "Collateral Damage",
+    "ratings": 5.5,
+    "sentiment": 0.09
+  },
+  {
+    "title": "All That Jazz",
+    "ratings": 7.3,
+    "sentiment": 0.14
+  },
+  {
+    "title": "Mirror Mirror",
+    "ratings": 5.5,
+    "sentiment": 0.55
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "ratings": 7.2,
+    "sentiment": 0.25
+  },
+  {
+    "title": "The Core",
+    "ratings": 5.4,
+    "sentiment": 0.11
+  },
+  {
+    "title": "Nutty Professor II: The Klumps",
+    "ratings": 4.7,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Scooby-Doo",
+    "ratings": 5.4,
+    "sentiment": 0.59
+  },
+  {
+    "title": "Dredd",
+    "ratings": 6.6,
+    "sentiment": 0.89
+  },
+  {
+    "title": "Click",
+    "ratings": 6,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Creepshow",
+    "ratings": 6.7,
+    "sentiment": 0.47
+  },
+  {
+    "title": "Cats & Dogs 2 : The Revenge of Kitty Galore",
+    "ratings": 4.9,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Jumper",
+    "ratings": 5.9,
+    "sentiment": 0.17
+  },
+  {
+    "title": "Hellboy II: The Golden Army",
+    "ratings": 6.5,
+    "sentiment": 0.01
+  },
+  {
+    "title": "Zodiac",
+    "ratings": 7.3,
+    "sentiment": 0.03
+  },
+  {
+    "title": "The 6th Day",
+    "ratings": 5.7,
+    "sentiment": 0.45
+  },
+  {
+    "title": "Bruce Almighty",
+    "ratings": 6.4,
+    "sentiment": 0.44
+  },
+  {
+    "title": "The Expendables",
+    "ratings": 6,
+    "sentiment": 0.51
+  },
+  {
+    "title": "Mission: Impossible",
+    "ratings": 6.7,
+    "sentiment": 0.66
+  },
+  {
+    "title": "The Hunger Games",
+    "ratings": 6.9,
+    "sentiment": 0.4
+  },
+  {
+    "title": "The Hangover Part II",
+    "ratings": 6.2,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Batman Returns",
+    "ratings": 6.6,
+    "sentiment": 0.41
+  },
+  {
+    "title": "Over the Hedge",
+    "ratings": 6.3,
+    "sentiment": 0.23
+  },
+  {
+    "title": "Lilo & Stitch",
+    "ratings": 7.1,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Charlotte's Web",
+    "ratings": 5.8,
+    "sentiment": 0.46
+  },
+  {
+    "title": "Deep Impact",
+    "ratings": 5.9,
+    "sentiment": 0.41
+  },
+  {
+    "title": "RED 2",
+    "ratings": 6.4,
+    "sentiment": 0.35
+  },
+  {
+    "title": "The Longest Yard",
+    "ratings": 6.2,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Alvin and the Chipmunks: Chipwrecked",
+    "ratings": 5.4,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Grown Ups 2",
+    "ratings": 5.8,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Get Smart",
+    "ratings": 6,
+    "sentiment": 0.75
+  },
+  {
+    "title": "Something's Gotta Give",
+    "ratings": 6.3,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Shutter Island",
+    "ratings": 7.8,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Four Christmases",
+    "ratings": 5.3,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Robots",
+    "ratings": 6,
+    "sentiment": 0.55
+  },
+  {
+    "title": "Face/Off",
+    "ratings": 6.8,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Bedtime Stories",
+    "ratings": 5.9,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Road to Perdition",
+    "ratings": 7.3,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Just Go with It",
+    "ratings": 6.3,
+    "sentiment": 0.55
+  },
+  {
+    "title": "Con Air",
+    "ratings": 6.5,
+    "sentiment": 0.07
+  },
+  {
+    "title": "Eagle Eye",
+    "ratings": 6.3,
+    "sentiment": 0.26
+  },
+  {
+    "title": "Cold Mountain",
+    "ratings": 6.7,
+    "sentiment": 0.91
+  },
+  {
+    "title": "The Book of Eli",
+    "ratings": 6.6,
+    "sentiment": 0.35
+  },
+  {
+    "title": "Flubber",
+    "ratings": 5.3,
+    "sentiment": 0.95
+  },
+  {
+    "title": "The Haunting",
+    "ratings": 5.2,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Space Jam",
+    "ratings": 6.5,
+    "sentiment": 0.95
+  },
+  {
+    "title": "The Pink Panther",
+    "ratings": 5.6,
+    "sentiment": 0.09
+  },
+  {
+    "title": "The Day the Earth Stood Still",
+    "ratings": 5.2,
+    "sentiment": 0.46
+  },
+  {
+    "title": "Conspiracy Theory",
+    "ratings": 6.5,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Fury",
+    "ratings": 7.4,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Six Days Seven Nights",
+    "ratings": 5.6,
+    "sentiment": 0.33
+  },
+  {
+    "title": "Yogi Bear",
+    "ratings": 5.2,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Spirit: Stallion of the Cimarron",
+    "ratings": 7.4,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Zookeeper",
+    "ratings": 5.3,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Lost in Space",
+    "ratings": 5,
+    "sentiment": 0.23
+  },
+  {
+    "title": "The Manchurian Candidate",
+    "ratings": 6.2,
+    "sentiment": 0.23
+  },
+  {
+    "title": "D\u00e9j\u00e0 Vu",
+    "ratings": 8,
+    "sentiment": 0.82
+  },
+  {
+    "title": "Hotel Transylvania 2",
+    "ratings": 6.7,
+    "sentiment": 0.47
+  },
+  {
+    "title": "Fantasia 2000",
+    "ratings": 7,
+    "sentiment": 0.94
+  },
+  {
+    "title": "The Time Machine",
+    "ratings": 5.8,
+    "sentiment": 0.49
+  },
+  {
+    "title": "Mighty Joe Young",
+    "ratings": 5.9,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Swordfish",
+    "ratings": 6.1,
+    "sentiment": 0.15
+  },
+  {
+    "title": "The Legend of Zorro",
+    "ratings": 5.9,
+    "sentiment": 0.64
+  },
+  {
+    "title": "What Dreams May Come",
+    "ratings": 6.8,
+    "sentiment": 0.38
+  },
+  {
+    "title": "Little Nicky",
+    "ratings": 5.2,
+    "sentiment": 0.07
+  },
+  {
+    "title": "The Brothers Grimm",
+    "ratings": 5.6,
+    "sentiment": 0.65
+  },
+  {
+    "title": "Mars Attacks!",
+    "ratings": 6.1,
+    "sentiment": 0.88
+  },
+  {
+    "title": "Evolution",
+    "ratings": 6.4,
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Edge",
+    "ratings": 6.7,
+    "sentiment": 0.2
+  },
+  {
+    "title": "Surrogates",
+    "ratings": 5.9,
+    "sentiment": 0.06
+  },
+  {
+    "title": "Thirteen Days",
+    "ratings": 6.9,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Daylight",
+    "ratings": 5.8,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Walking With Dinosaurs",
+    "ratings": 5.2,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Battlefield Earth",
+    "ratings": 3,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Looney Tunes: Back in Action",
+    "ratings": 5.6,
+    "sentiment": 0.81
+  },
+  {
+    "title": "Nine",
+    "ratings": 5.1,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Timeline",
+    "ratings": 5.4,
+    "sentiment": 0.42
+  },
+  {
+    "title": "The Postman",
+    "ratings": 6.1,
+    "sentiment": 0.89
+  },
+  {
+    "title": "Babe: Pig in the City",
+    "ratings": 5.2,
+    "sentiment": 0.71
+  },
+  {
+    "title": "The Last Witch Hunter",
+    "ratings": 5.7,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Red Planet",
+    "ratings": 5.4,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Arthur and the Invisibles",
+    "ratings": 6,
+    "sentiment": 0.41
+  },
+  {
+    "title": "Oceans",
+    "ratings": 7.3,
+    "sentiment": 0.55
+  },
+  {
+    "title": "A Sound of Thunder",
+    "ratings": 4.8,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Pompeii",
+    "ratings": 5.2,
+    "sentiment": 0.99
+  },
+  {
+    "title": "Top Cat Begins",
+    "ratings": 5.3,
+    "sentiment": 0.98
+  },
+  {
+    "title": "A Beautiful Mind",
+    "ratings": 7.7,
+    "sentiment": 0.93
+  },
+  {
+    "title": "The Lion King",
+    "ratings": 8,
+    "sentiment": 0.29
+  },
+  {
+    "title": "Journey 2: The Mysterious Island",
+    "ratings": 5.8,
+    "sentiment": 0.35
+  },
+  {
+    "title": "Cloudy with a Chance of Meatballs 2",
+    "ratings": 6.4,
+    "sentiment": 0.98
+  },
+  {
+    "title": "Red Dragon",
+    "ratings": 6.7,
+    "sentiment": 0.07
+  },
+  {
+    "title": "Hidalgo",
+    "ratings": 6.5,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Jack and Jill",
+    "ratings": 4.1,
+    "sentiment": 0.76
+  },
+  {
+    "title": "2 Fast 2 Furious",
+    "ratings": 6.2,
+    "sentiment": 0.38
+  },
+  {
+    "title": "The Little Prince",
+    "ratings": 7.6,
+    "sentiment": 0.39
+  },
+  {
+    "title": "The Invasion",
+    "ratings": 5.7,
+    "sentiment": 0.44
+  },
+  {
+    "title": "The Adventures of Rocky & Bullwinkle",
+    "ratings": 3.9,
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Secret Life of Pets",
+    "ratings": 5.9,
+    "sentiment": 0.3
+  },
+  {
+    "title": "The League of Extraordinary Gentlemen",
+    "ratings": 5.7,
+    "sentiment": 0.06
+  },
+  {
+    "title": "Despicable Me 2",
+    "ratings": 7,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Independence Day",
+    "ratings": 6.7,
+    "sentiment": 0.33
+  },
+  {
+    "title": "The Lost World: Jurassic Park",
+    "ratings": 6.2,
+    "sentiment": 0.35
+  },
+  {
+    "title": "Madagascar",
+    "ratings": 6.6,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Children of Men",
+    "ratings": 7.4,
+    "sentiment": 0.87
+  },
+  {
+    "title": "X-Men",
+    "ratings": 6.8,
+    "sentiment": 0.34
+  },
+  {
+    "title": "Wanted",
+    "ratings": 6.4,
+    "sentiment": 0.07
+  },
+  {
+    "title": "The Rock",
+    "ratings": 6.9,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Ice Age: The Meltdown",
+    "ratings": 6.5,
+    "sentiment": 0.11
+  },
+  {
+    "title": "50 First Dates",
+    "ratings": 6.6,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Hairspray",
+    "ratings": 6.5,
+    "sentiment": 0.21
+  },
+  {
+    "title": "Exorcist: The Beginning",
+    "ratings": 4.7,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Inspector Gadget",
+    "ratings": 4.3,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Now You See Me",
+    "ratings": 7.3,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Grown Ups",
+    "ratings": 6,
+    "sentiment": 0.91
+  },
+  {
+    "title": "The Terminal",
+    "ratings": 7,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Hotel for Dogs",
+    "ratings": 5.7,
+    "sentiment": 0.43
+  },
+  {
+    "title": "Vertical Limit",
+    "ratings": 5.9,
+    "sentiment": 0.24
+  },
+  {
+    "title": "Charlie Wilson's War",
+    "ratings": 6.5,
+    "sentiment": 0.28
+  },
+  {
+    "title": "Shark Tale",
+    "ratings": 5.8,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Dreamgirls",
+    "ratings": 6.6,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Be Cool",
+    "ratings": 5.4,
+    "sentiment": 0.73
+  },
+  {
+    "title": "Munich",
+    "ratings": 6.9,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Tears of the Sun",
+    "ratings": 6.4,
+    "sentiment": 0.64
+  },
+  {
+    "title": "Killers",
+    "ratings": 5.7,
+    "sentiment": 0.86
+  },
+  {
+    "title": "The Man from U.N.C.L.E.",
+    "ratings": 7.1,
+    "sentiment": 0.01
+  },
+  {
+    "title": "Spanglish",
+    "ratings": 5.8,
+    "sentiment": 0.42
+  },
+  {
+    "title": "Monster House",
+    "ratings": 6.3,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Bandits",
+    "ratings": 6.2,
+    "sentiment": 0.82
+  },
+  {
+    "title": "First Knight",
+    "ratings": 5.9,
+    "sentiment": 0.99
+  },
+  {
+    "title": "Anna and the King",
+    "ratings": 6.4,
+    "sentiment": 0.93
+  },
+  {
+    "title": "Immortals",
+    "ratings": 5.7,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Hostage",
+    "ratings": 6.2,
+    "sentiment": 0.36
+  },
+  {
+    "title": "Titan A.E.",
+    "ratings": 6.3,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Hollywood Homicide",
+    "ratings": 5,
+    "sentiment": 0.64
+  },
+  {
+    "title": "Soldier",
+    "ratings": 6.1,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Carriers",
+    "ratings": 5.8,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Monkeybone",
+    "ratings": 4.3,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Flight of the Phoenix",
+    "ratings": 5.7,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Unbreakable",
+    "ratings": 6.9,
+    "sentiment": 0.06
+  },
+  {
+    "title": "Minions",
+    "ratings": 6.4,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Sucker Punch",
+    "ratings": 5.9,
+    "sentiment": 0.4
+  },
+  {
+    "title": "Snake Eyes",
+    "ratings": 5.8,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Sphere",
+    "ratings": 5.8,
+    "sentiment": 0.97
+  },
+  {
+    "title": "The Angry Birds Movie",
+    "ratings": 5.9,
+    "sentiment": 0.53
+  },
+  {
+    "title": "Fool's Gold",
+    "ratings": 5.4,
+    "sentiment": 0.75
+  },
+  {
+    "title": "Funny People",
+    "ratings": 5.7,
+    "sentiment": 0.92
+  },
+  {
+    "title": "The Kingdom",
+    "ratings": 6.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Talladega Nights: The Ballad of Ricky Bobby",
+    "ratings": 6.2,
+    "sentiment": 0.8
+  },
+  {
+    "title": "Dr. Dolittle 2",
+    "ratings": 4.9,
+    "sentiment": 0.99
+  },
+  {
+    "title": "Braveheart",
+    "ratings": 7.7,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Jarhead",
+    "ratings": 6.6,
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Simpsons Movie",
+    "ratings": 6.9,
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Majestic",
+    "ratings": 6.6,
+    "sentiment": 0.11
+  },
+  {
+    "title": "Driven",
+    "ratings": 4.5,
+    "sentiment": 0.87
+  },
+  {
+    "title": "Two Brothers",
+    "ratings": 6.9,
+    "sentiment": 0.15
+  },
+  {
+    "title": "The Village",
+    "ratings": 6.2,
+    "sentiment": 0.49
+  },
+  {
+    "title": "Doctor Dolittle",
+    "ratings": 5.4,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Signs",
+    "ratings": 6.4,
+    "sentiment": 0.25
+  },
+  {
+    "title": "Shrek 2",
+    "ratings": 6.7,
+    "sentiment": 0.71
+  },
+  {
+    "title": "Cars",
+    "ratings": 6.6,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Runaway Bride",
+    "ratings": 5.7,
+    "sentiment": 0.56
+  },
+  {
+    "title": "xXx",
+    "ratings": 5.8,
+    "sentiment": 0.09
+  },
+  {
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "ratings": 5.8,
+    "sentiment": 0.29
+  },
+  {
+    "title": "Ransom",
+    "ratings": 6.4,
+    "sentiment": 0.49
+  },
+  {
+    "title": "Inglourious Basterds",
+    "ratings": 7.9,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Hook",
+    "ratings": 6.6,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Die Hard 2",
+    "ratings": 6.6,
+    "sentiment": 0.85
+  },
+  {
+    "title": "S.W.A.T.",
+    "ratings": 5.8,
+    "sentiment": 0.71
+  },
+  {
+    "title": "Vanilla Sky",
+    "ratings": 6.5,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Lady in the Water",
+    "ratings": 5.3,
+    "sentiment": 0.93
+  },
+  {
+    "title": "AVP: Alien vs. Predator",
+    "ratings": 5.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "ratings": 5.4,
+    "sentiment": 0.93
+  },
+  {
+    "title": "We Were Soldiers",
+    "ratings": 6.7,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Olympus Has Fallen",
+    "ratings": 6.2,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Star Trek: Insurrection",
+    "ratings": 6.3,
+    "sentiment": 0.72
+  },
+  {
+    "title": "Battle: Los Angeles",
+    "ratings": 5.5,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Big Fish",
+    "ratings": 7.6,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Wolf",
+    "ratings": 6,
+    "sentiment": 0.31
+  },
+  {
+    "title": "War Horse",
+    "ratings": 7,
+    "sentiment": 0.42
+  },
+  {
+    "title": "The Monuments Men",
+    "ratings": 5.8,
+    "sentiment": 0.97
+  },
+  {
+    "title": "The Abyss",
+    "ratings": 7.1,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Wall Street: Money Never Sleeps",
+    "ratings": 5.8,
+    "sentiment": 0.06
+  },
+  {
+    "title": "Dracula Untold",
+    "ratings": 6.2,
+    "sentiment": 0.88
+  },
+  {
+    "title": "The Siege",
+    "ratings": 6,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Stardust",
+    "ratings": 7.1,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Seven Years in Tibet",
+    "ratings": 7,
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Dilemma",
+    "ratings": 5.2,
+    "sentiment": 0.7
+  },
+  {
+    "title": "Bad Company",
+    "ratings": 5.4,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Doom",
+    "ratings": 5,
+    "sentiment": 0.15
+  },
+  {
+    "title": "I Spy",
+    "ratings": 5.2,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Underworld: Awakening",
+    "ratings": 6.1,
+    "sentiment": 0.4
+  },
+  {
+    "title": "Rock of Ages",
+    "ratings": 6,
+    "sentiment": 0.7
+  },
+  {
+    "title": "Hart's War",
+    "ratings": 5.9,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Killer Elite",
+    "ratings": 6.1,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Rollerball",
+    "ratings": 3.4,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Ballistic: Ecks vs. Sever",
+    "ratings": 4.3,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Hard Rain",
+    "ratings": 5.5,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Osmosis Jones",
+    "ratings": 5.9,
+    "sentiment": 0.26
+  },
+  {
+    "title": "Legends of Oz: Dorothy's Return",
+    "ratings": 5.9,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Blackhat",
+    "ratings": 5.1,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Sky Captain and the World of Tomorrow",
+    "ratings": 5.7,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Basic Instinct 2",
+    "ratings": 4.6,
+    "sentiment": 0.47
+  },
+  {
+    "title": "Escape Plan",
+    "ratings": 6.7,
+    "sentiment": 0.4
+  },
+  {
+    "title": "The Legend of Hercules",
+    "ratings": 4.4,
+    "sentiment": 1.0
+  },
+  {
+    "title": "The Sum of All Fears",
+    "ratings": 5.9,
+    "sentiment": 0.24
+  },
+  {
+    "title": "The Twilight Saga: Eclipse",
+    "ratings": 5.8,
+    "sentiment": 0.07
+  },
+  {
+    "title": "The Score",
+    "ratings": 6.7,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Despicable Me",
+    "ratings": 7.1,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Money Train",
+    "ratings": 5.4,
+    "sentiment": 0.42
+  },
+  {
+    "title": "Ted 2",
+    "ratings": 6.2,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Agora",
+    "ratings": 6.9,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Mystery Men",
+    "ratings": 5.7,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Hall Pass",
+    "ratings": 5.4,
+    "sentiment": 0.98
+  },
+  {
+    "title": "The Insider",
+    "ratings": 7.3,
+    "sentiment": 0.71
+  },
+  {
+    "title": "The Finest Hours",
+    "ratings": 6.3,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Body of Lies",
+    "ratings": 6.5,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Dinner for Schmucks",
+    "ratings": 5.5,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Abraham Lincoln: Vampire Hunter",
+    "ratings": 5.5,
+    "sentiment": 0.38
+  },
+  {
+    "title": "Entrapment",
+    "ratings": 6,
+    "sentiment": 0.76
+  },
+  {
+    "title": "The X Files",
+    "ratings": 6.6,
+    "sentiment": 0.21
+  },
+  {
+    "title": "The Last Legion",
+    "ratings": 5,
+    "sentiment": 0.65
+  },
+  {
+    "title": "Saving Private Ryan",
+    "ratings": 7.9,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Need for Speed",
+    "ratings": 6.1,
+    "sentiment": 0.08
+  },
+  {
+    "title": "What Women Want",
+    "ratings": 6.1,
+    "sentiment": 0.42
+  },
+  {
+    "title": "Ice Age",
+    "ratings": 7.1,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Dreamcatcher",
+    "ratings": 5.3,
+    "sentiment": 0.7
+  },
+  {
+    "title": "Lincoln",
+    "ratings": 6.7,
+    "sentiment": 0.23
+  },
+  {
+    "title": "The Matrix",
+    "ratings": 7.9,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Apollo 13",
+    "ratings": 7.3,
+    "sentiment": 0.11
+  },
+  {
+    "title": "The Santa Clause 2",
+    "ratings": 5.5,
+    "sentiment": 0.72
+  },
+  {
+    "title": "Les Mis\u00e9rables",
+    "ratings": 7.1,
+    "sentiment": 0.69
+  },
+  {
+    "title": "You've Got Mail",
+    "ratings": 6.3,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Step Brothers",
+    "ratings": 6.5,
+    "sentiment": 0.09
+  },
+  {
+    "title": "The Mask of Zorro",
+    "ratings": 6.3,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Due Date",
+    "ratings": 6.2,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Unbroken",
+    "ratings": 7.3,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Space Cowboys",
+    "ratings": 6.3,
+    "sentiment": 0.17
+  },
+  {
+    "title": "Cliffhanger",
+    "ratings": 6.1,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Broken Arrow",
+    "ratings": 5.7,
+    "sentiment": 0.46
+  },
+  {
+    "title": "The Kid",
+    "ratings": 6,
+    "sentiment": 0.92
+  },
+  {
+    "title": "World Trade Center",
+    "ratings": 5.9,
+    "sentiment": 0.24
+  },
+  {
+    "title": "Mona Lisa Smile",
+    "ratings": 6.5,
+    "sentiment": 0.71
+  },
+  {
+    "title": "The Dictator",
+    "ratings": 5.9,
+    "sentiment": 0.33
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "ratings": 7.1,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Annie",
+    "ratings": 6,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Focus",
+    "ratings": 6.7,
+    "sentiment": 0.25
+  },
+  {
+    "title": "This Means War",
+    "ratings": 5.9,
+    "sentiment": 0.4
+  },
+  {
+    "title": "Blade: Trinity",
+    "ratings": 5.7,
+    "sentiment": 0.4
+  },
+  {
+    "title": "Red Dawn",
+    "ratings": 6.4,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Primary Colors",
+    "ratings": 6.1,
+    "sentiment": 0.74
+  },
+  {
+    "title": "Resident Evil: Retribution",
+    "ratings": 5.6,
+    "sentiment": 0.82
+  },
+  {
+    "title": "Death Race",
+    "ratings": 6,
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Long Kiss Goodnight",
+    "ratings": 6.5,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Proof of Life",
+    "ratings": 6,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Zathura: A Space Adventure",
+    "ratings": 6.1,
+    "sentiment": 0.74
+  },
+  {
+    "title": "Fight Club",
+    "ratings": 8.3,
+    "sentiment": 0.12
+  },
+  {
+    "title": "We Are Marshall",
+    "ratings": 6.7,
+    "sentiment": 0.64
+  },
+  {
+    "title": "Hudson Hawk",
+    "ratings": 5.4,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Lucky Numbers",
+    "ratings": 4.9,
+    "sentiment": 0.05
+  },
+  {
+    "title": "I, Frankenstein",
+    "ratings": 5,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Oliver Twist",
+    "ratings": 6.7,
+    "sentiment": 0.25
+  },
+  {
+    "title": "Elektra",
+    "ratings": 4.8,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Sin City: A Dame to Kill For",
+    "ratings": 6.3,
+    "sentiment": 0.22
+  },
+  {
+    "title": "Random Hearts",
+    "ratings": 5.3,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Everest",
+    "ratings": 6.7,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Perfume: The Story of a Murderer",
+    "ratings": 7.1,
+    "sentiment": 0.66
+  },
+  {
+    "title": "Austin Powers in Goldmember",
+    "ratings": 5.9,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Astro Boy",
+    "ratings": 6.1,
+    "sentiment": 0.87
+  },
+  {
+    "title": "Jurassic Park",
+    "ratings": 7.6,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Wyatt Earp",
+    "ratings": 6.5,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Clear and Present Danger",
+    "ratings": 6.4,
+    "sentiment": 0.07
+  },
+  {
+    "title": "Dragon Blade",
+    "ratings": 5.9,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Little Man",
+    "ratings": 5.3,
+    "sentiment": 0.12
+  },
+  {
+    "title": "U-571",
+    "ratings": 6.1,
+    "sentiment": 0.07
+  },
+  {
+    "title": "The American President",
+    "ratings": 6.5,
+    "sentiment": 0.83
+  },
+  {
+    "title": "The Love Guru",
+    "ratings": 4.3,
+    "sentiment": 0.88
+  },
+  {
+    "title": "3000 Miles to Graceland",
+    "ratings": 5.8,
+    "sentiment": 0.34
+  },
+  {
+    "title": "The Hateful Eight",
+    "ratings": 7.6,
+    "sentiment": 0.06
+  },
+  {
+    "title": "Blades of Glory",
+    "ratings": 5.9,
+    "sentiment": 0.28
+  },
+  {
+    "title": "Hop",
+    "ratings": 5.5,
+    "sentiment": 0.67
+  },
+  {
+    "title": 300,
+    "ratings": 7,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Meet the Fockers",
+    "ratings": 6.1,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Marley & Me",
+    "ratings": 6.9,
+    "sentiment": 0.69
+  },
+  {
+    "title": "The Green Mile",
+    "ratings": 8.2,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Wild Hogs",
+    "ratings": 5.6,
+    "sentiment": 0.35
+  },
+  {
+    "title": "Chicken Little",
+    "ratings": 5.6,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Gone Girl",
+    "ratings": 7.9,
+    "sentiment": 0.6
+  },
+  {
+    "title": "The Bourne Identity",
+    "ratings": 7.3,
+    "sentiment": 0.06
+  },
+  {
+    "title": "GoldenEye",
+    "ratings": 6.6,
+    "sentiment": 0.06
+  },
+  {
+    "title": "The General's Daughter",
+    "ratings": 6.1,
+    "sentiment": 0.08
+  },
+  {
+    "title": "The Truman Show",
+    "ratings": 7.8,
+    "sentiment": 0.91
+  },
+  {
+    "title": "The Prince of Egypt",
+    "ratings": 6.8,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Daddy Day Care",
+    "ratings": 5.6,
+    "sentiment": 0.33
+  },
+  {
+    "title": "2 Guns",
+    "ratings": 6.6,
+    "sentiment": 0.42
+  },
+  {
+    "title": "Cats & Dogs",
+    "ratings": 5,
+    "sentiment": 0.2
+  },
+  {
+    "title": "The Italian Job",
+    "ratings": 6.6,
+    "sentiment": 0.47
+  },
+  {
+    "title": "Two Weeks Notice",
+    "ratings": 5.9,
+    "sentiment": 0.25
+  },
+  {
+    "title": "Antz",
+    "ratings": 6,
+    "sentiment": 0.26
+  },
+  {
+    "title": "Couples Retreat",
+    "ratings": 5.3,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Days of Thunder",
+    "ratings": 5.9,
+    "sentiment": 0.45
+  },
+  {
+    "title": "Cheaper by the Dozen 2",
+    "ratings": 5.7,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Maze Runner: The Scorch Trials",
+    "ratings": 6.4,
+    "sentiment": 0.87
+  },
+  {
+    "title": "Eat Pray Love",
+    "ratings": 5.8,
+    "sentiment": 0.98
+  },
+  {
+    "title": "The Family Man",
+    "ratings": 6.5,
+    "sentiment": 0.61
+  },
+  {
+    "title": "RED",
+    "ratings": 6.6,
+    "sentiment": 0.53
+  },
+  {
+    "title": "Any Given Sunday",
+    "ratings": 6.8,
+    "sentiment": 0.79
+  },
+  {
+    "title": "The Horse Whisperer",
+    "ratings": 6.7,
+    "sentiment": 0.93
+  },
+  {
+    "title": "Collateral",
+    "ratings": 7,
+    "sentiment": 0.89
+  },
+  {
+    "title": "The Scorpion King",
+    "ratings": 5.3,
+    "sentiment": 0.38
+  },
+  {
+    "title": "Ladder 49",
+    "ratings": 6.2,
+    "sentiment": 0.38
+  },
+  {
+    "title": "Jack Reacher",
+    "ratings": 6.3,
+    "sentiment": 0.46
+  },
+  {
+    "title": "Deep Blue Sea",
+    "ratings": 5.6,
+    "sentiment": 0.32
+  },
+  {
+    "title": "This Is It",
+    "ratings": 6.7,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Contagion",
+    "ratings": 6.2,
+    "sentiment": 0.11
+  },
+  {
+    "title": "Kangaroo Jack",
+    "ratings": 4.3,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Coraline",
+    "ratings": 7.3,
+    "sentiment": 0.45
+  },
+  {
+    "title": "The Happening",
+    "ratings": 4.9,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Man on Fire",
+    "ratings": 7.3,
+    "sentiment": 0.08
+  },
+  {
+    "title": "The Shaggy Dog",
+    "ratings": 4.5,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Starsky & Hutch",
+    "ratings": 5.6,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Jingle All the Way",
+    "ratings": 5.5,
+    "sentiment": 0.3
+  },
+  {
+    "title": "Hellboy",
+    "ratings": 6.5,
+    "sentiment": 0.12
+  },
+  {
+    "title": "A Civil Action",
+    "ratings": 6.1,
+    "sentiment": 0.26
+  },
+  {
+    "title": "ParaNorman",
+    "ratings": 6.7,
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Jackal",
+    "ratings": 6.1,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Paycheck",
+    "ratings": 5.9,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Up Close & Personal",
+    "ratings": 5.9,
+    "sentiment": 0.96
+  },
+  {
+    "title": "The Tale of Despereaux",
+    "ratings": 5.8,
+    "sentiment": 0.99
+  },
+  {
+    "title": "The Tuxedo",
+    "ratings": 5.3,
+    "sentiment": 0.14
+  },
+  {
+    "title": "Under Siege 2: Dark Territory",
+    "ratings": 5.6,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Jack Ryan: Shadow Recruit",
+    "ratings": 5.9,
+    "sentiment": 0.06
+  },
+  {
+    "title": "Joy",
+    "ratings": 6.4,
+    "sentiment": 0.62
+  },
+  {
+    "title": "London Has Fallen",
+    "ratings": 5.8,
+    "sentiment": 0.32
+  },
+  {
+    "title": "Alien: Resurrection",
+    "ratings": 5.9,
+    "sentiment": 0.32
+  },
+  {
+    "title": "Shooter",
+    "ratings": 6.9,
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Boxtrolls",
+    "ratings": 6.6,
+    "sentiment": 0.35
+  },
+  {
+    "title": "Practical Magic",
+    "ratings": 6.3,
+    "sentiment": 0.01
+  },
+  {
+    "title": "The Lego Movie",
+    "ratings": 7.5,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Miss Congeniality 2: Armed and Fabulous",
+    "ratings": 5.3,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Reign of Fire",
+    "ratings": 6,
+    "sentiment": 0.73
+  },
+  {
+    "title": "Gangster Squad",
+    "ratings": 6.2,
+    "sentiment": 0.8
+  },
+  {
+    "title": "Year One",
+    "ratings": 4.6,
+    "sentiment": 0.32
+  },
+  {
+    "title": "Invictus",
+    "ratings": 7,
+    "sentiment": 0.72
+  },
+  {
+    "title": "State of Play",
+    "ratings": 6.7,
+    "sentiment": 0.62
+  },
+  {
+    "title": "Duplicity",
+    "ratings": 5.7,
+    "sentiment": 0.89
+  },
+  {
+    "title": "My Favorite Martian",
+    "ratings": 5.1,
+    "sentiment": 0.46
+  },
+  {
+    "title": "The Sentinel",
+    "ratings": 5.8,
+    "sentiment": 0.14
+  },
+  {
+    "title": "Planet 51",
+    "ratings": 5.6,
+    "sentiment": 0.88
+  },
+  {
+    "title": "Star Trek: Nemesis",
+    "ratings": 6.1,
+    "sentiment": 0.55
+  },
+  {
+    "title": "Intolerable Cruelty",
+    "ratings": 5.8,
+    "sentiment": 0.17
+  },
+  {
+    "title": "Trouble with the Curve",
+    "ratings": 6.6,
+    "sentiment": 0.36
+  },
+  {
+    "title": "Edge of Darkness",
+    "ratings": 6.2,
+    "sentiment": 0.02
+  },
+  {
+    "title": "The Relic",
+    "ratings": 5.8,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Analyze That",
+    "ratings": 5.7,
+    "sentiment": 0.47
+  },
+  {
+    "title": "Righteous Kill",
+    "ratings": 5.9,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Mercury Rising",
+    "ratings": 6,
+    "sentiment": 0.66
+  },
+  {
+    "title": "The Soloist",
+    "ratings": 6.6,
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Legend of Bagger Vance",
+    "ratings": 6.3,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Almost Famous",
+    "ratings": 7.4,
+    "sentiment": 0.84
+  },
+  {
+    "title": "Garfield: A Tail of Two Kitties",
+    "ratings": 5.1,
+    "sentiment": 0.64
+  },
+  {
+    "title": "xXx: State of the Union",
+    "ratings": 4.7,
+    "sentiment": 0.3
+  },
+  {
+    "title": "Priest",
+    "ratings": 5.4,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Sinbad: Legend of the Seven Seas",
+    "ratings": 6.6,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Event Horizon",
+    "ratings": 6.5,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Dragonfly",
+    "ratings": 6.1,
+    "sentiment": 0.1
+  },
+  {
+    "title": "The Black Dahlia",
+    "ratings": 5.7,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Flyboys",
+    "ratings": 6.3,
+    "sentiment": 0.39
+  },
+  {
+    "title": "The Last Castle",
+    "ratings": 7,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Supernova",
+    "ratings": 4.9,
+    "sentiment": 0.21
+  },
+  {
+    "title": "Winter's Tale",
+    "ratings": 6,
+    "sentiment": 0.86
+  },
+  {
+    "title": "The Mortal Instruments: City of Bones",
+    "ratings": 6.2,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Meet Dave",
+    "ratings": 5,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Dark Water",
+    "ratings": 5.3,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Edtv",
+    "ratings": 5.7,
+    "sentiment": 0.6
+  },
+  {
+    "title": "Inkheart",
+    "ratings": 6,
+    "sentiment": 0.58
+  },
+  {
+    "title": "The Spirit",
+    "ratings": 4.7,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Mortdecai",
+    "ratings": 5.4,
+    "sentiment": 0.4
+  },
+  {
+    "title": "In the Name of the King: A Dungeon Siege Tale",
+    "ratings": 4.1,
+    "sentiment": 0.2
+  },
+  {
+    "title": "Beyond Borders",
+    "ratings": 6.7,
+    "sentiment": 0.98
+  },
+  {
+    "title": "The Monkey King 2",
+    "ratings": 6,
+    "sentiment": 0.33
+  },
+  {
+    "title": "The Great Raid",
+    "ratings": 6.8,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Deadpool",
+    "ratings": 7.4,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Holy Man",
+    "ratings": 4.9,
+    "sentiment": 0.5
+  },
+  {
+    "title": "American Sniper",
+    "ratings": 7.4,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Goosebumps",
+    "ratings": 6.2,
+    "sentiment": 0.45
+  },
+  {
+    "title": "Just Like Heaven",
+    "ratings": 6.5,
+    "sentiment": 0.54
+  },
+  {
+    "title": "The Flintstones in Viva Rock Vegas",
+    "ratings": 4.4,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Rambo III",
+    "ratings": 5.7,
+    "sentiment": 0.92
+  },
+  {
+    "title": "Leatherheads",
+    "ratings": 5.7,
+    "sentiment": 0.45
+  },
+  {
+    "title": "The Ridiculous 6",
+    "ratings": 4.9,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Did You Hear About the Morgans?",
+    "ratings": 5.1,
+    "sentiment": 0.15
+  },
+  {
+    "title": "The Internship",
+    "ratings": 6.1,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Resident Evil: Afterlife",
+    "ratings": 5.8,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Red Tails",
+    "ratings": 5.9,
+    "sentiment": 0.13
+  },
+  {
+    "title": "The Devil's Advocate",
+    "ratings": 7.2,
+    "sentiment": 0.5
+  },
+  {
+    "title": "That's My Boy",
+    "ratings": 5.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "DragonHeart",
+    "ratings": 6.4,
+    "sentiment": 0.13
+  },
+  {
+    "title": "After the Sunset",
+    "ratings": 6,
+    "sentiment": 0.9
+  },
+  {
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "ratings": 4.7,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Captain Corelli's Mandolin",
+    "ratings": 5.5,
+    "sentiment": 0.86
+  },
+  {
+    "title": "The Pacifier",
+    "ratings": 5.8,
+    "sentiment": 0.22
+  },
+  {
+    "title": "Walking Tall",
+    "ratings": 6,
+    "sentiment": 0.4
+  },
+  {
+    "title": "Forrest Gump",
+    "ratings": 8.2,
+    "sentiment": 0.99
+  },
+  {
+    "title": "Alvin and the Chipmunks",
+    "ratings": 5.5,
+    "sentiment": 0.64
+  },
+  {
+    "title": "Meet the Parents",
+    "ratings": 6.6,
+    "sentiment": 0.68
+  },
+  {
+    "title": "Pocahontas",
+    "ratings": 6.7,
+    "sentiment": 0.93
+  },
+  {
+    "title": "Superman",
+    "ratings": 6.9,
+    "sentiment": 0.78
+  },
+  {
+    "title": "The Nutty Professor",
+    "ratings": 5.4,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Hitch",
+    "ratings": 6.4,
+    "sentiment": 0.91
+  },
+  {
+    "title": "George of the Jungle",
+    "ratings": 5.4,
+    "sentiment": 0.91
+  },
+  {
+    "title": "American Wedding",
+    "ratings": 6,
+    "sentiment": 0.42
+  },
+  {
+    "title": "Captain Phillips",
+    "ratings": 7.6,
+    "sentiment": 0.71
+  },
+  {
+    "title": "Date Night",
+    "ratings": 5.9,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Casper",
+    "ratings": 6,
+    "sentiment": 0.63
+  },
+  {
+    "title": "The Equalizer",
+    "ratings": 7.1,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Maid in Manhattan",
+    "ratings": 5.6,
+    "sentiment": 0.92
+  },
+  {
+    "title": "Crimson Tide",
+    "ratings": 7,
+    "sentiment": 0.79
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "ratings": 7.7,
+    "sentiment": 0.37
+  },
+  {
+    "title": "Flightplan",
+    "ratings": 6.1,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Disclosure",
+    "ratings": 5.9,
+    "sentiment": 0.34
+  },
+  {
+    "title": "City of Angels",
+    "ratings": 6.4,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "ratings": 7.7,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Bowfinger",
+    "ratings": 6,
+    "sentiment": 0.47
+  },
+  {
+    "title": "Kill Bill: Vol. 2",
+    "ratings": 7.6,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Tango & Cash",
+    "ratings": 6.1,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Death Becomes Her",
+    "ratings": 6.3,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Shanghai Noon",
+    "ratings": 6.2,
+    "sentiment": 0.29
+  },
+  {
+    "title": "Executive Decision",
+    "ratings": 5.8,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Mr. Popper's Penguins",
+    "ratings": 5.7,
+    "sentiment": 0.76
+  },
+  {
+    "title": "The Forbidden Kingdom",
+    "ratings": 6.3,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Free Birds",
+    "ratings": 5.7,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Alien\u00b3",
+    "ratings": 6.2,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Evita",
+    "ratings": 5.9,
+    "sentiment": 0.39
+  },
+  {
+    "title": "Ronin",
+    "ratings": 6.7,
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Ghost and the Darkness",
+    "ratings": 6.4,
+    "sentiment": 0.1
+  },
+  {
+    "title": "Paddington",
+    "ratings": 7,
+    "sentiment": 0.93
+  },
+  {
+    "title": "The Watch",
+    "ratings": 5.3,
+    "sentiment": 0.7
+  },
+  {
+    "title": "The Hunted",
+    "ratings": 6,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Instinct",
+    "ratings": 6.2,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Stuck on You",
+    "ratings": 5.1,
+    "sentiment": 0.85
+  },
+  {
+    "title": "Semi-Pro",
+    "ratings": 5.4,
+    "sentiment": 0.8
+  },
+  {
+    "title": "The Pirates! In an Adventure with Scientists!",
+    "ratings": 6.4,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Changeling",
+    "ratings": 7.3,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Chain Reaction",
+    "ratings": 5.3,
+    "sentiment": 0.12
+  },
+  {
+    "title": "The Fan",
+    "ratings": 5.7,
+    "sentiment": 0.2
+  },
+  {
+    "title": "The Phantom of the Opera",
+    "ratings": 7,
+    "sentiment": 0.33
+  },
+  {
+    "title": "Elizabeth: The Golden Age",
+    "ratings": 6.6,
+    "sentiment": 0.18
+  },
+  {
+    "title": "\u00c6on Flux",
+    "ratings": 5.4,
+    "sentiment": 0.17
+  },
+  {
+    "title": "Gods and Generals",
+    "ratings": 6.1,
+    "sentiment": 0.29
+  },
+  {
+    "title": "Turbulence",
+    "ratings": 5.2,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Imagine That",
+    "ratings": 5.7,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Muppets Most Wanted",
+    "ratings": 6.2,
+    "sentiment": 0.73
+  },
+  {
+    "title": "Thunderbirds",
+    "ratings": 4.2,
+    "sentiment": 0.62
+  },
+  {
+    "title": "Burlesque",
+    "ratings": 6.9,
+    "sentiment": 0.97
+  },
+  {
+    "title": "A Very Long Engagement",
+    "ratings": 7.1,
+    "sentiment": 0.01
+  },
+  {
+    "title": "Lolita",
+    "ratings": 7.3,
+    "sentiment": 0.39
+  },
+  {
+    "title": "D-Tox",
+    "ratings": 5.3,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Blade II",
+    "ratings": 6.2,
+    "sentiment": 0.67
+  },
+  {
+    "title": "Seven Pounds",
+    "ratings": 7.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Bullet to the Head",
+    "ratings": 5.2,
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Godfather: Part III",
+    "ratings": 7.1,
+    "sentiment": 0.39
+  },
+  {
+    "title": "Elizabethtown",
+    "ratings": 6.1,
+    "sentiment": 0.11
+  },
+  {
+    "title": "You, Me and Dupree",
+    "ratings": 5.4,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Superman II",
+    "ratings": 6.5,
+    "sentiment": 0.59
+  },
+  {
+    "title": "Gigli",
+    "ratings": 3.5,
+    "sentiment": 0.66
+  },
+  {
+    "title": "All the King's Men",
+    "ratings": 5.7,
+    "sentiment": 0.66
+  },
+  {
+    "title": "Shaft",
+    "ratings": 5.5,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Anastasia",
+    "ratings": 7.4,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Moulin Rouge!",
+    "ratings": 7.4,
+    "sentiment": 0.98
+  },
+  {
+    "title": "Domestic Disturbance",
+    "ratings": 5.4,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Black Mass",
+    "ratings": 6.3,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Flags of Our Fathers",
+    "ratings": 6.7,
+    "sentiment": 0.3
+  },
+  {
+    "title": "Law Abiding Citizen",
+    "ratings": 7.2,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Grindhouse",
+    "ratings": 6.8,
+    "sentiment": 0.11
+  },
+  {
+    "title": "Beloved",
+    "ratings": 5.9,
+    "sentiment": 0.8
+  },
+  {
+    "title": "Lucky You",
+    "ratings": 5.4,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Catch Me If You Can",
+    "ratings": 7.7,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "ratings": 6.7,
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Break-Up",
+    "ratings": 5.6,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Mamma Mia!",
+    "ratings": 6.4,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Valentine's Day",
+    "ratings": 5.7,
+    "sentiment": 0.4
+  },
+  {
+    "title": "The Dukes of Hazzard",
+    "ratings": 5.1,
+    "sentiment": 0.7
+  },
+  {
+    "title": "The Thin Red Line",
+    "ratings": 7.2,
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Change-Up",
+    "ratings": 5.9,
+    "sentiment": 0.67
+  },
+  {
+    "title": "Man on the Moon",
+    "ratings": 6.9,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Casino",
+    "ratings": 7.8,
+    "sentiment": 0.82
+  },
+  {
+    "title": "From Paris with Love",
+    "ratings": 6.1,
+    "sentiment": 0.91
+  },
+  {
+    "title": "Bulletproof Monk",
+    "ratings": 5.1,
+    "sentiment": 0.11
+  },
+  {
+    "title": "Me, Myself & Irene",
+    "ratings": 6.1,
+    "sentiment": 0.55
+  },
+  {
+    "title": "Barnyard",
+    "ratings": 5.3,
+    "sentiment": 0.19
+  },
+  {
+    "title": "Deck the Halls",
+    "ratings": 5.1,
+    "sentiment": 0.81
+  },
+  {
+    "title": "The Twilight Saga: New Moon",
+    "ratings": 5.6,
+    "sentiment": 0.93
+  },
+  {
+    "title": "Shrek",
+    "ratings": 7.3,
+    "sentiment": 0.62
+  },
+  {
+    "title": "The Adjustment Bureau",
+    "ratings": 6.5,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Robin Hood: Prince of Thieves",
+    "ratings": 6.6,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Jerry Maguire",
+    "ratings": 6.7,
+    "sentiment": 0.65
+  },
+  {
+    "title": "Ted",
+    "ratings": 6.3,
+    "sentiment": 0.84
+  },
+  {
+    "title": "As Good as It Gets",
+    "ratings": 7.2,
+    "sentiment": 0.56
+  },
+  {
+    "title": "Patch Adams",
+    "ratings": 7,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Anchorman 2: The Legend Continues",
+    "ratings": 6,
+    "sentiment": 0.6
+  },
+  {
+    "title": "Mr. Deeds",
+    "ratings": 5.6,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Super 8",
+    "ratings": 6.6,
+    "sentiment": 0.07
+  },
+  {
+    "title": "Erin Brockovich",
+    "ratings": 7.1,
+    "sentiment": 0.1
+  },
+  {
+    "title": "How to Lose a Guy in 10 Days",
+    "ratings": 6.3,
+    "sentiment": 0.96
+  },
+  {
+    "title": "22 Jump Street",
+    "ratings": 7,
+    "sentiment": 0.96
+  },
+  {
+    "title": "Interview with the Vampire",
+    "ratings": 7.2,
+    "sentiment": 0.24
+  },
+  {
+    "title": "Yes Man",
+    "ratings": 6.4,
+    "sentiment": 0.88
+  },
+  {
+    "title": "Central Intelligence",
+    "ratings": 6.2,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Stepmom",
+    "ratings": 6.9,
+    "sentiment": 0.62
+  },
+  {
+    "title": "Daddy's Home",
+    "ratings": 5.8,
+    "sentiment": 0.89
+  },
+  {
+    "title": "Into the Woods",
+    "ratings": 5.6,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Inside Man",
+    "ratings": 7.3,
+    "sentiment": 0.08
+  },
+  {
+    "title": "Payback",
+    "ratings": 6.7,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Congo",
+    "ratings": 5,
+    "sentiment": 0.1
+  },
+  {
+    "title": "We Bought a Zoo",
+    "ratings": 6.5,
+    "sentiment": 0.39
+  },
+  {
+    "title": "Knowing",
+    "ratings": 5.9,
+    "sentiment": 0.61
+  },
+  {
+    "title": "Failure to Launch",
+    "ratings": 5.5,
+    "sentiment": 0.99
+  },
+  {
+    "title": "The Ring Two",
+    "ratings": 5.4,
+    "sentiment": 0.18
+  },
+  {
+    "title": "Crazy, Stupid, Love.",
+    "ratings": 7,
+    "sentiment": 0.98
+  },
+  {
+    "title": "Garfield",
+    "ratings": 5.2,
+    "sentiment": 0.87
+  },
+  {
+    "title": "Christmas with the Kranks",
+    "ratings": 5.2,
+    "sentiment": 0.83
+  },
+  {
+    "title": "Moneyball",
+    "ratings": 7,
+    "sentiment": 0.79
+  },
+  {
+    "title": "Outbreak",
+    "ratings": 6.3,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Non-Stop",
+    "ratings": 6.8,
+    "sentiment": 0.2
+  },
+  {
+    "title": "Race to Witch Mountain",
+    "ratings": 5.5,
+    "sentiment": 0.39
+  },
+  {
+    "title": "V for Vendetta",
+    "ratings": 7.7,
+    "sentiment": 0.45
+  },
+  {
+    "title": "Shanghai Knights",
+    "ratings": 6,
+    "sentiment": 0.12
+  },
+  {
+    "title": "Curious George",
+    "ratings": 6.2,
+    "sentiment": 0.94
+  },
+  {
+    "title": "Herbie Fully Loaded",
+    "ratings": 5.1,
+    "sentiment": 0.54
+  },
+  {
+    "title": "Don't Say a Word",
+    "ratings": 6,
+    "sentiment": 0.03
+  },
+  {
+    "title": "Hansel & Gretel: Witch Hunters",
+    "ratings": 5.7,
+    "sentiment": 0.28
+  },
+  {
+    "title": "Unfaithful",
+    "ratings": 6.3,
+    "sentiment": 0.24
+  },
+  {
+    "title": "I Am Number Four",
+    "ratings": 5.9,
+    "sentiment": 0.69
+  },
+  {
+    "title": "Syriana",
+    "ratings": 6.3,
+    "sentiment": 0.12
+  },
+  {
+    "title": "13 Hours: The Secret Soldiers of Benghazi",
+    "ratings": 7,
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Book of Life",
+    "ratings": 7.3,
+    "sentiment": 0.86
+  },
+  {
+    "title": "Firewall",
+    "ratings": 5.6,
+    "sentiment": 0.44
+  },
+  {
+    "title": "Absolute Power",
+    "ratings": 6.4,
+    "sentiment": 0.12
+  },
+  {
+    "title": "G.I. Jane",
+    "ratings": 6,
+    "sentiment": 0.46
+  },
+  {
+    "title": "The Game",
+    "ratings": 7.5,
+    "sentiment": 0.88
+  },
+  {
+    "title": "Silent Hill",
+    "ratings": 6.3,
+    "sentiment": 0.04
+  },
+  {
+    "title": "The Replacements",
+    "ratings": 6.1,
+    "sentiment": 0.24
+  },
+  {
+    "title": "American Reunion",
+    "ratings": 6.1,
+    "sentiment": 0.96
+  },
+  {
+    "title": "The Negotiator",
+    "ratings": 6.8,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Into the Storm",
+    "ratings": 5.8,
+    "sentiment": 0.13
+  },
+  {
+    "title": "Beverly Hills Cop III",
+    "ratings": 5.5,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Gremlins 2: The New Batch",
+    "ratings": 6.2,
+    "sentiment": 0.05
+  },
+  {
+    "title": "The Judge",
+    "ratings": 7.2,
+    "sentiment": 0.18
+  },
+  {
+    "title": "The Peacemaker",
+    "ratings": 5.8,
+    "sentiment": 0.29
+  },
+  {
+    "title": "Resident Evil: Apocalypse",
+    "ratings": 6.1,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Bridget Jones: The Edge of Reason",
+    "ratings": 6.1,
+    "sentiment": 0.09
+  },
+  {
+    "title": "Out of Time",
+    "ratings": 6.1,
+    "sentiment": 0.82
+  },
+  {
+    "title": "On Deadly Ground",
+    "ratings": 4.5,
+    "sentiment": 0.88
+  },
+  {
+    "title": "The Adventures of Sharkboy and Lavagirl",
+    "ratings": 4.4,
+    "sentiment": 0.89
+  },
+  {
+    "title": "The Beach",
+    "ratings": 6.3,
+    "sentiment": 0.93
+  },
+  {
+    "title": "Raising Helen",
+    "ratings": 5.9,
+    "sentiment": 0.97
+  },
+  {
+    "title": "Ninja Assassin",
+    "ratings": 6.2,
+    "sentiment": 0.3
+  },
+  {
+    "title": "For Love of the Game",
+    "ratings": 6.3,
+    "sentiment": 0.95
+  },
+  {
+    "title": "Striptease",
+    "ratings": 4.4,
+    "sentiment": 0.25
+  },
+  {
+    "title": "Marmaduke",
+    "ratings": 5,
+    "sentiment": 0.89
+  },
+  {
+    "title": "Hereafter",
+    "ratings": 5.8,
+    "sentiment": 0.23
+  },
+  {
+    "title": "Murder by Numbers",
+    "ratings": 6,
+    "sentiment": 0.13
+  },
+  {
+    "title": "Assassins",
+    "ratings": 6,
+    "sentiment": 0.02
+  },
+  {
+    "title": "Hannibal Rising",
+    "ratings": 6,
+    "sentiment": 0.03
+  },
+  {
+    "title": "The Story of Us",
+    "ratings": 5.9,
+    "sentiment": 0.45
+  },
+  {
+    "title": "The Host",
+    "ratings": 6,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Basic",
+    "ratings": 6.2,
+    "sentiment": 0.27
+  },
+  {
+    "title": "Blood Work",
+    "ratings": 6.1,
+    "sentiment": 0.18
+  },
+  {
+    "title": "The International",
+    "ratings": 6,
+    "sentiment": 0.76
+  },
+  {
+    "title": "Escape from L.A.",
+    "ratings": 5.6,
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Iron Giant",
+    "ratings": 7.6,
+    "sentiment": 0.16
+  },
+  {
+    "title": "The Life Aquatic with Steve Zissou",
+    "ratings": 7.1,
+    "sentiment": 0.31
+  },
+  {
+    "title": "Free State of Jones",
+    "ratings": 6.6,
+    "sentiment": 0.06
+  },
+  {
+    "title": "The Life of David Gale",
+    "ratings": 7.3,
+    "sentiment": 0.04
+  },
+  {
+    "title": "Man of the House",
+    "ratings": 5.4,
+    "sentiment": 0.28
+  },
+  {
+    "title": "Run All Night",
+    "ratings": 6.3,
+    "sentiment": 0.15
+  },
+  {
+    "title": "Eastern Promises",
+    "ratings": 7.2,
+    "sentiment": 0.07
+  },
+  {
+    "title": "Into the Blue",
+    "ratings": 5.8,
+    "sentiment": 0.58
+  },
+  {
+    "title": "The Messenger: The Story of Joan of Arc",
+    "ratings": 6.2,
+    "sentiment": 0.25
+  },
+  {
+    "title": "Your Highness",
+    "ratings": 5.2,
+    "sentiment": 0.64
+  },
+  {
+    "title": "Dream House",
+    "ratings": 5.8,
+    "sentiment": 0.05
+  },
+  {
+    "title": "Mad City",
+    "ratings": 5.9,
+    "sentiment": 0.16
+  },
+  {
+    "title": "Baby's Day Out",
+    "ratings": 5.8,
+    "sentiment": 0.95
+  },
+  {
+    "title": "The Scarlet Letter",
+    "ratings": 5.5,
+    "sentiment": 0.27
+  },
+  {
+    "title": "Fair Game",
+    "ratings": 6.5,
+    "sentiment": 0.35
+  },
+  {
+    "title": "Domino",
+    "ratings": 6,
+    "sentiment": 0.5
+  },
+  {
+    "title": "Jade",
+    "ratings": 5.2,
+    "sentiment": 0.51
+  },
+  {
+    "title": "Gamer",
+    "ratings": 5.6,
+    "sentiment": 0.41
+  },
+  {
+    "title": "Beautiful Creatures",
+    "ratings": 5.6,
+    "sentiment": 0.45
+  },
+  {
+    "title": "Death to Smoochy",
+    "ratings": 5.9,
+    "sentiment": 0.45
+  },
+  {
+    "title": "Zoolander 2",
+    "ratings": 4.7,
+    "sentiment": 0.5
+  },
+  {
+    "title": "The Big Bounce",
+    "ratings": 5,
+    "sentiment": 0.76
+  },
+  {
+    "title": "What Planet Are You From?",
+    "ratings": 5.4,
+    "sentiment": 0.8
+  }
+]

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <div>
+        <h2>Movies waiting for rating:</h2>
+        {% if waiting_for_rated_list_empty %}
+            You have not movies to rating...
+        {% else %}
+            {% for movie_to_rating in waiting_for_rated_list %}
+                {{ movie_to_rating.movie_name }}
+                <form method="post">
+                <input type="number" name="movie_id" value="{{ movie_to_rating.movie_id }}" hidden>
+                    <select name="movie_rating">
+                        <option value="1">Like</option>
+                        <option value="0">Neutral</option>
+                        <option value="-1">Unlike</option>
+                    </select>
+                <input type="submit" value="Rating movie!">
+                </form>
+            {% endfor %}
+        {% endif %}
+    </div>
+
+    <div>
+        <h2>Movies rated by you:</h2>
+        {% if rated_movie_list_empty %}
+            You have not rated movies...
+        {% else %}
+            <table>
+                <tr>
+                    <th>Movie name</th>
+                    <th>Your rating</th>
+                </tr>
+                {% for rated_movie in rated_movie_list %}
+                    <tr>
+                        <td>{{ rated_movie.movie_name }}</td>
+                        <td>{{ rated_movie.rating }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+
+        {% endif %}
+    </div>
+
+{% endblock %}
