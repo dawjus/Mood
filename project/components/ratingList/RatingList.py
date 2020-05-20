@@ -56,11 +56,13 @@ def _method_get(request):
                                                 'waiting_for_rated_list_empty': len(waiting_for_rated_list) == 0})
 
 
+
 def _map_rated_movie_to_movie_name_and_user_rating(rated_movie):
     rated_movie_details = MOVIE_STORAGE_SERVICE.get_by_id(rated_movie.get_movie_id())
     movie_rating_str = from_enum_to_string(rated_movie.get_rating())
     if rated_movie_details:
         return MovieNameAndRating(rated_movie.get_movie_id(), rated_movie_details.get_name(), movie_rating_str)
     return MovieNameAndRating(rated_movie.get_movie_id(), "Unknow", movie_rating_str)
+
 
 
