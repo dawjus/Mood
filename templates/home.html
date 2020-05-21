@@ -14,6 +14,8 @@ Hi {{ user.username }}!
 <a href="{% url 'questions' %}">Use app without login</a>
 {% endif %}
 {% if user.is_authenticated %}
+<a href="{% url 'questions' %}">Find me a movie!</a>
+<br />
 <a href="{% url 'rating_list' %}">My movie rating list</a>
 <br />
 <a href="{% url 'movie_list' %}">Movie database</a>
