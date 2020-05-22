@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
+
 <body>
 
 </body>
+
 </html>
 
 {% extends 'base.html' %}
@@ -14,25 +17,25 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-    <h1>All movies is our database:</h1>
-    <table>
-        <tr>
-            <th>Id</th>
-            <th>Movie name</th>
-            <th>TEST: add to rating</th>
-        </tr>
-        {% for movie in movie_collection %}
-            <tr>
-                <td>{{ movie.get_id }}</td>
-                <td>{{ movie.get_name }}</td>
-                <td>
-                    <form method="post">
-                        <input value="{{ movie.get_id }}" name="movie_id" hidden>
-                        <input type="submit" value="Add to rating">
-                    </form>
-                </td>
-            </tr>
-        {% endfor %}
-    </table>
+<h1>All movies is our database:</h1>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Movie name</th>
+        <th>TEST: add to rating</th>
+    </tr>
+    {% for movie in movie_collection %}
+    <tr style="margin: 0.5rem 0 ;">
+        <td>{{ movie.get_id}}</td>
+        <td>{{ movie.get_name }}</td>
+        <td>
+            <form method="post">
+                <input value="{{ movie.get_id }}" name="movie_id" hidden>
+                <input type="submit" value="Add to rating" class="btn btn-primary">
+            </form>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
 
 {% endblock %}

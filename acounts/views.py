@@ -5,6 +5,7 @@ from django.contrib.auth.forms import UserCreationForm
 from django.urls import reverse_lazy
 from django.views import generic
 import json
+from project.filtermovie import filtermovie
 from .forms import GetMoviePreferences
 
 
@@ -37,22 +38,10 @@ def get_results(request):
             'kind': request.POST['kind'],
         }
 
-        overall_sentiment = get_sentiment(result)
+        movies = filtermovie(
+            result['genre'], result['mood'], result['will_lead_to_reflect'], result['lead_to_think'], result['kind'])
 
         context = {
-            'sentiment': overall_sentiment
+            'movies': movies
         }
         return render(request, 'results.html', context)
-
-
-def get_sentiment(value):
-    with open('project/choices.json') as f:
-        file_choices = json.load(f)
-
-    sentiment = 0
-    for question_number in range(1, len(value) + 1):
-        choice = list(filter(
-            lambda choice: choice['fields']['question'] == question_number, file_choices))
-        sentiment += choice[0]['fields']['coefficient']
-
-    return sentiment / len(value)

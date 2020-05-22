@@ -8,7 +8,7 @@
 <form action="{% url 'results' %}" method="POST">
     {% csrf_token %}
     {{ form }}
-    <input type="submit" value="Choose the movie for me">
+    <input type="submit" value="Choose the movie for me" class="btn btn-primary">
 </form>
 
 {% else %}
