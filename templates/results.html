@@ -3,6 +3,19 @@
 
 {% block content %}
 {% csrf_token %}
-{{ sentiment }}
+<h2 style="margin: 0.5rem 0.5rem 2rem;">Movies</h2>
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+    {% for movie in movies %}
+    <form method="post" action="{% url 'rating_list' %}">
+        <div class="card" style="width: 15rem; margin: 1.5rem 1rem;">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Title: {{ movie.title }}</li>
+                <li class="list-group-item">Rating: {{ movie.ratings }} </li>
+                <li class="list-group-item">Genres: {{ movie.genres }} </li>
+            </ul>
+        </div>
+    </form>
+    {% endfor %}
+</div>
 
 {% endblock %}

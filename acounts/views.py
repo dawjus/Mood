@@ -42,6 +42,6 @@ def get_results(request):
             result['genre'], result['mood'], result['will_lead_to_reflect'], result['lead_to_think'], result['kind'])
 
         context = {
-            'sentiment': movies
+            'movies': movies
         }
         return render(request, 'results.html', context)

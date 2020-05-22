@@ -2,22 +2,24 @@
 
 {% block title %}Home{% endblock %}
 
-{% block content %}
-{% if user.is_authenticated %}
-Hi {{ user.username }}!
-<p><a href="{% url 'logout' %}">Logout</a></p>
-{% else %}
-<p>Welcome to MOOD</p>
-<a href="{% url 'signup' %}">Sign up</a>
-<a href="{% url 'login' %}">Login</a>
-<br />
-<a href="{% url 'questions' %}">Use app without login</a>
-{% endif %}
-{% if user.is_authenticated %}
-<a href="{% url 'questions' %}">Find me a movie!</a>
-<br />
-<a href="{% url 'rating_list' %}">My movie rating list</a>
-<br />
-<a href="{% url 'movie_list' %}">Movie database</a>
-{% endif %}
-{% endblock %}
+<div class="container home">
+    {% block content %}
+    {% if user.is_authenticated %}
+    <h2> Welcome {{ user.username }}! </h2>
+    <a {% else %} <h1 class="">MOOD</h1>
+        <a href="{% url 'login' %}" class="btn btn-primary">Login</a>
+        <a href="{% url 'signup' %}" class="btn btn-light">Sign up</a>
+        <br />
+        <a href="{% url 'questions' %}" class="btn btn-light">Use app without login</a>
+        {% endif %}
+        {% if user.is_authenticated %}
+        <br />
+        <a href="{% url 'questions' %}" class="btn btn-primary">Find me a movie!</a>
+        <br />
+        <a href="{% url 'rating_list' %}" class="btn btn-light">My movie rating list</a>
+        <a href="{% url 'movie_list' %}" class="btn btn-light">Movie database</a>
+        </br>
+        <a href="{% url 'logout' %}" class="btn btn-light">Logout</a>
+        {% endif %}
+        {% endblock %}
+</div>
