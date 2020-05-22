@@ -94,7 +94,7 @@
         "pk": 11,
         "fields": {
             "question": 2,
-            "choice_text": "historical",
+            "choice_text": "history",
             "coefficient": 0.8
         }
     },
@@ -103,7 +103,7 @@
         "pk": 12,
         "fields": {
             "question": 2,
-            "choice_text": "philosophical",
+            "choice_text": "adventure",
             "coefficient": 0.2
         }
     },
